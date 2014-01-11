@@ -1,7 +1,5 @@
 Stage 1:
 
-and inline markup over page boundaries: </(\w+)>(\n+[^\n]+\n+ *)<\1>
-
 Check and treat all block markup (/* and /#)
 	Change to /P or /F etc if required
 	Apply specific margin values if required
