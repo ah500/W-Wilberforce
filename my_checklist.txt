@@ -1,6 +1,5 @@
 Stage 1:
 
-Search for block markup over page boundaries. E.g. search \n([\*#])/(\n+[^\n]+\n+)/\1\n
 and inline markup over page boundaries: </(\w+)>(\n+[^\n]+\n+ *)<\1>
 
 Check and treat all block markup (/* and /#)
@@ -196,3 +195,4 @@ http://www.pgdp.net/wiki/Post-Processing_Advice#ppg
 My notes:
 
 Make sure there are 2 blank lines between each letter.
+Remove or check for consistency of block quote markup around letters?
