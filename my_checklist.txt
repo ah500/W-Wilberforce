@@ -1,12 +1,5 @@
 Stage 1:
 
-
-Find a nice looking project from the PP page
-Check it out
-select notifications for e.g. posted to PG
-save all inllustrations in /images subfolder
-Download the project files and unzip into a project folder
-Copy this list of instructions into your project folder
 Read the project notes - note any issues at the bottom of this file or in a seperate file
 Read the forum - note any issues
 Check that all the images are there
