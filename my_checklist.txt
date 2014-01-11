@@ -1,8 +1,5 @@
 Stage 1:
 
-Check that all the images are there
-And all the pages!
-
 Search for block markup over page boundaries. E.g. search \n([\*#])/(\n+[^\n]+\n+)/\1\n
 and inline markup over page boundaries: </(\w+)>(\n+[^\n]+\n+ *)<\1>
 
