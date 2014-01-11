@@ -40,13 +40,11 @@ BURT FRANKLIN: RESEARCH SOURCE WORKS SERIES #174
 
 BURT FRANKLIN
 NEW YORK
-*/
 -----File: 004.png---\a\a\a\a\a\--
 
 
 
 
-/*
 Published By
 BURT FRANKLIN
 235 East 44th St.
@@ -3642,9 +3640,7 @@ Popery, and by carrying their point in their new
 character, to exonerate the Cabinet of the charge;
 and are they to re-occupy their posts when there
 are no farther measures to be carried by them in
-#/
 -----File: 127.png---\a\a\a\a\a\--
-/#
 their unresponsible situations? All this I foresaw,
 though not perhaps in the detail; and, indeed, it
 required no prophet's eye to foresee it, when hints
@@ -3676,7 +3672,6 @@ picture.
 
 "I will trouble you no farther now except to
 -----File: 128.png---\a\a\a\a\a\--
-/#
 desire that you will not charge me with defective
 candour; the things that are already done will
 surely too clearly justify whatever inference I have
@@ -3692,11 +3687,7 @@ and purchase favour to themselves.
 "Most fervently yours,
 "W. B."
 */
-#/
 
-<tb>
-
-/#
 
 /*
 <i>Lord Hardwicke to Mr. Wilberforce.</i>
@@ -3719,7 +3710,6 @@ when they see the United Parliament as attentive
 to Irish as they have been to British interests,
 and disposed to promote them by the same liberal
 encouragement, that whatever partial dissatisfaction
-#/
 -----File: 129.png---\a\a\a\a\a\--
 may remain will gradually wear off. If the French
 do not succeed in landing a considerable body
@@ -5368,10 +5358,7 @@ From exile, public sale, and slav'ry's chain.
 Fear not lest labour such as thine be vain.
     Thou hast achieved a part--hast gained the ear
 Of Britain's senate to thy glorious cause;
-*/
 -----File: 177.png---\a\a\a\a\a\--
-
-/*
 Hope smiles, joy springs, and though cold caution pause
     And weave delay, the better hour is near
     That shall remunerate thy toils severe
