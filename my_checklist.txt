@@ -1,0 +1,205 @@
+Stage 1:
+
+
+Find a nice looking project from the PP page
+Check it out
+select notifications for e.g. posted to PG
+save all inllustrations in /images subfolder
+Download the project files and unzip into a project folder
+Copy this list of instructions into your project folder
+Read the project notes - note any issues at the bottom of this file or in a seperate file
+Read the forum - note any issues
+Check that all the images are there
+And all the pages!
+
+Search for block markup over page boundaries. E.g. search \n([\*#])/(\n+[^\n]+\n+)/\1\n
+and inline markup over page boundaries: </(\w+)>(\n+[^\n]+\n+ *)<\1>
+
+Check and treat all block markup (/* and /#)
+	Change to /P or /F etc if required
+	Apply specific margin values if required
+	Check consisten indentation - USE MONOSPACE FONT
+Format front matter and indexes etc as desired
+Orphaned Markup dialog
+Fix -*
+Fix [** comments
+Check all*: (?<!/)\*(?!/)
+Check for all [
+
+run fixup
+remove end of line spaces
+add page indicators (right click on Lbl at bottom of guiguts)
+remove page separators
+search for ------- and check all separators are gone!
+
+scano checks (from fixup, word freq routine)
+	regex
+	misspelled
+	en-common
+AND/OR pptxt.pl + ppspell (http://www.fadedpage.org/c/ppspell3-r.php)
+
+use jeebies
+use gutcheck
+search oe not marked as [oe]
+word frequency list buttons
+	including em-dashes
+Spell-check
+
+check ellipses
+check for consistant spacing of capitals (A.H. vs A. H. )
+fix sidenotes
+footnotes See here: http://www.pgdp.net/wiki/PPTools/Guiguts/Footnotes and do "First pass" before each action.
+	just check they all have the correct anchore and are at a paragraph break. Putting them in the correct possition happens later
+poetry line numbers
+move image tags to paragraph breaks
+
+balanced markup search: \<(\w+)>\n?[^<]+<(?!/\1>)
+malformed markup: <\w+/>|<[^!\w/]|[^-\w"]>|,/?\w>|</?\w\.|</?>|[^<]/\w+>|</?\w+[^\w> ]
+duplicate words: [^a-zA-ZäöüÄÖÜßáéíóúÁÉÍÓÚàèìòùÀÈÌÒÙøæØÆ]([a-zA-ZäöüÄÖÜßáéíóúÁÉÍÓÚàèìòùÀÈÌÒÙøæØÆ'-]+)[ \n]+\1[^a-zA-ZäöüÄÖÜßáéíóúÁÉÍÓÚàèìòùÀÈÌÒÙøæØÆ]
+add non breaking spaces into abbreviations, ellipses, dashes
+
+Web based checks e.g. ppspell
+
+Check my project notes
+
+*	*	* save ascii backup/html version *	*	*
+
+
+Stage 2:
+
+
+
+convert <tb>
+convert italics to _
+bold to =
+sc to CAPs - <sc>(\n?[^<]+)</sc> to \U$1\E
+check for < or >
+
+beautify ascii tables /*, protect from rewrap with [2,70]
+double check /#
+
+check correct number of blank lines as required (search for >=2 blanks and check each one)
+format image captions
+
+move footnotes to correct location
+if using after paragraph footnotes then indent with 
+/#[2,70]
+[A] footnote
+#/ 
+footnote fixup
+
+greek
+[OE]->Oe [oe]->oe
+remove ^ from superscripts
+any other business
+check my project notes
+Check for [**
+
+pptext
+remove end of line spaces
+save
+rewrap
+	check this is all ok before saving!
+	indent anything which needs protecting from rewrap by a couple of spaces.
+Clear rewrap markers
+
+search for [1-9]-[1-9] and remove the dashes from fractions
+gutcheck
+check my project notes
+search for *
+
+TN, include:   _Underscores_ have been used to indicate _italic_ fonts.
+indent by a couple of spaces.
+spell check
+
+save as correct character coding
+
+prepare sr files with sensible names and no images, zip
+*	*	* upload for smooth reading *	*	*
+
+Stage 3:
+
+
+process images
+save as jpge and try to get under 100KB
+Look on TIA for alternatives if the provided images have problems.
+
+open pre_split file
+rewrap each /P ... P/ section (or if lots rewrap whole book)
+Check for [oe] and replace with &oelig;
+Check for [symbol] and replace appropriately
+move footnotes to correct place (usually bottom of file)
+
+Open HTML palette and choose options
+apply auto HTML conversion
+	save file (with a new name) and view in a browser
+	page through file looking for systematic errors, start over if it's bad!
+
+Start at the top of the document and match each element to the images especially check 
+	front material
+	TOC - try copying from the plain text version and adding <pre> </pre> tags
+	    - or do as a list, e.g. like in sea monsters
+	index 
+	poems
+	chapter headings
+	images - give size of images
+		- regex to put link to big image around images: 
+			search: <img src=("images/[0-9i_]+)_s.jpg"
+			replace: <a href=$1.jpg">\n<img src=$1_s.jpg"
+
+		Then
+			search: title="" />\n
+			replace: title="" />\n</a>\n
+	end material (adverts)
+Try to declare a few hrs and use <hr class= rather than style=
+Remeber that <h1> and <h2> get new pages in kindles... :(
+
+hyperlink (make sure links big enough, espec footnotes)
+	TOC
+	index
+	page references (check for page or see )
+	footnotes
+	TN as required
+
+Write and spell check Transcriber's Note
+format TN
+
+Check title at top of project is correct
+
+Add info for a cover image if available
+
+find orphaned markup (in HTML palette)
+Check my project notes
+Check for [**
+
+remove unwanted css classes
+Check for allcaps smallcaps:
+	search <span class="smcap">(\n*[^a-z<]+)</span> 
+	replace <span class="smcaplc">$1</span>
+	add: .smcaplc  { text-transform: lowercase; font-variant: small-caps; }  to CSS
+
+Check accessability
+
+link checker - removed unused anchors (except page anchors)
+run tidy
+
+HTML validation
+CSS validation
+
+pphtml
+
+apply any fixes found in HTML version to the plain text version
+apply any smooth reading comments to both files
+
+upload finished project
+	create new folder
+	copy in etext files, bin files html files, images dir if needed by html
+	lowercase names only, <short proj name>.html/txt
+	zip
+	upload for verification
+
+
+
+Some useful links: http://www.pgdp.net/wiki/The_Proofreader%27s_Guide_to_EPUB#How_to_Author_HTML_That_Converts_Gracefully_to_EPUB
+http://www.pgdp.net/wiki/Post-Processing_Advice#ppg
+
