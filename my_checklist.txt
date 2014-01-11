@@ -1,7 +1,5 @@
 Stage 1:
 
-Read the project notes - note any issues at the bottom of this file or in a seperate file
-Read the forum - note any issues
 Check that all the images are there
 And all the pages!
 
@@ -196,3 +194,8 @@ upload finished project
 Some useful links: http://www.pgdp.net/wiki/The_Proofreader%27s_Guide_to_EPUB#How_to_Author_HTML_That_Converts_Gracefully_to_EPUB
 http://www.pgdp.net/wiki/Post-Processing_Advice#ppg
 
+
+
+My notes:
+
+Make sure there are 2 blank lines between each letter.
