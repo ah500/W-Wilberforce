@@ -1,9 +1,5 @@
 Stage 1:
 
-Check and treat all block markup (/* and /#)
-	Change to /P or /F etc if required
-	Apply specific margin values if required
-	Check consisten indentation - USE MONOSPACE FONT
 Format front matter and indexes etc as desired
 Orphaned Markup dialog
 Fix -*

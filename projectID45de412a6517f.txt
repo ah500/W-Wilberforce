@@ -21,7 +21,7 @@ FOR THE COUNTY OF YORK][**F1: My browser let me zoom in on the hi-res.  I see "M
 
 
 
-/*
+/F
 Private Papers
 
 of
@@ -56,7 +56,7 @@ LONDON: 1897
 
 
 Printed in U.S.A.
-*/
+F/
 -----File: 005.png---\a\a\a\a\a\--
 
 
@@ -1587,14 +1587,14 @@ of peculiar interest. It was written in 1821, six-*
 as Wilberforce left it. It will no doubt recall to
 the mind of the reader Scott's well-known lines:
 
-*/
+/P
 "With Palinure's undaunted mood,
 Firm at his dangerous post he stood;
 Each call for needful rest repelled
 With dying hand the rudder held
 Till, in his fall, with fateful sway
 The steerage of the realm gave way!"[1]
-/*
+P/
 
 [Footnote 1: "Marmion," Introduction to Canto 1.]
 -----File: 057.png---\a\a\a\a\a\--
@@ -2672,7 +2672,9 @@ especially deserved the gratitude of this House."[1]
 
 <tb>
 
-/*
+[Footnote 1: Rosebery's "Life of Pitt," p. 233.]
+
+/P
 THE PILOT THAT WEATHER'D THE STORM.
 
 (<i>A Song written in 1802.</i>)
@@ -2701,14 +2703,8 @@ Unheeding, unthankful, we bask in the blaze,
   While the beams of the sun in full majesty shine;
 When he sinks into twilight, with fondness we gaze,
   And mark the mild lustre that gilds his decline.
-*/
-
-<tb>
-
-[Footnote 1: Rosebery's "Life of Pitt," p. 233.]
 -----File: 097.png---\a\a\a\a\a\--
 
-/*
 Lo! Pitt, when the course of thy greatness is o'er,
   Thy talents, thy virtues, we fondly recall!
 Now justly we prize thee, when lost we deplore;
@@ -2723,7 +2719,7 @@ And oh! if again the rude whirlwind should rise!
   The dawning of peace should fresh darkness deform,
 The regrets of the good, and the fears of the wise,
   Shall turn to the Pilot that weather'd the storm.[**.?]
-*/
+P/
 -----File: 098.png---\a\a\a\a\a\--
 [Blank Page]
 -----File: 099.png---\a\a\a\a\a\--
@@ -3609,7 +3605,6 @@ at this time and friend of Wilberforce, takes one
 side, and Lord Hardwicke, Viceroy of Ireland, the
 other.
 
-/#
 
 /*
 <i>Dr. Burgh to Mr. Wilberforce.</i>
@@ -3668,7 +3663,6 @@ carrying conditions into execution, and dissolve
 this ill-starred Union, from which no benefit will
 ever flow, but every evil that imagination can
 picture.
-#/
 
 "I will trouble you no farther now except to
 -----File: 128.png---\a\a\a\a\a\--
@@ -5349,7 +5343,7 @@ also of Hayley is not given. They are marked
 
 SONNET.
 
-/*
+/P
 Thy country, Wilberforce, with just disdain,
     Hears thee by cruel men and impious called
     Fanatic, for thy zeal to loose th' enthralled
@@ -5367,13 +5361,13 @@ By peace for Afric fenced with British laws.
     From all the good on earth, and all the Blest above!
 
 <sc>William Cowper.</sc>
-*/
+P/
 
 
 <i>To William Wilberforce, Esqre[** .], on the preceding
 Sonnet.</i>
 
-/*
+/P
 When Virtue saw with brave disdain
 Lucre's infuriate sons profane
   Her Wilberforce's worth;
@@ -5394,9 +5388,10 @@ My fondest love, my prime applause,
 Now shall my favourite Bard be thine:
 My Cowper, guard of glory's shine!
   Shall grave thy merits there."
+P/
 
+/*
 <sc>William Hayley.</sc>
-
 */
 -----File: 178.png---\a\a\a\a\a\--
 [Blank Page]
