@@ -1,6 +1,5 @@
 Stage 1:
 
-Orphaned Markup dialog
 Fix -*
 Fix [** comments
 Check all*: (?<!/)\*(?!/)
