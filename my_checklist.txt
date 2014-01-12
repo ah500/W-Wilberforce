@@ -1,6 +1,5 @@
 Stage 1:
 
-Format front matter and indexes etc as desired
 Orphaned Markup dialog
 Fix -*
 Fix [** comments

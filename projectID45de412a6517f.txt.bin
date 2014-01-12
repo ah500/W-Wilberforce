@@ -1835,7 +1835,7 @@ $::proofers{'305'}[5] = 'a';
 $::operationshash{'Open C:\Users\Anna\Distributed_Proofreaders\PPing\PP_in_progress\PPing\Wilberforce\projectID45de412a6517f.txt'}='2014-01-11 18:25';
 $::operationshash{'Open C:\Users\Anna\Distributed_Proofreaders\PPing\PP_in_progress\PPing\W-Wilberforce\projectID45de412a6517f.txt'}='2014-01-11 19:44';
 
-$::bookmarks[0] = '22.0';
+$::bookmarks[0] = '43.0';
 
 $::pngspath = 'C:\Users\Anna\Distributed_Proofreaders\PPing\PP_in_progress\PPing\W-Wilberforce\page_images\\';
 
