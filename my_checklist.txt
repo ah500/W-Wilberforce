@@ -1,7 +1,5 @@
 Stage 1:
 
-Check for all [
-
 run fixup
 remove end of line spaces
 add page indicators (right click on Lbl at bottom of guiguts)
