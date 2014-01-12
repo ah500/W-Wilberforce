@@ -1,6 +1,5 @@
 Stage 1:
 
-Fix -*
 Fix [** comments
 Check all*: (?<!/)\*(?!/)
 Check for all [

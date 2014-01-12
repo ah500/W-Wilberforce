@@ -5,7 +5,7 @@
  'Pg004' => {'offset' => '43.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
  'Pg005' => {'offset' => '60.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
  'Pg006' => {'offset' => '85.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg007' => {'offset' => '119.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg007' => {'offset' => '115.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
  'Pg008' => {'offset' => '131.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
  'Pg009' => {'offset' => '133.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
  'Pg010' => {'offset' => '152.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
@@ -187,7 +187,7 @@
  'Pg186' => {'offset' => '5505.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
  'Pg187' => {'offset' => '5534.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
  'Pg188' => {'offset' => '5563.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg189' => {'offset' => '5599.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg189' => {'offset' => '5597.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
  'Pg190' => {'offset' => '5633.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
  'Pg191' => {'offset' => '5662.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
  'Pg192' => {'offset' => '5691.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
@@ -1833,9 +1833,12 @@ $::proofers{'305'}[4] = 'a';
 $::proofers{'305'}[5] = 'a';
 
 $::operationshash{'Open C:\Users\Anna\Distributed_Proofreaders\PPing\PP_in_progress\PPing\Wilberforce\projectID45de412a6517f.txt'}='2014-01-11 18:25';
+$::operationshash{'Word Frequency'}='2014-01-12 11:32';
+$::operationshash{'Check emdashes'}='2014-01-12 11:32';
+$::operationshash{'Check hyphens'}='2014-01-12 11:32';
 $::operationshash{'Open C:\Users\Anna\Distributed_Proofreaders\PPing\PP_in_progress\PPing\W-Wilberforce\projectID45de412a6517f.txt'}='2014-01-11 19:44';
 
-$::bookmarks[0] = '43.0';
+$::bookmarks[0] = '3.0';
 
 $::pngspath = 'C:\Users\Anna\Distributed_Proofreaders\PPing\PP_in_progress\PPing\W-Wilberforce\page_images\\';
 

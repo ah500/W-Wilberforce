@@ -111,17 +111,17 @@ men of the time show the many and varied interests
 of Wilberforce's life, and seem to us too valuable
 to remain hidden in obscurity.
 
-The home letters published are from Wilber-*
-
-[Footnote 1: All Pitt's letters are carefully preserved in the library of
-Lavington House with the exception of this series which was
-found in a disused cupboard.]
+The home letters published are from Wilberforce
 -----File: 007.png---\a\a\a\a\a\--
-*force to his daughter Elizabeth, and to his son
+to his daughter Elizabeth, and to his son
 Samuel, afterwards Bishop of Oxford and Winchester.
 The letters to the latter are from the
 collection of 600 letters written by the father to
 the son.
+
+[Footnote 1: All Pitt's letters are carefully preserved in the library of
+Lavington House with the exception of this series which was
+found in a disused cupboard.]
 
 /*
 <sc>A. M. Wilberforce.</sc>
@@ -239,7 +239,7 @@ of an official despatch or a familiar epistle. I
 am very glad to see you write without the assistance
 of a secretary. Perhaps, however, you will
 not be able to read without the assistance of a
-decypherer. At least in compassion to your eye-*sight
+decypherer. At least in compassion to your eyesight
 it is as well for me to try it no further.
 
 /*
@@ -665,14 +665,14 @@ am very glad you like our new Board of Trade,
 which I have long felt to be one of the most
 necessary, and will be now one of the most efficient
 departments of Government. The colony for Botany
-Bay will be much indebted to you for your assist-*
+Bay will be much indebted to you for your assistance
 -----File: 029.png---\a\a\a\a\a\--
 [Blank Page]
 -----File: 030.png---\a\a\a\a\a\--
 
 [Illustration: WILBERFORCE OAK.]
 -----File: 031.png---\a\a\a\a\a\--
-*ance in providing a chaplain. The enclosed will,
+in providing a chaplain. The enclosed will,
 however, show you that its interests have not been
 neglected, as well as that you have a nearer connection
 with them than perhaps you were yourself
@@ -1542,9 +1542,9 @@ prayer of your affectionate and faithful.
 */
 
 
-Here ends the hitherto unpublished correspon-*
+Here ends the hitherto unpublished correspondence
 -----File: 055.png---\a\a\a\a\a\--
-*dence between Pitt and Wilberforce. On the occasion
+between Pitt and Wilberforce. On the occasion
 of Pitt's death, his brother, Lord Chatham,
 writes with regard to his funeral:
 
@@ -1581,9 +1581,9 @@ had unexampled opportunities of gauging the character
 and motives of Pitt, and certainly had no
 strong partisan bias to warp his judgment. His
 matured estimate of Pitt cannot fail therefore to be
-of peculiar interest. It was written in 1821, six-*
+of peculiar interest. It was written in 1821, sixteen
 -----File: 056.png---\a\a\a\a\a\--
-*teen years after Pitt's death, and is printed exactly
+years after Pitt's death, and is printed exactly
 as Wilberforce left it. It will no doubt recall to
 the mind of the reader Scott's well-known lines:
 
@@ -2082,7 +2082,7 @@ most unreserved moments. As he knew I should
 not ask anything of him, and as he reposed so much
 confidence in me as to be persuaded that I should
 
-[Footnote 1: Mr. Wilberforce adds here a pencil note in his own hand-*writing:
+[Footnote 1: Mr. Wilberforce adds here a pencil note in his own handwriting:
 "Remarkable that when I entered York, in order to
 attend a public meeting which was about to take place, there was
 but one gentleman with whom I had the smallest acquaintance,
@@ -2475,9 +2475,9 @@ danger of our being infected with the principles of
 French licentiousness, which might have produced
 among our people a general taint of disloyalty,
 would have been an apprehension not to be
-admitted into the bosom of the most timid poli-*
+admitted into the bosom of the most timid politician;
 -----File: 088.png---\a\a\a\a\a\--
-*tician; while the various reforms which would have
+while the various reforms which would have
 taken place, and the manifest independence of
 Parliament would have generated and ensured in
 the minds of all reasonable men a continually increasing
@@ -2654,17 +2654,17 @@ prescribed to him by others, than selected by himself.[1]
 
 <tb>
 
+[Footnote 1: Here is added in pencil, "2nd Nov. 1821."]
+
 The MS. of Canning's lines on Pitt is amongst
 the Wilberforce Papers; they are so little known
 that no apology is needed for inserting them here.
 Canning wrote them for the feast in honour of Pitt's
 birthday, May 28, 1802. It will be remembered
 that Pitt had resigned in 1801, because the King
-would not accept his Irish policy. A vote of cen-*
-
-[Footnote 1: Here is added in pencil, "2nd Nov. 1821."]
+would not accept his Irish policy. A vote of censure
 -----File: 096.png---\a\a\a\a\a\--
-sure had been moved, and was not merely rejected,
+had been moved, and was not merely rejected,
 but, by an overwhelming majority, it was carried
 "that the Right Hon. William Pitt has rendered
 great and important services to his country, and
@@ -2874,9 +2874,9 @@ of that sort will be as likely as any other to be
 useful now. I think also of importing a cargo
 of corn now, as I did pork on the last occasion, and it
 may be a good thing to encourage others to do the
-same for the supply of their respective neighbour-*
+same for the supply of their respective neighbourhoods,
 -----File: 105.png---\a\a\a\a\a\--
-*hoods, which people will be more disposed to do if Mr.
+which people will be more disposed to do if Mr.
 Pitt should propose the bounty I have alluded to.
 
 "The dry weather during the last twelve days
@@ -3154,9 +3154,9 @@ console you with enclosing Sir George Young's
 note just received. I leave you to say anything
 you please about me to Mrs. Gordon, only let her
 not imagine that I made professions even in the
-middle of a country dance without a perfect deter-*
+middle of a country dance without a perfect determination
 -----File: 113.png---\a\a\a\a\a\--
-*mination to realise them. Remember me affectionately
+to realise them. Remember me affectionately
 to everybody, and
 
 /*
@@ -3770,9 +3770,9 @@ contribute to diffuse the English language, which
 I think is a most important advantage. I have
 thought it my duty to subscribe ten guineas for
 the encouragement of Dr. Stokes, and I believe
-a few subscriptions with what the College pro-*
+a few subscriptions with what the College proposes
 -----File: 131.png---\a\a\a\a\a\--
-*poses to give him, will encourage him to proceed
+to give him, will encourage him to proceed
 with activity; as I have strong assurances that
 he seeks for nothing but indemnity and desires
 no compensation for his time or his labour. I
@@ -3858,9 +3858,9 @@ You can have no conception of the gloom
 which prevails in the minds of thinking people
 in this country. Our Chief Justice and Chief
 Baron, both very sound men and highly esteemed,
-are very strongly affected. The Chief Justice fore-*
+are very strongly affected. The Chief Justice forebodes
 -----File: 134.png---\a\a\a\a\a\--
-*bodes every species of mischief. Lord Norbury,
+every species of mischief. Lord Norbury,
 who is Chief Justice of the Common Pleas, is
 of a lighter turn of mind, and irritated by a gross
 and ridiculous affront in omitting his name in the
@@ -4020,9 +4020,9 @@ but as that is not the case, I must endeavour to do
 as rightly as, with my infirmities of mind I may be
 able to act. I shall see to-day what course the
 matters take, and if my view of the subject leads me
-to determine to vote and I feel it likely to be bene-*
+to determine to vote and I feel it likely to be beneficial
 -----File: 139.png---\a\a\a\a\a\--
-*ficial to converse upon facts, as well as to read all I
+to converse upon facts, as well as to read all I
 can find, I shall seek the benefit you kindly offer me.
 
 /*
@@ -4059,9 +4059,9 @@ I should certainly derive from a communication with
 you upon the important subject mentioned in your
 letter,--if I could do so with convenience to you,
 and without breaking in upon my necessary attendance
-during the sittings at Westminster and Guild-*
+during the sittings at Westminster and Guildhall--and
 -----File: 140.png---\a\a\a\a\a\--
-*hall--and which occupy me from half-past eight to
+which occupy me from half-past eight to
 four or later every day--and on some days I am
 afterwards obliged to attend the House of Lords
 till between five and six. If there be any morning
@@ -4088,9 +4088,9 @@ dear sir, I am almost ashamed to say that I tremble
 at giving their full effect to the impressions which
 the subject naturally makes on my mind, in the first
 view of it, as a man and a Christian. I am frightened
-at the consequences of any innovation upon a long-*
+at the consequences of any innovation upon a long-established
 -----File: 141.png---\a\a\a\a\a\--
-*established practice, at a period so full of danger as
+practice, at a period so full of danger as
 the present. At the same time I cannot well reconcile
 it with the will of God,--and if I was quite clear on
 that head, I should be decided by it, and should not
@@ -4185,9 +4185,9 @@ have been better consulted by accepting the Great
 Seal, and with it a highly efficient place in the public
 Councils--but which I had already refused--indeed
 every view of that kind has been long since more
-than satisfied. I lent myself at the earnest solicita-*
+than satisfied. I lent myself at the earnest solicitation
 -----File: 144.png---\a\a\a\a\a\--
-*tion of others to the great public object of forming
+of others to the great public object of forming
 a strong and united administration, which,
 perhaps, without my consent to accept this situation
 could not, from particular circumstances and
@@ -4216,9 +4216,9 @@ prerogatives of the Crown. I had no particular stain
 upon my private character: in the miscellaneous
 composition of every administration, and of this,
 amongst others, I thought a person such as I might
-be esteemed to be, and on the ground of that estima-*
+be esteemed to be, and on the ground of that estimation
 -----File: 145.png---\a\a\a\a\a\--
-*tion particularly, would be an ingredient not wholly
+particularly, would be an ingredient not wholly
 without its use.
 
 "So it appeared to some of my friends. So it
@@ -4448,7 +4448,7 @@ I know not what all; without the least idea how
 any of these things are to be done, while the
 persons attacking us know how these things are,
 sometimes at least, not done, by the example
-of the numerous countries which they have overrun[**F1 removed hyphen over-run]
+of the numerous countries which they have overrun
 in spite of all such threatened opposition.
 I shall go from here, that is from London, as soon
 as I have settled some necessary business, and see
@@ -4639,7 +4639,7 @@ party feelings prevented us from <i>endeavouring bonâ
 fide</i> to form such a Government as may both protect
 the King, and be fit for these times. They are, I
 believe, as little able to form a separate Government
-as ourselves, unless they mean to re-unite them-*selves
+as ourselves, unless they mean to re-unite themselves
 with those at whose proceedings they were
 so evidently alarmed last year. If they come in
 alone by force, they will have the Catholic question
@@ -5593,11 +5593,9 @@ special blessings of Providence; and there are many
 particulars, though not all, in which I should be
 very glad to have her the object of your imitation.
 I am half asleep from not having had a good night.
-and find myself occasionally writing one word in-*
-
-[Footnote 1: Mr. Wilberforce's second daughter.]
+and find myself occasionally writing one word instead
 -----File: 189.png---\a\a\a\a\a\--
-*stead of another--a slip which I sometimes witness
+of another--a slip which I sometimes witness
 in my dear Lizzy's case; I know not whether it be
 from the same cause, I hope not. For my last
 night's wakefulness arose in part from my thinking
@@ -5617,6 +5615,8 @@ habitually for consolation and peace, and such I
 trust will be more and more the case of my dear
 Elizabeth."
 
+[Footnote 1: Mr. Wilberforce's second daughter.]
+
 The next letter is in a more lively strain and
 explains to Elizabeth the system of Bishop Berkeley.
 
@@ -5629,9 +5629,9 @@ explains to Elizabeth the system of Bishop Berkeley.
 
 "<sc>My dear Lizzy</sc>,--If many intentions to write
 could be admitted as making up one letter, you
-would have to thank me for being so good a corres-*
+would have to thank me for being so good a correspondent.
 -----File: 190.png---\a\a\a\a\a\--
-*pondent. But I fear that this is a mode of calculation
+But I fear that this is a mode of calculation
 that will only come into use, when the system
 of good Bishop Berkeley has become established.
 I cannot explain what this is so well as Robert
@@ -5658,9 +5658,9 @@ us as if these were realities, but that this was all.
 I little intended when I took up my pen to give you
 such a Lecture in Metaphysics. I am sure I have
 had a Lecture, a practical one, on the duty of bearing
-interruptions with good humour. This morn-*
+interruptions with good humour. This morning
 -----File: 191.png---\a\a\a\a\a\--
-*ing (it is now 4 p.m. and dinner taking on the
+(it is now 4 p.m. and dinner taking on the
 table) I took up my pen at 10 o'clock, and my first
 thoughts were naturally drawn to you. Scarcely had
 I finished my first sentence when in came Knowles
@@ -5670,7 +5670,7 @@ and as cordial a shake of the hand he received from
 me as one friend can give to another. But I own I
 began to wish I could be in two places at once. I
 had secured as I thought, several hours of quiet,
-and my eyes happened to be better than for some-*time
+and my eyes happened to be better than for sometime
 past, and I was therefore hoping to pay away
 a great part of my epistolary arrears, when in comes
 my friend, and remains with me between three and
@@ -5991,7 +5991,7 @@ I fear you do not apply to your business with
 energy. This, remember, was your fault at Mr.
 Marsh's, and you alleged, not without plausibility,
 that this arose in a great degree from your wanting
-spirits, in consequence of your having no play-*fellows
+spirits, in consequence of your having no play-fellows
 for your hours of recreation, no schoolmates
 for your season of business. A horse never goes
 -----File: 200.png---\a\a\a\a\a\--
@@ -6204,7 +6204,7 @@ of our pleasures."
 "<sc>My dear Samuel</sc>.--I am sorry to hear that
 your examination is, or part of it at least, disadvantageous
 to you. Does not this arise in part
-from your having stayed with us when your school-*fellows
+from your having stayed with us when your school-fellows
 were at Maisemore? If so, the lesson is
 one which, if my dear boy duly digests it and
 bottles it up for future use, may be a most valuable
@@ -6264,7 +6264,7 @@ scarcely possible to have a fellow-feeling (that is,
 duly to sympathise) with anyone if we are thinking
 much about, and setting our hearts on, getting
 before him, or his not getting before us. This
-disposition of mind, which includes in it an over-*estimation
+disposition of mind, which includes in it an over-estimation
 of the praise of our fellow-creatures, is
 perhaps the most subtle and powerful of all our
 corruptions, and that which costs a real Christian
@@ -6305,9 +6305,9 @@ unto the Lord and not unto men. To enjoy his
 gratifications as allowed to him by his merciful and
 kind Saviour, who knows that we need recreations,
 and when they are neither wrong in kind nor
-excessive in degree they may and should be en-*
+excessive in degree they may and should be enjoyed
 -----File: 209.png---\a\a\a\a\a\--
-*joyed with a grateful recollection of Him who
+with a grateful recollection of Him who
 intends for us still nobler and higher pleasures
 hereafter. This is the very perfection of religion;
 'Whether we eat or drink or whatever we do, do
@@ -7018,9 +7018,9 @@ dearest boy, to watch against every approach to
 inattention in yourself, and to help dear Henry,
 in whom I have remarked the practice, to get
 the better of it. I have always found it a
-great aid in keeping my thoughts from wander-*
+great aid in keeping my thoughts from wandering
 -----File: 230.png---\a\a\a\a\a\--
-*ing at church to repeat the prayers to myself,
+at church to repeat the prayers to myself,
 either in a whisper or mentally, as the minister
 has being going along, and I highly approve of
 making responses, and always when you were
@@ -7170,9 +7170,9 @@ acquaintance. Would it make it more easy for
 you to avoid this, if you were able to allege that I
 had exacted from you a promise to that effect?
 It was not from Robert, but from another person,
-that I heard of him a particular instance of mis-*
+that I heard of him a particular instance of misconduct,
 -----File: 235.png---\a\a\a\a\a\--
-*conduct, which I believe even in the more relaxed
+which I believe even in the more relaxed
 discipline of Cambridge would have drawn on the
 offender exemplary punishment. Such a man must,
 I am sure, be a very dangerous companion. If
@@ -7401,9 +7401,9 @@ before my marriage than after it, it was from denying
 myself many articles which persons in my own rank
 of life and pecuniary circumstances almost universally
 indulged in. Now when I find my income considerably
-decreased on the one hand, and my ex-*
+decreased on the one hand, and my expenses
 -----File: 242.png---\a\a\a\a\a\--
-*penses (from my four sons) greatly increased on
+(from my four sons) greatly increased on
 the other, economy must even be made parsimony,
 which, justly construed, does not in my meaning at
 all exclude generosity."
@@ -7833,9 +7833,9 @@ move in it, without seeing how great a share selfishness
 has in deciding their language and conduct,
 saving themselves trouble or money, &c., &c.
 Happily the objections of worldly parents to their
-children becoming religious are considerably weak-*
+children becoming religious are considerably weakened
 -----File: 255.png---\a\a\a\a\a\--
-*ened since it has pleased God to diffuse serious
+since it has pleased God to diffuse serious
 religion so much through the higher ranks in society:
 they no longer despair, as they once did, of their sons
 and daughters not forming any eligible matrimonial
@@ -8141,9 +8141,9 @@ own self, which it would be desirable for any one to
 possess who was to be placed in so wide and
 populous a field, especially in one so circumstanced
 as this particular place. Then you would be at a
-distance from almost all your friends, which I men-*
+distance from almost all your friends, which I mention
 -----File: 266.png---\a\a\a\a\a\--
-*tion now in reference to the spiritual disadvantages
+now in reference to the spiritual disadvantages
 of the situation, not in relation to your comfort and
 Emily's, in which, however, it may be fairly admitted
 to some weight. Again, <i>I</i> should much regret your
@@ -8208,7 +8208,7 @@ lukewarm, sadly too little urging forward with the
 earnestness that might justly be expected from
 -----File: 268.png---\a\a\a\a\a\--
 those that are contending for an incorruptible
-crown. Did you ever read Owen on spiritual-*mindedness?
+crown. Did you ever read Owen on spiritual-mindedness?
 There are some passages that to
 me appear almost unintelligible (one at least), but
 it is in the main, I think, a highly useful book. I
@@ -8468,7 +8468,7 @@ through the power of the Holy Ghost."
 address myself. An idea, which for so old a fellow
 as myself you will allow somewhat to be deserving
 the praise of brightness, has just struck my mind,
-and I proceed to act upon it. Are you Yorkshire-*man
+and I proceed to act upon it. Are you Yorkshireman
 enough to know the article (an excellent one it
 is) entitled a Christmas, or sometimes a goose or a
 turkey pie? Its composition is this. Take first
@@ -8492,9 +8492,9 @@ in said pie are supplied by the pouring in of the
 jelly. But I begin to be ashamed of this jocoseness
 when I call to mind on what day I am writing--the
 day which, combined with the succeeding one, the
-1st of January, I consider, except perhaps my birth-*day,
+1st of January, I consider, except perhaps my birthday,
 as the most important of the whole year. For
-a long period (as long as I lived in the neighbour-*hood
+a long period (as long as I lived in the neighbourhood
 of the Lock, or rather not far from it) I
 used to receive the Sacrament, which was always
 administered there on New Year's Day. And the
@@ -8513,7 +8513,7 @@ the whole earth, there has been the greatest measure
 of temporal comforts, and of spiritual privileges.
 That it should be also in the eighteenth century,
 for where should I have been, a small, weakly man,
-had I been born either among our painted or skin-*clothed
+had I been born either among our painted or skin-clothed
 ancestors, or in almost any other before or
 after it? As they would have begun by exposing
 me, there need be no more inquiry as to the sequel
@@ -8733,7 +8733,7 @@ assured you), to add that I ascribe this in part to
 the instrumentality of a certain young lady, who
 was a sort of guardian angel hovering around him
 in fancy and exerting a benign influence over the
-sensibility and tenderness of his lively spirit. Fare-*well,
+sensibility and tenderness of his lively spirit. Farewell,
 my dear Emily.
 
 /*
@@ -8829,7 +8829,7 @@ week to pass away without returning answers to
 your kind letters. I have really had as much
 necessary writing on my hands, as even when I was
 member for Yorkshire. But I cannot bear to think
-that you are, day after day, looking out for my hand-*writing
+that you are, day after day, looking out for my handwriting
 (as you are opening your daily packets), and
 looking out in vain. There have been many topics,
 I assure you, on which I should have been glad to
@@ -8960,9 +8960,9 @@ who had been confined of a daughter.
 "The mere circumstance that a new immortal
 being is produced and committed to our keeping is a
 consideration of extreme moment. Though I own
-it sometimes tends to produce emotions of a sadden-*
+it sometimes tends to produce emotions of a saddening
 -----File: 290.png---\a\a\a\a\a\--
-*ing character, to consider into what a world our new
+character, to consider into what a world our new
 grandchild has entered, what stormy seas she will
 have to navigate. I will enclose an interesting
 passage I have received from Tom Babington,
@@ -9277,10 +9277,13 @@ the numerous editions of almost all the publications
 of family prayers, beginning with the
 Rector of St. Botolph's (Bishop of London's)."
 
-
 /*
 "<i>July 12, 1832.</i>
 */
+
+[Footnote 1: Dr. Thomas Rennell: he was appointed in 1805 and was
+succeeded in 1840 by Dr. Garnier.]
+
 
 "Though I do not like to mention it to your
 mother, I feel myself becoming more and more
@@ -9291,12 +9294,9 @@ I am read to, I infallibly subside into a drowsiness,
 which, if not resisted by my getting up and
 walking, or taking for a few minutes the book
 Joseph may be reading to me, gradually slides
-into a state of complete stupor. Yet it is down-*
-
-[Footnote 1: Dr. Thomas Rennell: he was appointed in 1805 and was
-succeeded in 1840 by Dr. Garnier.]
+into a state of complete stupor. Yet it is downright
 -----File: 300.png---\a\a\a\a\a\--
-*right shocking in me to use language which may
+shocking in me to use language which may
 at all subject me justly to the imputation of
 repining. And to be just to myself, I do not
 think I am fairly chargeable with that fault. I
