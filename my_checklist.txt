@@ -1,6 +1,5 @@
 Stage 1:
 
-remove end of line spaces
 add page indicators (right click on Lbl at bottom of guiguts)
 remove page separators
 search for ------- and check all separators are gone!
