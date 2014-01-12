@@ -12,10 +12,8 @@ BURT FRANKLIN: RESEARCH SOURCE WORKS SERIES #174
 WILLIAM WILBERFORCE</i>
 -----File: 002.png---\a\a\a\a\a\--
 
-[Illustration: WILLIAM WILBERFORCE, M P [**P2: the high res scans don't show periods in the abbreviation except for one possible blur, however the rest of the book seems to have them, as "M.P."]
-FOR THE COUNTY OF YORK][**F1: My browser let me zoom in on the hi-res.  I see "M.P." and possibly a '.' after York.]
-
-[**P1 Text sourced from the high resoulution image scans]
+[Illustration: WILLIAM WILBERFORCE, M.P.
+FOR THE COUNTY OF YORK.]
 -----File: 003.png---\a\a\a\a\a\--
 
 
@@ -224,7 +222,7 @@ you. Whenever there is anything to prevent my
 doing as I should wish in consequence, I will tell
 you, so we shall be upon fair terms. I trust you
 
-[Footnote 1: Lord Rosebery's preface to "Pitt and Wilberforce Letters,'[**? mismatched end-quotes]
+[Footnote 1: Lord Rosebery's preface to "Pitt and Wilberforce Letters,"
 privately printed.]
 -----File: 016.png---\a\a\a\a\a\--
 find all possible advantage from sea-bathing and
@@ -634,7 +632,7 @@ are so far overcome that I find myself with
 my pen in my hand to answer your three letters.
 I have seriously had it upon my conscience for
 
-[Footnote 1: "Life of Wilberforce," vol. i.[**period or perhaps comma?] p. 95.]
+[Footnote 1: "Life of Wilberforce," vol. i. p. 95.]
 
 [Footnote 2: Privately printed.]
 -----File: 028.png---\a\a\a\a\a\--
@@ -2718,7 +2716,7 @@ Oh take! for a throne by thy counsels upheld
 And oh! if again the rude whirlwind should rise!
   The dawning of peace should fresh darkness deform,
 The regrets of the good, and the fears of the wise,
-  Shall turn to the Pilot that weather'd the storm.[**.?]
+  Shall turn to the Pilot that weather'd the storm.
 P/
 -----File: 098.png---\a\a\a\a\a\--
 [Blank Page]
@@ -2739,7 +2737,7 @@ of "peace certain and unequivocal on the very terms
 prescribed from hence."</i>
 #/
 
-[Footnote 1: Then Clerk of Parliaments.[**,?] Rose writes to Wilberforce
+[Footnote 1: Then Clerk of Parliaments. Rose writes to Wilberforce
 later: "I shall never find words, either in speaking or writing,
 to express what I think of you."]
 -----File: 101.png---\a\a\a\a\a\--
@@ -3161,7 +3159,7 @@ to everybody, and
 
 /*
 "I remain,
-"Yours sincerely,[**;?]
+"Yours sincerely,
 "<sc>Henry Dundas.</sc>"
 */
 
@@ -3899,7 +3897,7 @@ my last change, which has had the effect of
 making me pay a fine of at least twenty thousand
 pounds for the honour of serving four years
 in a laborious office, separated from my family
-and all my old friends,[** .] I shall return to England,
+and all my old friends, I shall return to England,
 however, with pleasure; for though I shall be
 reduced to practise an economy to which for
 thirty years I have been a stranger, I shall return
@@ -4143,7 +4141,7 @@ impartial discharge of my judicial functions, no consideration
 on earth would have induced me to accept
 it. A member of the Cabinet is only a member of a
 Select Committee of the Privy Council, of which
-Privy Council at large every justice of the K. [**space or not?]B. is of
+Privy Council at large every justice of the K.B. is of
 course a member. In that larger Privy Council his
 Majesty may and frequently does take the opinion
 of its members on matters which may come in question
@@ -4380,7 +4378,7 @@ Buonaparte might, for some reason or other, not
 come; though he confesses that he did not know
 of any foundation for such hope.
 
-[Footnote 1: Wilberforce to Henry Bankes. "Life of W. Wilberforce,"[**.]]
+[Footnote 1: Wilberforce to Henry Bankes. "Life of W. Wilberforce."]
 -----File: 150.png---\a\a\a\a\a\--
 
 
@@ -4611,7 +4609,7 @@ much more finished than I wished, and shall be sent
 to Kensington as soon as Mrs. Ryder has taken a
 slight sketch of it.
 
-"I have, since I received it, taken two journies[**journeys]
+"I have, since I received it, taken two journies
 into Devonshire, upon Maynooth business, and
 have not had, when in town, a spare moment from
 Indian and domestic torments. The history of the
@@ -5364,7 +5362,7 @@ By peace for Afric fenced with British laws.
 P/
 
 
-<i>To William Wilberforce, Esqre[** .], on the preceding
+<i>To William Wilberforce, Esqre, on the preceding
 Sonnet.</i>
 
 /P
@@ -6221,8 +6219,8 @@ his stay was protracted a very little out of self-indulgence
 (as much ours as his), yet it was chiefly
 -----File: 206.png---\a\a\a\a\a\--
 occasioned by the necessity of his going up to
-London on account of his ancle[**typo for ankle?]. (By the way,
-tell me in two words--ancle[**typo for ankle?] better or worse or
+London on account of his ancle. (By the way,
+tell me in two words--ancle better or worse or
 <i>idem.</i>) But my Samuel must not vex himself
 with the idea of falling below the boy who has
 commonly been his competitor, owing to his stay
@@ -6406,7 +6404,7 @@ still less omit them. Farewell, my dearest boy."
 
 
 /*
-"<i>1821.</i>[** F1: Most dates include include italicized month names. For consistency with them, I italicized this.]
+"<i>1821.</i>
 */
 
 "In speaking of the pros and cons of Maisemore,
@@ -6693,7 +6691,7 @@ and other <i>rendezvous</i>, which I have found in myself
 when with agreeable companions, and to prove to
 myself by the decisive test of figures that I was
 not working so hard as I should have supposed
-rom[**from?] a general survey of my day. The grand point
+from a general survey of my day. The grand point
 is to maintain an habitual sense of responsibility and
 to practise self-examination daily as to the past and
 the future day."
@@ -7104,7 +7102,7 @@ in which it may appear necessary to take a
 share on grounds of conformity (where there is
 nothing wrong) to the ordinary customs of life,
 and even on the principle of 'providing things
-honest in the sight of all men"[**should be a '] (honest in the
+honest in the sight of all men' (honest in the
 Greek is [Greek: dikaios]) and not suffering your good to
 be evil spoken of. Now in considering this
 question, I am persuaded I need not begin in
@@ -7428,6 +7426,9 @@ year on charity.
 "<i>December 10, 1824.</i>
 */
 
+[Footnote 1: A single year's almsgiving exceeded £3,000. "Life of
+Bishop Wilberforce," vol. i. p. 22.]
+
 "I have deemed it quite a duty on this delicious
 day to prolong my country walk in a <i>tête-à-tête</i> with
 your dear mother, a <i>tête-à-tête</i>, however, from which
@@ -7436,9 +7437,6 @@ that those who are termed Methodists by the world
 do give more liberally to the distressed than others,
 yet that I think they do not in this duty come up to
 the full demands of Scripture. The great mistake
-
-[Footnote 1: A single year's almsgiving exceeded £3,000. "Life of
-Bishop Wilberforce," vol. i,[** . ] p. 22.]
 -----File: 243.png---\a\a\a\a\a\--
 that prevails as I conceive is, it's being thought
 right that all persons who are received on the
@@ -8301,7 +8299,7 @@ that we are safe; and we do not sufficiently consider
 that we serve a gracious and kind master who is
 willing that we should taste that He is gracious.
 Both in St. John's first general Epistle, and in our
-Lord's declaration in John xv[** not marked 'sc' because similar references use lower-case, dotted 'i', not small 'I' ]., we are assured that
+Lord's declaration in John xv., we are assured that
 our Lord's object and the apostles' in telling us of
 -----File: 271.png---\a\a\a\a\a\--
 our having spiritual supplies and communion, is that
@@ -8379,7 +8377,7 @@ I have often thought that, had it not been for the
 positive declarations of the Holy Scriptures concerning
 the attention of the Almighty Governor of
 the universe to our minutest comforts and interests
-enforced by a comparison with the [Greek: storgê][**?] of parental
+enforced by a comparison with the [Greek: storgê] of parental
 affection, we should not dare to be so presumptuous
 as to believe, that He who rolls the spheres along,
 would condescend thus to sympathise with our
@@ -8484,7 +8482,7 @@ Speaker would say, in the order of our proceeding,
 that this large sheet which I have selected for the
 purpose should contain the united epistles of all the
 family circle, from the fullest grown if not largest in
-dimensions, myself, to the most dimunitive,[**typo? diminutive] little
+dimensions, myself, to the most diminutive, little
 William.[1] As the thought is my own, I will begin
 the execution of it, and if any vacant space should
 remain, I will fill it, just as any orifices left vacant
@@ -8526,7 +8524,7 @@ it to you to supply the rest. And you will likewise,
 I doubt not, pursue the same mental process in your
 own instance also, and find, as may well be the case,
 that the retrospect and prospect afford abundant
-matter for gratitude and humiliation,[** unsure about punctuation, could be a splotch??] (I am sure I
+matter for gratitude and humiliation, (I am sure I
 find the latter most powerfully called forth in my
 heart by my own survey). Many thanks for your
 last kind letter. You have precisely anticipated
@@ -8701,7 +8699,7 @@ drove off about 12 o'clock to spend a few days at
 Mr. Stephen's favourite residence of Healthy Hill,
 as he terms it, Missenden. I really augur well of
 this connection, having strong reasons for believing
-Mr. James to be a truly aimable[**sp: "amiable"?] as well as pious man,
+Mr. James to be a truly amiable as well as pious man,
 and my dear Lizzy is really well fitted for the office
 of a parson's aider and comforter. It has given me
 no little pleasure to have been assured by Mr. Dupré,
@@ -8946,7 +8944,7 @@ that purpose.
 "<i>Friday, 12 o'clock, October 21st.</i>
 */
 
-"Our American friend has left us this morning[**punctuation?]
+"Our American friend has left us this morning
 But, alas! he has requested me to write in his album.
 What a vile system is the album system! No, I do
 not, I cannot think so, though I am somewhat
@@ -9114,7 +9112,7 @@ finding my time so little equal to the
 claims on it as at this place, though were I
 asked 'What are you doing?' I should, alas!
 say 'Nothing'; and even, 'What have you
-to do?' still the same reply, 'Nothing'[**punctuation?] I
+to do?' still the same reply, 'Nothing'. I
 have one occupation of an interesting and in
 some degree of an embarrassing nature. Soon
 after our arrival, I learnt that the only other
@@ -9463,4 +9461,4 @@ When we were at Lord Bathurst's I saw plainly
 that the speeches of a Mr. Borthwick, who had
 been going about giving lectures in favour of the
 West Indians, had made a great impression on
-Lady Georgiana. But I must lay down my pen."[**That's it? No "The End" or nuthin'? :CowBlink:]
+Lady Georgiana. But I must lay down my pen."
