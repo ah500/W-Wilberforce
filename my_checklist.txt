@@ -1,6 +1,5 @@
 Stage 1:
 
-Check all*: (?<!/)\*(?!/)
 Check for all [
 
 run fixup

@@ -3527,10 +3527,6 @@ that it is only lightly touched on here.
 In 1809 Hannah More wrote to Mr. Wilberforce:
 "Oh, if I could have had the benefit of
 your assistance in C[oe]lebs![1] but I could not be
-
-[Footnote 1: "C[oe]lebs in Search of a Wife," published 1809. Of her
-publishing experiences, Hannah More writes: "One effect of
-C[oe]lebs has pleased me. I always consider a bookseller in respect]*
 -----File: 124.png---\a\a\a\a\a\--
 such an unfeeling brute as to ask it. 'Tis not to
 <i>make a speech</i> when I say that <i>you</i> are the <i>only being</i>
@@ -3540,6 +3536,16 @@ critical knowledge of the world in its higher classes
 with such deep religious feelings--either of these
 I might have found in a very few, but not both
 in any."
+
+[Footnote 1: "C[oe]lebs in Search of a Wife," published 1809. Of her
+publishing experiences, Hannah More writes: "One effect of
+C[oe]lebs has pleased me. I always consider a bookseller in respect
+to a book as I do an undertaker with regard to death--one considers
+a publication as the other does a corpse, as a thing to grow
+rich by, but not to be affected with. Davies (Cadell's partner)
+seems deeply struck, and earnestly implores me to follow up some
+of the hints respecting Scripture in a work of which he suggests
+the subject."]
 
 Hannah More and her friends had apparently
 unfortunate experiences with regard to the spiritual
@@ -3555,13 +3561,6 @@ religious feeling" mentioned by Hannah More, or
 the "indulgent benevolent temper, with no pretension
 to superior sanctity or strictness," of which
 Maria Edgeworth writes,[1] certain it is that
-
-*[Footnote: to a book as I do an undertaker with regard to death--one considers
-a publication as the other does a corpse, as a thing to grow
-rich by, but not to be affected with. Davies (Cadell's partner)
-seems deeply struck, and earnestly implores me to follow up some
-of the hints respecting Scripture in a work of which he suggests
-the subject."]
 
 [Footnote 1: "Life and Letters of Maria Edgeworth," by Augustus J. C.
 Hare.]
