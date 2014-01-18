@@ -5,9 +5,9 @@
 BURT FRANKLIN: RESEARCH SOURCE WORKS SERIES #174
 
 
-<i>PRIVATE PAPERS OF
+_PRIVATE PAPERS OF
 
-WILLIAM WILBERFORCE</i>
+WILLIAM WILBERFORCE_
 
 
 [Illustration: WILLIAM WILBERFORCE, M.P.
@@ -23,8 +23,8 @@ of
 
 William Wilberforce
 
-<i>Collected and Edited, with a
-Preface, by A. M. Wilberforce</i>
+_Collected and Edited, with a
+Preface, by A. M. Wilberforce_
 
 
 With Portraits
@@ -113,7 +113,7 @@ the son.
 /*
 <sc>A. M. Wilberforce.</sc>
 
-<sc>Lavington</sc>, <i>September 1, 1897</i>.
+<sc>Lavington</sc>, _September 1, 1897_.
 */
 
 
@@ -144,31 +144,31 @@ ILLUSTRATIONS
                                                                  PAGE
 
 1. WILLIAM WILBERFORCE, M.P. FOR THE COUNTY
-OF YORK                                          <i>Frontispiece.</i>
-(<i>From a picture by J. Rising.</i>)
+OF YORK                                          _Frontispiece._
+(_From a picture by J. Rising._)
 
-2. WILBERFORCE OAK                         <i>Facing page</i>      17
+2. WILBERFORCE OAK                         _Facing page_      17
 (At the foot of an old tree at Hollwood, after a conversation
 with Pitt, Wilberforce resolved to give notice in
 the House of Commons of his intention to bring forward
 the Abolition of the Slave Trade.)
 
 3. THE RIGHT HONOURABLE WILLIAM PITT
-                                           <i>Facing page</i>      79
-(<i>From a plate taken from an original drawing by the late
-Mr. Sayers.</i>)
+                                           _Facing page_      79
+(_From a plate taken from an original drawing by the late
+Mr. Sayers._)
 
 4. BIRTHPLACE OF WILLIAM WILBERFORCE AT
-HULL                                      <i>Facing page</i>      163
+HULL                                      _Facing page_      163
 
 5. SAMUEL WILBERFORCE, AGED 29                    "               245
-(<i>From a drawing by George Richmond.</i>)
+(_From a drawing by George Richmond._)
 */
 
 
 
 
-<i>LETTERS FROM PITT</i>
+_LETTERS FROM PITT_
 
 
 
@@ -184,7 +184,7 @@ with the fragments of Ryder's opera hat."[2]
 
 /*
 "<sc>Grafton Street</sc>,
-"<i>July 31, 1782</i>.
+"_July 31, 1782_.
 */
 
 "<sc>Dear Wilberforce</sc>,--I shall not have the least
@@ -200,9 +200,9 @@ doing as I should wish in consequence, I will tell
 you, so we shall be upon fair terms. I trust you
 find all possible advantage from sea-bathing and
 sea-air.... I am as well as it is possible in the
-midst of all this <i>sin and sea coal</i>, and, for a
+midst of all this _sin and sea coal_, and, for a
 Chancellor of the Exchequer who has exchanged
-his <i>happier hour</i>, pass my time very tolerably.
+his _happier hour_, pass my time very tolerably.
 Even Goostree's is not absolutely extinct, but
 has a chance of living thro' the dog days. I shall
 be happy to hear from you, whether in the shape
@@ -221,10 +221,10 @@ it is as well for me to try it no further.
 
 /*
 "<sc>Brighthelmstone</sc>,
-"<i>Wednesday, Aug. 6, 1783</i>.
+"_Wednesday, Aug. 6, 1783_.
 */
 
-"<sc>Dear Wilberforce</sc>,--<i>Anderson's Dictionary</i> I
+"<sc>Dear Wilberforce</sc>,--_Anderson's Dictionary_ I
 have received, and am much obliged to you for it.
 I will return it safe, I hope not dirtied, and possibly
 not read. I am sorry that you give so bad an
@@ -232,7 +232,7 @@ account of your eyes, especially as this very letter
 looks as if it would put them to a severe trial, and
 might even defy the decypherer St. John, almost
 without the help of an ænigma. I have only to
-tell you that I have <i>no news</i>, which I consider as
+tell you that I have _no news_, which I consider as
 making it pretty certain that there will be none
 now before the meeting of Parliament. The party
 to Rheims hold of course, at least as far as depends
@@ -255,8 +255,8 @@ a good deal. Your friend the Commodore treated
 us with his company at one or two assemblies, but
 was called back to defend some prizes, which there
 are those who contest with him, and which I fancy
-he thinks <i>the greatest instance of malignity he ever
-knew</i>. Mrs. Johnstone and Mrs. Walpole are left
+he thinks _the greatest instance of malignity he ever
+knew_. Mrs. Johnstone and Mrs. Walpole are left
 to dispute the prize here. The first is clearly
 the handsomer woman, but the husband of the
 latter looks the quieter man, and the better part of
@@ -264,7 +264,7 @@ love as well as valor is discretion. I conclude as
 you did, by desiring you to write immediately. I
 go from hence to Somersetshire this day sennight,
 and stay till Bankes's. Direct to Burton Pynsent,
-Somerset, and <i>if you will</i>, by London.
+Somerset, and _if you will_, by London.
 
 /*
 "Ever sincerely yrs.,
@@ -279,7 +279,7 @@ for twenty-eight years.
 
 /*
 "<sc>Downing Street</sc>,
-"<i>Tuesday, April 6, 1784</i>.
+"_Tuesday, April 6, 1784_.
 */
 
 "<sc>Dear Wilberforce</sc>,--I have received your two
@@ -299,7 +299,7 @@ which is the only channel that has yet occurred to
 me about Oxford, who thinks he can be of use
 there. Wesley I have no doubt may be secured,
 and I will lose no time in seeing him if necessary,
-which I shall not think <i>at all awkward</i> at such a
+which I shall not think _at all awkward_ at such a
 time. Steps are taking to procure a meeting of
 freeholders in your and Duncombe's interest, which
 I hope will answer. I have sent to Robinson and
@@ -354,11 +354,11 @@ declines for Surrey. Byng will probably be beat."
 
 /*
 "<sc>Downing Street</sc>,
-"<i>Sunday, December 19, 1784</i>.
+"_Sunday, December 19, 1784_.
 */
 
 "<sc>My dear Wilberforce</sc>,--I have been so diligently
-<i>turning my thoughts</i> on all sides since we
+_turning my thoughts_ on all sides since we
 parted, that tho' they have been turned to you as
 often as to any other quarter, I have never found
 the moment to put them into writing till now. I
@@ -385,8 +385,8 @@ sin-worn mould.' A variety of circumstances concur
 to make it necessary to give notice immediately
 on the meeting of Parliament of the day on which
 I shall move the question of the Reform. We
-meet on the <i>25th of January</i>, and I think <i>about
-three weeks after</i>, which will allow full time for a
+meet on the _25th of January_, and I think _about
+three weeks after_, which will allow full time for a
 call of the House, will be as late as I can easily
 defer it. I would not for a thousand reasons have
 you absent, tho' I hate that you should come before
@@ -397,7 +397,7 @@ as that.
 
 "Only let me hear from you positively before the
 meeting of Parliament. The chief thing necessary
-is that I should then be able to name <i>some</i> day, and
+is that I should then be able to name _some_ day, and
 the precise day is of less consequence. You will
 hardly believe me if I tell you that I entertain the
 strongest hope of coming very near, if not absolutely
@@ -406,7 +406,7 @@ Wyvill, and made him compleatly happy with the
 prospect.
 
 "All things are going, on the whole, exceeding
-well. You will have learnt that the <i>Old Boy</i> at
+well. You will have learnt that the _Old Boy_ at
 last overcame his doubts, and has ventured single
 into the Cabinet, which is a great point happily
 settled. God bless you.
@@ -472,7 +472,7 @@ separate your happiness from his own."
 
 /*
 "<sc>Downing Street</sc>,
-"<i>December 2, 1785</i>.
+"_December 2, 1785_.
 */
 
 "<sc>My dear Wilberforce</sc>,--Bob Smith[6] mentioned
@@ -581,7 +581,7 @@ renew the sacred conversation."
 
 /*
 "<sc>Downing Street</sc>,
-"<i>September, 23, 1786</i>.
+"_September, 23, 1786_.
 */
 
 "<sc>My dear Wilberforce</sc>,--At length all the
@@ -646,7 +646,7 @@ him. Adieu.
 
 /*
 "<sc>Downing Street</sc>,
-"<i>Tuesday, April 8, 1788</i>.
+"_Tuesday, April 8, 1788_.
 */
 
 "<sc>My dear Wilberforce</sc>,--I have just received
@@ -659,7 +659,7 @@ that in the present year is impracticable; and I only
 hope you will resolve to dismiss it as much as possible
 from your mind. It is both the rightest and
 wisest thing you can do. If it will contribute to
-setting you at ease, that <i>I</i> should personally bring
+setting you at ease, that _I_ should personally bring
 it forward (supposing circumstances will admit of
 its being brought forward this session) your wish
 will decide. At all events, if it is in such a state
@@ -717,7 +717,7 @@ or three quarters.
 
 /*
 "<sc>Pembroke Hall</sc>,
-"<i>Saturday, June 28, 1788</i>.
+"_Saturday, June 28, 1788_.
 */
 
 "<sc>My dear Wilberforce</sc>,--I have no small
@@ -729,7 +729,7 @@ to have a wet evening, which, besides the good
 I hope it will do to the country at large, has the
 peculiar advantage of preventing me from paying
 my personal respects to anyone of my constituents,
-and so gives me the leisure to answer <i>seriatim</i> the
+and so gives me the leisure to answer _seriatim_ the
 several sections of your letter. The business respecting
 the Slave Trade meets just now with some
 rub in the House of Lords, even in the temporary
@@ -778,7 +778,7 @@ time while we are exposed to the interruption from
 Westminster Hall. I think I have now dispatched
 all the points to which I was called upon to reply,
 and come now to open my own budget; which
-must be done, however, in a <i>whisper</i>, and must not
+must be done, however, in a _whisper_, and must not
 as yet be repeated even to the most solitary echoes
 of Windermere. You will wonder what mystery I
 have to impart. At the first part you will not be
@@ -821,7 +821,7 @@ this evening. God bless you.
 
 /*
 "<sc>Downing Street</sc>,
-"<i>Monday, September 1, 1788</i>.
+"_Monday, September 1, 1788_.
 */
 
 "<sc>My dear Wilberforce</sc>,--I have certainly
@@ -856,8 +856,8 @@ has been such since that scarce anything was likely
 to be attended to; but I am in hopes Necker's
 coming in will prove very favourable to this object.
 The moment I hear anything respecting it I will
-write again; and at all events in less than <i>my last
-fortnight</i>. I must end now in haste to save the post
+write again; and at all events in less than _my last
+fortnight_. I must end now in haste to save the post
 and my dinner.
 
 /*
@@ -868,7 +868,7 @@ and my dinner.
 
 /*
 "<sc>Downing Street</sc>,
-"<i>Monday, April 20, 1789</i>.
+"_Monday, April 20, 1789_.
 */
 
 "<sc>My dear Wilberforce</sc>,--We have found it
@@ -904,12 +904,12 @@ merely to attend St. Paul's.
 
 /*
 "<sc>Downing Street</sc>,
-"<i>Wednesday, February 2, 1796</i>.
+"_Wednesday, February 2, 1796_.
 */
 
 "<sc>My dear Wilberforce</sc>,--I have seen Sir W.
 Fawcett, &c., and settled with them that they shall
-take <i>immediately</i> the necessary measures for having
+take _immediately_ the necessary measures for having
 a sufficient number of officers to receive men at
 additional places of rendezvous. They propose
 for the West Riding (in addition to Pontefract),
@@ -931,7 +931,7 @@ business is put off.
 
 /*
 "<sc>Downing Street</sc>,
-"<i>August 4, 1796</i>.
+"_August 4, 1796_.
 */
 
 "<sc>My dear Wilberforce</sc>,--I am anxious not to
@@ -958,7 +958,7 @@ management.
 
 /*
 <sc>"Downing Street</sc>,
-"<i>September 7, 1796</i>.
+"_September 7, 1796_.
 */
 
 "<sc>My dear Wilberforce</sc>,--I think it nearly
@@ -970,7 +970,7 @@ time before.
 person to go directly to Paris. The message of
 the Directory confessing in such strong terms their
 distress (and the Archduke's recent victory on the
-22nd, the account of which is in last night's <i>Gazette</i>,
+22nd, the account of which is in last night's _Gazette_,
 may be relied on), give some chance that our overtures
 may be successful. In the meantime it will
 be indispensable to take very strong measures
@@ -991,7 +991,7 @@ of the world. I delayed writing to Mr. Cookson
 till I could tell him the measure was taken; and
 when it was taken, being in the hurry of a journey
 to Weymouth and back, I deferred it again, so that
-it was already announced in the <i>Gazette</i>, and it
+it was already announced in the _Gazette_, and it
 became too late to write. Perhaps you can make
 my excuses.
 
@@ -1003,7 +1003,7 @@ my excuses.
 
 /*
 "<sc>Downing Street</sc>,
-"<i>September 20, 1797</i>.
+"_September 20, 1797_.
 */
 
 "<sc>My dear Wilberforce</sc>,--I know what your
@@ -1028,7 +1028,7 @@ I will as soon as I can.
 
 
 /*
-"<i>Friday, 4</i> <sc>P.M.</sc>
+"_Friday, 4_ <sc>P.M.</sc>
 */
 
 "<sc>My dear Wilberforce</sc>,--I am only anxious to
@@ -1044,7 +1044,7 @@ in a few minutes on my way to the House.
 
 /*
 "<sc>Downing Street</sc>,
-"<i>Thursday, August 14, 1800</i>.
+"_Thursday, August 14, 1800_.
 */
 
 "<sc>My dear Wilberforce</sc>,--I have no thoughts
@@ -1080,7 +1080,7 @@ and other household concerns."
 /*
 "<sc>Park Place</sc>,
 
-"<i>October 1, 1801</i>.
+"_October 1, 1801_.
 */
 
 "<sc>My dear Wilberforce</sc>,--I cannot refrain from
@@ -1105,7 +1105,7 @@ post.
 
 
 /*
-"<sc>Downing Street</sc>, <i>Saturday</i>.
+"<sc>Downing Street</sc>, _Saturday_.
 */
 
 "<sc>My dear Wilberforce</sc>,--I shall be very glad
@@ -1124,7 +1124,7 @@ expected.
 /*
 "<sc>Walmer Castle</sc>,
 
-"<i>May 31, 1802</i>.
+"_May 31, 1802_.
 */
 
 "<sc>My dear Wilberforce</sc>,--I found your letter
@@ -1179,7 +1179,7 @@ heartily wish you may be successful in the attempt.
 /*
 "<sc>Walmer Castle</sc>,
 
-"<i>September 22, 1802</i>.
+"_September 22, 1802_.
 */
 
 "<sc>My dear Wilberforce</sc>, I am much obliged
@@ -1207,7 +1207,7 @@ one on which I
 /*
 "<sc>Bath</sc>,
 
-"<i>October 31, 1802</i>.
+"_October 31, 1802_.
 */
 
 "<sc>My dear Wilberforce</sc>,--As you are among
@@ -1221,10 +1221,10 @@ wine, than on himself but I have still some curiosity
 to know what sort of company he and his guests
 are likely to prove; and should therefore be glad to
 know a little more about them than I collect from
-his list of the <i>dramatis personæ</i>, which for instruction
+his list of the _dramatis personæ_, which for instruction
 might as well have been taken from any old play-bill.
 In the meantime I have been obliged out of common
-civility, <i>provisoirement</i> to accept his invitation. I
+civility, _provisoirement_ to accept his invitation. I
 was very sorry that I had too little time to spare in
 passing thro' town to try to see you. I should have
 much wished to have talked over with you the events
@@ -1263,7 +1263,7 @@ will quite stand the test of examination.
 /*
 "<sc>Walmer Castle</sc>,
 
-"<i>August 8, 1803</i> (?).
+"_August 8, 1803_ (?).
 */
 
 "<sc>My dear Wilberforce</sc>,--Not having returned
@@ -1306,7 +1306,7 @@ example to other maritime districts.
 /*
 "<sc>Walmer Castle</sc>,
 
-"<i>January 5, 1804</i>.
+"_January 5, 1804_.
 */
 
 "<sc>My dear Wilberforce</sc>--Your letter reached
@@ -1319,7 +1319,7 @@ necessary for me pretty soon to make up my mind
 on the line to pursue under the new state of things
 which is approaching. In the meantime, I shall
 not commit myself to anything without looking to
-<i>all</i> the consequences as cautiously as you can wish;
+_all_ the consequences as cautiously as you can wish;
 and before I form any final decision, I shall much
 wish to consult yourself and a few others whose
 opinions I most value. If no new circumstance
@@ -1344,7 +1344,7 @@ letters to Pitt, undated, but the post-mark of the
 second bears "1797."
 
 
-<i>Mr. Wilberforce to Right Hon. William Pitt.</i>
+_Mr. Wilberforce to Right Hon. William Pitt._
 
 "<sc>My dear Pitt</sc>,--My head and heart have been
 long full of some thoughts which I wished to
@@ -1438,7 +1438,7 @@ property."
 
 
 /*
-"<sc>Bath</sc>, <i>Easter Sunday</i>.
+"<sc>Bath</sc>, _Easter Sunday_.
 */
 
 "<sc>My dear Pitt</sc>,--I am not unreasonable enough
@@ -1469,11 +1469,11 @@ of Pitt's death, his brother, Lord Chatham,
 writes with regard to his funeral:
 
 
-<i>Lord Chatham to Mr. Wilberforce.</i>
+_Lord Chatham to Mr. Wilberforce._
 
 /*
 "<sc>Dover Street</sc>,
-"<i>February 15, 1806</i>.
+"_February 15, 1806_.
 */
 
 "I have many thanks to offer you for your very
@@ -1519,8 +1519,8 @@ P/
 
 
 
-<i>SKETCH OF PITT BY W.
-WILBERFORCE</i>
+_SKETCH OF PITT BY W.
+WILBERFORCE_
 
 
 
@@ -1552,8 +1552,8 @@ and that as he can do it consistently with truth, he
 should aver, as in consistency with truth he can
 aver, that in every instance (with perhaps one
 exception only) in which his conscience prompted
-him to dissent from Mr. Pitt's <i>measures</i>, he nevertheless
-respected Mr. Pitt's <i>principles</i>; the differences
+him to dissent from Mr. Pitt's _measures_, he nevertheless
+respected Mr. Pitt's _principles_; the differences
 arose commonly from a different view of
 facts, or a different estimate of contingencies and
 probabilities. Where there was a difference of
@@ -1665,7 +1665,7 @@ and a few of the older members who recollected
 his father, declared that Mr. Pitt gave indications
 of being his superior. I remember to this day the
 great pain I suffered from finding myself compelled
-by my judgment to vote against him on the <i>second</i>
+by my judgment to vote against him on the _second_
 occasion of his coming forward, when the question
 was whether some Commissioners of public
 accounts should, or should not, be members of
@@ -1717,7 +1717,7 @@ been offered a seat at the Treasury Board, or
 indeed any office out of the Cabinet; but on Lord
 Rockingham's death, notwithstanding Mr. Fox's
 endeavour to prevent a rupture by declaring that
-<i>no disunion existed</i>,[14] the disagreement between the
+_no disunion existed_,[14] the disagreement between the
 parties, of which so many symptoms had before
 manifested themselves, became complete and
 notorious. Lord Shelburne being invited by the
@@ -1819,7 +1819,7 @@ higher people of the place and neighbourhood.
 For a few days we lived very comfortably together,
 but no French was learned except from the grammar,
 we not having a single French acquaintance. At
-length we desired our friend the <i>épicier</i> to mention
+length we desired our friend the _épicier_ to mention
 us to the Lieutenant of Police, who, I think we had
 made out, had been employed to collect evidence in
 the great Douglas cause, and was therefore likely
@@ -1972,7 +1972,7 @@ for any unfair purpose, he talked freely before me of
 men and things, of actual, meditated, or questionable
 appointments and plans, projects, speculations,
 &c., &c. No man, it has been said, is a hero to his
-<i>valet de chambre</i>, and if, with all the opportunities I
+_valet de chambre_, and if, with all the opportunities I
 enjoyed of seeing Mr. Pitt in his most inartificial
 and unguarded moments, he nevertheless appeared
 to me to be a man of extraordinary intellectual and
@@ -1995,8 +1995,8 @@ private will acknowledge that there never was a
 fairer reasoner, never anyone more promptly recognising,
 and allowing its full weight to every consideration
 and argument which was urged against the
-opinion he had embraced. You always saw <i>where</i>
-you differed from him and <i>why</i>. The difference
+opinion he had embraced. You always saw _where_
+you differed from him and _why_. The difference
 arose commonly from his sanguine temper leading
 him to give credit to information which others might
 distrust, and to expect that doubtful contingencies
@@ -2085,7 +2085,7 @@ sadden or cast a gloom over his hours of relaxation
 
 It cannot perhaps be affirmed that he was altogether
 free from pride, but great natural shyness,[18]
-and even awkwardness (French <i>gaucherie</i>), often
+and even awkwardness (French _gaucherie_), often
 produced effects for which pride was falsely charged
 on him; and really that confidence which might be
 justly placed in his own powers by a man who could
@@ -2146,7 +2146,7 @@ his other business as cheerfully and pleasantly
 as usual.
 
 But there are many who with undisturbed composure
-and with a good grace can on <i>important</i>
+and with a good grace can on _important_
 occasions thus change their line of conduct and
 assume a course contrary to that which they would
 have preferred. It is, however, far more rare to
@@ -2314,7 +2314,7 @@ had not been an eye-witness could conceive the
 ascendency which Mr. Pitt then possessed over
 the House of Commons, and if he had then generously
 adopted the resolution to govern his country
-by <i>principle</i> rather than by <i>influence</i>, it was a
+by _principle_ rather than by _influence_, it was a
 resolution which he could then have carried into
 execution with success, and the full effects of which,
 both on the national character, interests, and happiness,
@@ -2357,10 +2357,10 @@ however, in its ultimate issue justly deserving the
 epithet of glorious, is nevertheless the cause of
 all our present dangers and sufferings, from the
 insupportable burdens with which it has loaded us.
-Nor is it only <i>Financial</i> evils of which our long
+Nor is it only _Financial_ evils of which our long
 protracted warfare has been the cause; to this
 source also we must probably trace much of that
-<i>Moral</i> evil, which in so many different forms has
+_Moral_ evil, which in so many different forms has
 been of late beginning to manifest itself, especially
 among the lower orders of our people. The
 gracious Providence of God has indeed abundantly
@@ -2437,7 +2437,7 @@ in the exercise of his unlimited patronage,
 both in Church and State; and considering that
 every religious and good man, who by him should
 have been invested with power and influence, would
-<i>himself</i> have selected others of similar principles
+_himself_ have selected others of similar principles
 and character, throughout the descending series of
 official appointments, and through all the variety of
 social occupations, who can say what would have
@@ -2520,7 +2520,7 @@ especially deserved the gratitude of this House."[23]
 /P
 THE PILOT THAT WEATHER'D THE STORM.
 
-(<i>A Song written in 1802.</i>)
+(_A Song written in 1802._)
 
 If hush'd the loud whirlwind that ruffled the deep,
   The sky, if no longer dark tempests deform;
@@ -2566,15 +2566,15 @@ P/
 
 
 
-<i>LETTERS FROM FRIENDS</i>
+_LETTERS FROM FRIENDS_
 
 
-<i>The letters which follow are from friends of
+_The letters which follow are from friends of
 Wilberforce between the years 1786-1832: they
 touch on a variety of subjects. George Rose[24] writes
 in 1790 in the full flush of excitement on the news
 of "peace certain and unequivocal on the very terms
-prescribed from hence."</i>
+prescribed from hence."_
 
 
 
@@ -2582,12 +2582,12 @@ prescribed from hence."</i>
 LETTERS FROM FRIENDS
 
 
-<i>Right Hon. George Rose to Mr. Wilberforce.</i>
+_Right Hon. George Rose to Mr. Wilberforce._
 
 /*
 "<sc>Old Palace Yard</sc>,
 
-"<i>November 4, 1790</i>.
+"_November 4, 1790_.
 */
 
 "<sc>My dear Wilberforce</sc>,--I was shocked this
@@ -2601,13 +2601,13 @@ you I am particularly so to stand clear of that in
 your opinion. I will now, however, make you
 ample amends for the seeming neglect by telling
 you that the expected messenger is arrived and
-brings us an account of peace <i>certain</i> and <i>unequivocal</i>,
+brings us an account of peace _certain_ and _unequivocal_,
 on the very terms (I may say to you)
-<i>prescribed</i> from hence; they secure to us great
+_prescribed_ from hence; they secure to us great
 and essential points important to the interests
 of the country, and must prevent future occasions
 of quarrel with Spain; war with all its certain
-and possible consequences are (<i>sic</i>) avoided. So
+and possible consequences are (_sic_) avoided. So
 much for public benefits; what it must produce
 to the individual[25] to whom the merit is justly
 and fairly to be ascribed it is impossible at once
@@ -2630,7 +2630,7 @@ Pitt's views as to a bounty on corn in the
 scarcity then[26] prevailing are given by Rose in the
 next letter.
 
-<i>Right Hon. G. Rose to Mr. Wilberforce.</i>
+_Right Hon. G. Rose to Mr. Wilberforce._
 
 "<sc>My dear Wilberforce</sc>,--It would be very
 odd if your writing to me on the subject of your
@@ -2644,7 +2644,7 @@ can be effectual. Mr. Pitt cannot, as you know,
 after his declaration in Parliament, import at the
 expense or risk of the public, but he is inclined
 to give a bounty on corn imported when it shall
-be <i>below</i> a certain price within a limited time.
+be _below_ a certain price within a limited time.
 This is a new principle, but I really believe it
 would produce much good. The idea occurred to
 him on reading Mr. Richardson's letter to you,
@@ -2660,7 +2660,7 @@ again.
 
 "During our late sitting the Scotch distilleries
 were stopped, but the prices of barley in England
-were not <i>then</i> such as to induce any man to hint
+were not _then_ such as to induce any man to hint
 even at the English; and of course there is now
 no power to prevent them going on. We did
 prohibit the distillation of wheat; and allowed the
@@ -2678,7 +2678,7 @@ of Jacobinism.
 scarcity for restraining the use of flour, &c., were
 so little attended, and were on the whole productive
 of so little good that Mr. Pitt has not thought it yet
-advisable to recur to them. I believe <i>much</i> may be
+advisable to recur to them. I believe _much_ may be
 done, especially in towns, by soup shops, respecting
 which I should think Mr. Bernard can inform you
 as fully as any one, from the share he took in the
@@ -2720,12 +2720,12 @@ who "might be expected to contribute." But the
 plan of a private subscription fell to the ground.
 
 
-<i>Right Hon. G. Rose to Mr. Wilberforce.</i>
+_Right Hon. G. Rose to Mr. Wilberforce._
 
 /*
 "<sc>Old Palace Yard</sc>,
 
-"<i>January 25, 1806, Saturday</i>.
+"_January 25, 1806, Saturday_.
 */
 
 "<sc>My dear Wilberforce</sc>,--I told you, immediately
@@ -2754,7 +2754,7 @@ I believe, for each, I thought a further one by
 Parliament could hardly be acquiesced in. For
 Lady Hester I hoped no difficulty would be made
 in providing an annuity to that amount. The two
-young men are in the army--<i>they</i> are not of Mr.
+young men are in the army--_they_ are not of Mr.
 Pitt's blood and small sinecure employments are
 given to them which will aid their income.
 
@@ -2782,10 +2782,10 @@ misfortune."[28] The first letter is on the subject
 of free exports of our manufactures to Holland.
 
 
-<i>Right Hon. Henry Dundas to Mr. Wilberforce.</i>
+_Right Hon. Henry Dundas to Mr. Wilberforce._
 
 /*
-"<sc>Wimbledon</sc>, <i>August 15, 1796</i>.
+"<sc>Wimbledon</sc>, _August 15, 1796_.
 */
 
 "<sc>My dear W.</sc>,--I have spoke both with Mr.
@@ -2826,7 +2826,7 @@ in 1798 are not without interest in 1897.
 
 
 /*
-"<sc>Wimbledon</sc>, <i>January 29, 1798</i>.
+"<sc>Wimbledon</sc>, _January 29, 1798_.
 */
 
 "<sc>My dear Wilberforce</sc>,--There can not be
@@ -2931,7 +2931,7 @@ her:
 /*
 "<sc>India Office</sc>,
 
-"<i>July 4, 1788</i>.
+"_July 4, 1788_.
 */
 
 "<sc>Dear Duchess</sc>,--I received your affectionate
@@ -2984,11 +2984,11 @@ piquancy that it helps one to realise the personality
 of this remarkable woman.
 
 
-<i>Duchess of Gordon to Right Hon. Henry Dundas.</i>
+_Duchess of Gordon to Right Hon. Henry Dundas._
 
 /*
 "<sc>Gordon Castle</sc>,
-"<i>July 13, 1788</i>.
+"_July 13, 1788_.
 */
 
 "I have this morning yours, and though not a
@@ -3133,11 +3133,11 @@ her. It would be of interest to know what were the
 which Lord Calthorpe is grateful to Wilberforce.
 
 
-<i>Lord Calthorpe to Mr. Wilberforce.</i>
+_Lord Calthorpe to Mr. Wilberforce._
 
 /*
 "<sc>Kinrara</sc>,
-"<i>September 2, 1801, Saturday</i>.
+"_September 2, 1801, Saturday_.
 */
 
 "<sc>My dear Sir</sc>,--I have just evinced a proof of
@@ -3244,10 +3244,10 @@ his "mediation with Pitt" a regiment of dragoons
 may be given to her son Lord Waldegrave.
 
 
-<i>The Duchess of Gloucester to Mr. Wilberforce.</i>
+_The Duchess of Gloucester to Mr. Wilberforce._
 
 /*
-"<sc>Genoa</sc>, <i>February 4, 1786</i>.
+"<sc>Genoa</sc>, _February 4, 1786_.
 */
 
 "<sc>Sir</sc>,--Although you did not succeed in one of
@@ -3294,7 +3294,7 @@ work on "Practical Christianity."
 
 /*
 "<sc>Gloucester House</sc>,
-"<i>April 14, 1797</i>.
+"_April 14, 1797_.
 */
 
 "I received your inimitable book the day before
@@ -3311,7 +3311,7 @@ forgets humility is one of the Christian requisites.
 
 /*
 "I remain, dear sir,
-"Your <i>very</i> much obliged, &c.,
+"Your _very_ much obliged, &c.,
 "<sc>Maria.</sc>"
 */
 
@@ -3325,8 +3325,8 @@ In 1809 Hannah More wrote to Mr. Wilberforce:
 "Oh, if I could have had the benefit of
 your assistance in C[oe]lebs![31] but I could not be
 such an unfeeling brute as to ask it. 'Tis not to
-<i>make a speech</i> when I say that <i>you</i> are the <i>only being</i>
-whose counsels would <i>in all points</i> have exactly
+_make a speech_ when I say that _you_ are the _only being_
+whose counsels would _in all points_ have exactly
 fallen in with my own ideas from your uniting a
 critical knowledge of the world in its higher classes
 with such deep religious feelings--either of these
@@ -3382,9 +3382,9 @@ other.
 
 
 /*
-<i>Dr. Burgh to Mr. Wilberforce.</i>
+_Dr. Burgh to Mr. Wilberforce._
 
-"<sc>York</sc>, <i>February 9, 1801</i>.
+"<sc>York</sc>, _February 9, 1801_.
 */
 
 "<sc>My Dear Wilber.</sc>,--I sincerely thank you for
@@ -3457,9 +3457,9 @@ and purchase favour to themselves.
 
 
 /*
-<i>Lord Hardwicke to Mr. Wilberforce.</i>
+_Lord Hardwicke to Mr. Wilberforce._
 
-"<i>September 30, 1801.</i>
+"_September 30, 1801._
 */
 
 "I think the alterations made by the Union are
@@ -3494,11 +3494,11 @@ Redesdale shamefully used on being turned out
 of Chancellorship."
 
 
-<i>Lord Redesdale to Mr. Wilberforce.</i>
+_Lord Redesdale to Mr. Wilberforce._
 
 /*
 "<sc>Ely Place, Dublin</sc>,
-"<i>March 5, 1806</i>.
+"_March 5, 1806_.
 */
 
 "<sc>My dear Sir</sc>,--I rely upon your letter,
@@ -3547,8 +3547,8 @@ of Lord Spencer's having thought fit to advise
 His Majesty, after he had signed a warrant for
 Mr. Ponsonby's appointment, to sign another for
 putting the Great Seal in commission, and then
-to send it <i>by express</i>, directing the Lord Lieutenant
-to <i>lose no time</i> in procuring the Commission
+to send it _by express_, directing the Lord Lieutenant
+to _lose no time_ in procuring the Commission
 to pass the Seal. This has been done in so much
 hurry that I have great doubts of its regularity;
 and if it had been the case of any man but
@@ -3562,7 +3562,7 @@ to me, and through me to the Lord Lieutenant.
 "I could do nothing (without the Lord Lieutenant's
 warrant) but despatch the business of the
 Court of Chancery; and yet I am not to be
-trusted with the Great Seal <i>for a few days</i> till
+trusted with the Great Seal _for a few days_ till
 the arrival of Mr. Ponsonby for that purpose;
 and the suitors of the Court of Chancery were
 to be equally injured; for the Commissioners
@@ -3607,17 +3607,17 @@ on the Government of the country in all its
 parts; imputing to it gross partiality even in the
 administration of justice, and it promises the
 Roman Catholics a different order of things; not
-by the interposition of the legislature, but <i>by the
-influence and favour of the executive</i> government;
+by the interposition of the legislature, but _by the
+influence and favour of the executive_ government;
 and it applies itself directly and particularly to
-the <i>army</i>, as if it were intended to frighten the
+the _army_, as if it were intended to frighten the
 Protestants into acquiescence. It should be recollected
 that Lord Shrewsbury is not connected in
 any way with Ireland, except by a claim of
 peerage; and that Mr. Scully is the author of a
 pamphlet in which he writes of James the Second
-as <i>the lawful King of Ireland</i> at the battle of
-the Boyne, and King William as a <i>Dutch invader</i>.
+as _the lawful King of Ireland_ at the battle of
+the Boyne, and King William as a _Dutch invader_.
 You can have no conception of the gloom
 which prevails in the minds of thinking people
 in this country. Our Chief Justice and Chief
@@ -3728,7 +3728,7 @@ justice, "if abolition be justice, in a most unjust
 mode." This letter is undated; it was probably
 written in 1802.
 
-<i>Lord Eldon to Mr. Wilberforce.</i>
+_Lord Eldon to Mr. Wilberforce._
 
 "<sc>Dear Sir</sc>,--I thank you for your book, and
 I add my thanks for your letter. You may be
@@ -3744,7 +3744,7 @@ compensation previously pledged (not compensation
 for British debts out of African blood, but out of
 British treasure) never were so far surmounted, as
 to induce me to think I had clear grounds for voting
-<i>with him</i>. After such a statement, I need not say
+_with him_. After such a statement, I need not say
 that, although my political life has, at least so I
 fancy, for near twenty-four years been so far really
 regulated by a sincere belief that I am acting
@@ -3802,11 +3802,11 @@ policy of man, if he were clear as to the will of God
 on the point. His letter is marked "truly pleasing"
 by Wilberforce.
 
-<i>Lord Ellenborough to Mr. Wilberforce.</i>
+_Lord Ellenborough to Mr. Wilberforce._
 
 /*
 "<sc>Bloomsbury Square</sc>,
-"<i>June 27, 1802</i>.
+"_June 27, 1802_.
 */
 
 "<sc>My dear Sir</sc>,--I recollect perfectly the conversation
@@ -3869,11 +3869,11 @@ Lord Ellenborough's defence of his conduct, which
 does not err on the side of brevity and which
 Wilberforce describes as "a very handsome answer."
 
-<i>Lord Ellenborough to Mr. Wilberforce.</i>
+_Lord Ellenborough to Mr. Wilberforce._
 
 /*
 "<sc>Bloomsbury Square</sc>,
-"<i>February 4, 1806</i>.
+"_February 4, 1806_.
 */
 
 "<sc>My dear Sir</sc>,--I sit down to thank you for the
@@ -4026,10 +4026,10 @@ would take Lord Castlereagh from the House of
 Commons, which he thought should be the theatre
 of his future fame.
 
-<i>Lord Camden to Mr. Wilberforce.</i>
+_Lord Camden to Mr. Wilberforce._
 
 /*
-"<i>January 7, 1802.</i>
+"_January 7, 1802._
 */
 
 "<sc>Dear Wilberforce</sc>,--I lament extremely that
@@ -4048,7 +4048,7 @@ attending our secession from office I have considered
 Lord Castlereagh's actual situation as one
 peculiarly awkward to himself, and I have also
 thought that in the present dearth of men of spirit
-and sense who <i>can</i> take office it was unfortunate for
+and sense who _can_ take office it was unfortunate for
 the country that he should be excluded. With a
 view of relieving him, if possible, from such exclusion,
 I contrived that he should meet Pitt here about
@@ -4067,7 +4067,7 @@ idea which he knew had been entertained of sending
 him to the East Indies as Governor-General.
 He (Pitt), however, expressed an objection to this
 appointment, as it would take him from the House
-of Commons, which <i>he</i> thought should be the
+of Commons, which _he_ thought should be the
 theatre of his future fame, and where, whenever
 Lord Hawkesbury is removed, he will be much
 wanted. In preparing Lord Castlereagh for his
@@ -4130,9 +4130,9 @@ of any foundation for such hope.
 
 
 /*
-<i>Right Hon. William Windham to Mr. Wilberforce.</i>
+_Right Hon. William Windham to Mr. Wilberforce._
 "<sc>BEACONSFIELD</sc>,
-"<i>August 18, 1803</i>.
+"_August 18, 1803_.
 */
 
 "<sc>Dear Wilberforce</sc>,--The breaking up of
@@ -4141,7 +4141,7 @@ help regretting on another account. One wants a
 means of publishing the abominable backwardness in
 which things are with respect to defence: so as literally
 to put us in the situation, described by some
-writer in the <i>Moniteur</i>, namely that if fifty thousand
+writer in the _Moniteur_, namely that if fifty thousand
 men can anyhow get on shore, they must conquer
 the island. What shall we say to the fact, that at the
 end of now more than five months since the King's
@@ -4226,11 +4226,11 @@ to take them."
 
 
 /*
-<i>Lord Chatham to Mr. Wilberforce.</i>
+_Lord Chatham to Mr. Wilberforce._
 
 "<sc>St. James' Square</sc>,
 
-"<i>September 2, 1803.</i>
+"_September 2, 1803._
 */
 
 "I had certainly felt it my duty (as only following
@@ -4294,9 +4294,9 @@ as follows:--
 
 
 /*
-<i>Mr. Bankes to Mr. Wilberforce.</i>
+_Mr. Bankes to Mr. Wilberforce._
 "<sc>Kingston Hall</sc>,
-"<i>January 1, 1807</i>.
+"_January 1, 1807_.
 */
 
 "<sc>My Dear Wilberforce</sc>,--Upon perusing the
@@ -4313,7 +4313,7 @@ whole do him great honour) laid down an indistinct
 and indefinite basis in general terms of loose construction
 instead of binding that Proteus, his friend
 Talleyrand, to whom in his first address he professes
-the most perfect <i>attachment</i> (what a word from a
+the most perfect _attachment_ (what a word from a
 Minister not born in the days of Charles II.!)
 to the sense in which he meant to interpret,
 fairly as I think, his words, and the words of his
@@ -4336,8 +4336,8 @@ Lord Harrowby, who twice refused the Premiership,
 writes of the state of parties in 1809.
 
 /*
-<i>Lord Harrowby to Mr. Wilberforce.</i>
-<i>Friday, September 22, 1809.</i>
+_Lord Harrowby to Mr. Wilberforce._
+_Friday, September 22, 1809._
 */
 
 "<sc>Dear Wilberforce</sc>,--You must have thought
@@ -4359,7 +4359,7 @@ your opinion till you know as much as is necessary
 to form it. The Duke of Portland's resignation has
 only accelerated the crisis, and you know enough of
 Perceval to be sure that we are not broken up,
-because <i>he</i> insists upon having the whole power in
+because _he_ insists upon having the whole power in
 his own hands, and will not serve under any third
 person. Under these circumstances, and a thousand
 others, there seemed no resource left, but to attempt
@@ -4367,12 +4367,12 @@ an overture to Lord Grey and Grenville jointly,
 which is made with the King's consent and
 authority. If it is met in the spirit in which it is
 made, I trust it will be successful. Whatever we
-may be <i>driven</i> to do, if they shut their ears to the
+may be _driven_ to do, if they shut their ears to the
 proposal of an extended and combined administration,
 we shall not, in my opinion, have been justified
 in our own eyes or in those of the country, if any
-party feelings prevented us from <i>endeavouring bonâ
-fide</i> to form such a Government as may both protect
+party feelings prevented us from _endeavouring bonâ
+fide_ to form such a Government as may both protect
 the King, and be fit for these times. They are, I
 believe, as little able to form a separate Government
 as ourselves, unless they mean to re-unite themselves
@@ -4438,11 +4438,11 @@ Surrey Chapel, writes to bring before Wilberforce's
 notice the question of "untaxed worship," with
 regard to his chapel.
 
-<i>Rev. Rowland Hill to Mr. Wilberforce.</i>
+_Rev. Rowland Hill to Mr. Wilberforce._
 
 "<sc>Surrey Church</sc>,
 
-"<i>April 16, 1814</i>.
+"_April 16, 1814_.
 
 "<sc>My dear sir</sc>,--Another prosecution for poor
 rates on our chapel has commenced. Though the
@@ -4456,7 +4456,7 @@ correspondent with their wishes. As matters are,
 the most vexatious and perplexing consequences
 must be the result. Different persons are subp[oe]na'd
 down as far as Rygate, while these large expenses
-<i>a third time over</i> is the least of the evil that must
+_a third time over_ is the least of the evil that must
 result. If they gain a verdict, for the sake of
 thousands of religious people that must be ruined
 by such a taxation, we must and shall resist.
@@ -4498,12 +4498,12 @@ pamphlet to Talleyrand. The Duke writes
 from Paris, December 14, 1814.
 
 
-<i>The Duke of Wellington to Mr. Wilberforce.</i>
+_The Duke of Wellington to Mr. Wilberforce._
 
 "It is impossible to describe the prejudice of all
 classes here upon the subject, particularly those of
 our determined enemies, the principal officers and
-<i>employés</i> in the public departments. I was in
+_employés_ in the public departments. I was in
 hopes that the King's measures had changed the
 public opinion in some degree, of which the silence
 of the public journals appeared an evidence. But I
@@ -4523,7 +4523,7 @@ The Duke goes on to complain that what was
 taking place in Paris as to the Slavery question had
 got into the English newspapers.
 
-<i>The Duke of Wellington to Mr. Wilberforce.</i>
+_The Duke of Wellington to Mr. Wilberforce._
 
 "I am quite convinced that the only mode in
 which the public opinion upon it here can be brought
@@ -4566,9 +4566,9 @@ reports.
 
 
 /*
-<i>The Duke of Wellington to General Macaulay.</i>
+_The Duke of Wellington to General Macaulay._
 
-"<sc>Paris</sc>, <i>December 22, 1814</i>.
+"<sc>Paris</sc>, _December 22, 1814_.
 */
 
 "<sc>My dear Macaulay</sc>,--I received only yesterday
@@ -4626,7 +4626,7 @@ Waterloo is as follows.[37]
 
 /*
 "<sc>Chatillon Sur Sambre</sc>,
-"<i>June 24, 1815</i>.
+"_June 24, 1815_.
 */
 
 "Are you now satisfied? In eight days I have
@@ -4669,8 +4669,8 @@ English nation.
 
 
 /*
-<i>Marshal Blucher to Mr. Wilberforce.</i>
-"<sc>Bonn</sc>, <i>December 7, 1815</i>.
+_Marshal Blucher to Mr. Wilberforce._
+"<sc>Bonn</sc>, _December 7, 1815_.
 */
 
 "<sc>Sir</sc>,--Your letter dated the 31st of October,
@@ -4757,10 +4757,10 @@ him the money first."
 
 
 /*
-<i>Lord Holland to Mr. Wilberforce</i>.
+_Lord Holland to Mr. Wilberforce_.
 
 "<sc>Holland House</sc>,
-  "<i>November 13, 1815</i>.
+  "_November 13, 1815_.
 */
 
 "<sc>Dear Sir</sc>,--I heard that you were anxious
@@ -4779,7 +4779,7 @@ Slave Trade last year but in the breasts of the
 Bourbons and their adherents. Bonaparte by
 doing it at once lost no adherents either in
 France or in the colonies, and the repugnance
-felt in 1814 to the measure <i>at Court</i> originated
+felt in 1814 to the measure _at Court_ originated
 from their persuasion that the principles of all
 Abolitionists, as well as of all toleration in religion,
 are more or less connected with notions of political
@@ -4825,12 +4825,12 @@ House and outside it.
 
 
 /*
-<i>The Right Hon. Speaker of the House of
-Commons to Mr. Wilberforce.</i>
+_The Right Hon. Speaker of the House of
+Commons to Mr. Wilberforce._
 
 "<sc>Palace Yard</sc>,
 
-"<i>February 19, 1825</i>
+"_February 19, 1825_
 */
 
 "<sc>My dear Sir</sc>,--With respect to your quitting
@@ -4864,11 +4864,11 @@ and pleasing" by Wilberforce.
 
 
 /*
-<i>Lord John Russell to Mr. Wilberforce.</i>
+_Lord John Russell to Mr. Wilberforce._
 
   "<sc>South Audley Street</sc>,
 
-    "<i>June 3</i>.
+    "_June 3_.
 */
 
 "<sc>My dear Sir</sc>,--I was very much gratified at
@@ -4934,8 +4934,8 @@ Wilberforce writes to a friend:--
 
 
 /*
-<i>Mr. Wilberforce to Mr. William Gray.</i>
-  "<i>December 31</i>, 1830.
+_Mr. Wilberforce to Mr. William Gray._
+  "_December 31_, 1830.
 */
 
 "It is curious to observe the effects of the
@@ -4996,8 +4996,8 @@ subscriber."
 
 
 /*
-<i>Mr. Wilberforce to Mr. Manning.
-"June 11, 1832.</i>
+_Mr. Wilberforce to Mr. Manning.
+"June 11, 1832._
 */
 
 "I am truly rejoiced, my dear friend, to hear
@@ -5028,7 +5028,7 @@ National Portrait Gallery.
 
 
 /*
-<i>Sir Thomas Lawrence to Mr. Wilberforce.</i>
+_Sir Thomas Lawrence to Mr. Wilberforce._
 */
 
 "You make a too flattering apology for sending
@@ -5046,7 +5046,7 @@ also of Hayley is not given. They are marked
 
 
 /*
-<i>To William Wilberforce, Esqre.</i>
+_To William Wilberforce, Esqre._
 */
 
 SONNET.
@@ -5071,8 +5071,8 @@ By peace for Afric fenced with British laws.
 P/
 
 
-<i>To William Wilberforce, Esqre, on the preceding
-Sonnet.</i>
+_To William Wilberforce, Esqre, on the preceding
+Sonnet._
 
 /P
 When Virtue saw with brave disdain
@@ -5107,7 +5107,7 @@ P/
 
 
 
-<i>HOME LETTERS</i>
+_HOME LETTERS_
 
 
 
@@ -5130,8 +5130,8 @@ her faults."
 
 
 /*
-<i>Mr. Wilberforce to his daughter Elizabeth.
-"November 30, 1816.</i>
+_Mr. Wilberforce to his daughter Elizabeth.
+"November 30, 1816._
 */
 
 "This is but a short letter to my dear Elizabeth.
@@ -5167,13 +5167,13 @@ against me at the last day; if then, I am frank
 and honest, I must declare to you, that it is on
 this quarter that it will be necessary for my dear
 girl to guard herself with the utmost watchfulness,
-and, still more, to <i>prepare herself</i> with conscientious
+and, still more, to _prepare herself_ with conscientious
 care. This is what St. Paul terms "exercising
 herself to maintain a conscience void of offence
 towards God and towards man": what the Book
-of Proverbs styles, "keeping the heart <i>with all
-diligence</i>:" for unless we have accustomed ourselves
-to <i>self-suspicion</i>, if I may use such a phrase, we
+of Proverbs styles, "keeping the heart _with all
+diligence_:" for unless we have accustomed ourselves
+to _self-suspicion_, if I may use such a phrase, we
 never benefit as we might from the friendly
 reproofs of a real friend. We may receive
 his remarks with civility, and even give him
@@ -5196,7 +5196,7 @@ that we are all prone to flatter ourselves, to form
 too high an estimate of our own good qualities,
 and too low an idea of our bad ones. Now it is
 the first office of the Holy Spirit to teach us to
-know ourselves, and immediately to <i>suspect</i> ourselves
+know ourselves, and immediately to _suspect_ ourselves
 as the first effect of that knowledge. Now
 be honest with yourself, my very dear child.
 Have you been accustomed to distrust the judgment
@@ -5219,7 +5219,7 @@ committed by myself, and when committed by
 others, how much more ready I am with apologies
 for it, or with extenuations for its guilt. If a
 servant has done anything wrong, or omitted
-some act of duty, I observe <i>how</i> it appears to me,
+some act of duty, I observe _how_ it appears to me,
 and if I have done much the same fault, or been
 guilty of the same omission, how much less does it
 impress itself on me, how much sooner do I forget
@@ -5263,7 +5263,7 @@ Of the privilege of friendship alluded to in this
 letter, Wilberforce also writes later to his daughter
 Elizabeth: "You will never find telling Robert" (afterwards
 Archdeacon Wilberforce), "of any fault offend
-him, if you do it when you are <i>tête à tête</i>, and when he
+him, if you do it when you are _tête à tête_, and when he
 sees from your manner and from the circumstances
 that you can only have his happiness at heart, I
 mean that this friendly regard can alone prompt
@@ -5271,9 +5271,9 @@ you to such a proof of real attachment."
 
 
 /*
-<i>Mr. Wilberforce to his daughter Elizabeth.</i>
+_Mr. Wilberforce to his daughter Elizabeth._
   "<sc>Hastings</sc>,
-    "<i>January 17, 1817.</i>
+    "_January 17, 1817._
 */
 
 "<sc>My dearest Lizzy</sc>,--Your letter to-day gives
@@ -5310,9 +5310,9 @@ explains to Elizabeth the system of Bishop Berkeley.
 
 
 /*
-<i>Mr. Wilberforce to his daughter Elizabeth.</i>
+_Mr. Wilberforce to his daughter Elizabeth._
 "<sc>Highwood Hill</sc>,
-"<i>July 13, 1830</i>.
+"_July 13, 1830_.
 */
 
 "<sc>My dear Lizzy</sc>,--If many intentions to write
@@ -5332,7 +5332,7 @@ that of eating, that the turkies and fowls were as
 good and as freely bestowed as when I used to partake
 of them in earlier years. All mere delusion.
 All imagination. All ideal. There is no Elizabeth
-(she only <i>appeared</i> to occupy an ideal place in an
+(she only _appeared_ to occupy an ideal place in an
 ideal carriage, when she travelled down to Mosely
 and Elmdon), there is no Miss Palmer, nor are the
 fowls and turkies a whit more substantial than the
@@ -5376,7 +5376,7 @@ introduction--'C'est une personne qui inspire un
 profond interêt. Elle a tant de dignité et de
 douceur.' The epithets appear to me very happy.
 And now, my dear Lizzy, I must conclude my very
-disjointed letter, written <i>à plusiers reprises</i> as the
+disjointed letter, written _à plusiers reprises_ as the
 French phrase it."
 
 Elizabeth would seem to have written to her
@@ -5396,9 +5396,9 @@ practical.
 
 
 /*
-<i>Mr. Wilberforce to his daughter Elizabeth.</i>
+_Mr. Wilberforce to his daughter Elizabeth._
   "<sc>Highwood Hill</sc>,
-     "<i>July 26, 1830</i>.
+     "_July 26, 1830_.
 */
 
 "<sc>My Very Dear Lizzy</sc>,--Though, owing to my
@@ -5465,8 +5465,8 @@ proof of the grand change of conversion in his child.
 
 
 /*
-<i>Mr. Wilberforce to his son Samuel.
-  "September 13, 1814.</i>
+_Mr. Wilberforce to his son Samuel.
+  "September 13, 1814._
 */
 
 "I was shocked to hear that you are nine years
@@ -5474,20 +5474,20 @@ old; I thought it was eight. You must take great
 pains to prove to me that you are nine not in years
 only, but in head and heart and mind. Above all,
 my dearest Samuel, I am anxious to see decisive
-marks of your having begun to undergo the <i>great
-change</i>. I come again and again to look to see if
+marks of your having begun to undergo the _great
+change_. I come again and again to look to see if
 it really be begun, just as a gardener walks up
 again and again to examine his fruit trees and see
 if his peaches are set; if they are swelling and
 becoming larger, finally if they are becoming ripe
 and rosy. I would willingly walk barefoot from
 this place to Sandgate to see a clear proof of the
-<i>grand change</i> being begun in my dear Samuel at
+_grand change_ being begun in my dear Samuel at
 the end of my journey."[44]
 
 
 /*
-<i>"March 25, 1817.</i>
+_"March 25, 1817._
 */
 
 "I do hope, my dear Samuel, like his great
@@ -5505,7 +5505,7 @@ object which happens at the time to interest us."
 
 
 /*
-"<i>June 5, 1817.</i>
+"_June 5, 1817._
 */
 
 "<sc>My Dear Samuel</sc>,--Loving you as dearly as I do,
@@ -5531,7 +5531,7 @@ our Saviour expressed it to Nicodemus."
 
 
 /*
-"<i>July 19th.</i>
+"_July 19th._
 */
 
 "I will procure and send you Goldsmith's 'Grecian
@@ -5550,7 +5550,7 @@ of flesh in its place."
 
 
 /*
-"<i>August 15th, 1817.</i>
+"_August 15th, 1817._
 */
 
 "The great rule practically for pleasing our
@@ -5559,12 +5559,12 @@ thinking of Him occasionally and trying to please
 Him, by not merely not doing evil, but by doing
 good; not merely negatively trying not to be
 unkind, not to be disobedient, not to give pain, but
-trying positively, to <i>be kind</i>, to be obedient, to give
+trying positively, to _be kind_, to be obedient, to give
 pleasure."
 
 
 /*
-"<i>November 1, 1817.</i>
+"_November 1, 1817._
 */
 
 "<sc>My very dear Samuel</sc>,--Though some company
@@ -5583,7 +5583,7 @@ well."
 
 
 /*
-"<i>May 2, 1818.</i>
+"_May 2, 1818._
 */
 
 "Could you both but look into my heart and
@@ -5600,7 +5600,7 @@ Christian obedience."
 
 
 /*
-"<i>April 25, 1818.</i>
+"_April 25, 1818._
 */
 
 "Our West Indian warfare is begun, and our
@@ -5612,7 +5612,7 @@ which the law protects us from personal injury!"
 
 
 /*
-"<i>June 26, 1818.</i>
+"_June 26, 1818._
 */
 
 "My dear children little think how often we
@@ -5630,7 +5630,7 @@ things."
 
 
 /*
-"<i>February 13, 1819.</i>
+"_February 13, 1819._
 */
 
 "I am very glad that you like your new situation.
@@ -5642,7 +5642,7 @@ purpose."
 
 
 /*
-"<i>March 12, 1819.</i>
+"_March 12, 1819._
 */
 
 "On the whole, Mr. Hodson's report of you is a
@@ -5666,7 +5666,7 @@ his besetting sins."[47]
 
 
 /*
-"<i>May 22, 1819.</i>
+"_May 22, 1819._
 */
 
 "I hear with pleasure of your goings on, and I
@@ -5678,10 +5678,10 @@ and family!"
 
 
 /*
-"<i>May 25, 1819.</i>
+"_May 25, 1819._
 */
 
-"I do not like to write merely on the <i>outside</i> of
+"I do not like to write merely on the _outside_ of
 this cover, though I have time to insert very little
 within, yet as when you were a little boy I used
 to delight in taking a passing kiss of you, so now
@@ -5704,7 +5704,7 @@ my very dear Samuel."
 
 
 /*
-"<i>September 17, 1819.</i>
+"_September 17, 1819._
 */
 
 "<sc>My Dear Boy</sc>,--It is a great pleasure to me
@@ -5734,7 +5734,7 @@ stewardship."
 
 
 /*
-"<sc>Weymouth</sc>, <i>September, 1820</i>.
+"<sc>Weymouth</sc>, _September, 1820_.
 */
 
 "I have this day learned for the first time that
@@ -5743,7 +5743,7 @@ some of the boys were to go to them. I will be
 very honest with you. When I heard that the
 cost was to be half a guinea, I greatly doubted
 whether it would be warrantable to pay such a
-sum for such a performance for such <i>youth</i>. This
+sum for such a performance for such _youth_. This
 last consideration has considerable weight with me,
 both as it renders the pleasure of the entertainment
 less, and as at your early age the sources of
@@ -5757,7 +5757,7 @@ yes. Q.E.D."
 
 
 /*
-"<i>September 4, 1820.</i>
+"_September 4, 1820._
 */
 
 "I am persuaded that my dear Samuel will
@@ -5777,7 +5777,7 @@ Christian may always be best estimated."
 
 
 /*
-"<sc>Bath</sc>, <i>September 23, 1820</i>.
+"<sc>Bath</sc>, _September 23, 1820_.
 */
 
 "Did you ever cross a river with a horse in a
@@ -5828,7 +5828,7 @@ His love and fear continually."
 
 
 /*
-"<i>November 20, 1820.</i>
+"_November 20, 1820._
 */
 
 "We quite enjoyed your pleasure in Robert's
@@ -5839,7 +5839,7 @@ of our pleasures."
 
 
 /*
-"<sc>Bath</sc>, <i>November 18, 1820</i>.
+"<sc>Bath</sc>, _November 18, 1820_.
 */
 
 "<sc>My dear Samuel</sc>.--I am sorry to hear that
@@ -5863,7 +5863,7 @@ his stay was protracted a very little out of self-indulgence
 occasioned by the necessity of his going up to
 London on account of his ancle. (By the way,
 tell me in two words--ancle better or worse or
-<i>idem.</i>) But my Samuel must not vex himself
+_idem._) But my Samuel must not vex himself
 with the idea of falling below the boy who has
 commonly been his competitor, owing to his stay
 having prevented his reading what is to be in
@@ -5873,7 +5873,7 @@ and that for several reasons. First, everybody
 about you will know the disadvantages under
 which you start, and will make allowances accordingly.
 Next, if you do as well or better in the
-parts you <i>have</i> read, you will show the probability
+parts you _have_ read, you will show the probability
 of your having done well in the other also, if you
 had possessed with it the same advantage. And
 what I wish my dearest boy seriously to consider
@@ -5967,7 +5967,7 @@ for you nor for myself."[48]
 
 
 /*
-"<sc>Downing Street</sc>, <i>December 11, 1820</i>.
+"<sc>Downing Street</sc>, _December 11, 1820_.
 */
 
 "Three words, or, rather, five lines, just to
@@ -5987,7 +5987,7 @@ their letters. Two may serve as specimens:--
 
 
 /*
-"<i>February 24, 1821.</i>
+"_February 24, 1821._
 */
 
 "Perhaps at the very time of your being occupied
@@ -5997,7 +5997,7 @@ you to the throne of grace."
 
 
 /*
-"<i>September 5.</i>
+"_September 5._
 */
 
 "Probably at the very same time you will be
@@ -6006,7 +6006,7 @@ me."
 
 
 /*
-"<sc>London</sc>, <i>June 30, 1821</i>.
+"<sc>London</sc>, _June 30, 1821_.
 */
 
 "<sc>My very dear Boy</sc>,--I congratulate you cordially
@@ -6031,7 +6031,7 @@ celestial plant, the fruits of which are the produce
 of the Garden of God. My dear Samuel, be honest
 with yourself; you have enjoyed and still enjoy
 many advantages for which you are responsible.
-Use them <i>honestly</i>; that is, according to their just
+Use them _honestly_; that is, according to their just
 intention and fair employment and improvement.
 Above all things, my dearest boy, cultivate a
 spirit of prayer. Never hurry over your devotions,
@@ -6039,7 +6039,7 @@ still less omit them. Farewell, my dearest boy."
 
 
 /*
-"<i>1821.</i>
+"_1821._
 */
 
 "In speaking of the pros and cons of Maisemore,
@@ -6081,7 +6081,7 @@ eulogium, and so I trust he will continue doing."
 
 
 /*
-"<i>October 12, 1821.</i>
+"_October 12, 1821._
 */
 
 "It is quite delightful to me to receive such an
@@ -6093,7 +6093,7 @@ father's heart, and melt his mother's."
 
 
 /*
-"<i>February 20, 1822.</i>
+"_February 20, 1822._
 */
 
 "You never can have a friend, your dear
@@ -6174,7 +6174,7 @@ blessing to your fellow-creatures."
 
 
 /*
-"<i>March 30, 1822.</i>
+"_March 30, 1822._
 */
 
 "It is scarcely possible for children to have an
@@ -6192,7 +6192,7 @@ him on Sunday, 31st March, 1822."
 
 
 /*
-"<i>April, 1822.</i>
+"_April, 1822._
 */
 
 "Though honestly my purse is in such a state
@@ -6207,7 +6207,7 @@ book that I would not get you."
 
 
 /*
-"<i>October 22, 1822.</i>
+"_October 22, 1822._
 */
 
 "The train of your idea and feelings is precisely
@@ -6292,7 +6292,7 @@ illicit intercourse with the female sex, so he likewise
 mentions it as a striking proof of the superior
 excellence of Christ's moral precepts, that in the case
 of chastity and purity it lays the restraint on the
-<i>heart</i> and on the <i>thoughts</i> as the only way of
+_heart_ and on the _thoughts_ as the only way of
 providing against the grossest acts of disobedience.
 Oh, my dear Samuel, guard here with especial care,
 and may God protect and keep you. Indeed, I
@@ -6306,14 +6306,14 @@ seasons and their change.'"
 
 
 /*
-"<i>October 26, 1822.</i>
+"_October 26, 1822._
 */
 
-"I cannot to-day send you the account of <i>time</i>,
+"I cannot to-day send you the account of _time_,
 but I will transmit it to you. It was a very simple
 business, and the chief object was to take precautions
 against the disposition to waste time at breakfast
-and other <i>rendezvous</i>, which I have found in myself
+and other _rendezvous_, which I have found in myself
 when with agreeable companions, and to prove to
 myself by the decisive test of figures that I was
 not working so hard as I should have supposed
@@ -6324,7 +6324,7 @@ the future day."
 
 
 /*
-"<i>March 17, 1822.</i>
+"_March 17, 1822._
 */
 
 "No man has perhaps more cause for gratitude
@@ -6346,7 +6346,7 @@ formed."
 
 
 /*
-"<i>November 22, 1822.</i>
+"_November 22, 1822._
 */
 
 "Robert Grant's[49] election has cost my eyes more
@@ -6395,7 +6395,7 @@ many of our fellow-creatures. It used, when I was
 a bachelor especially, when I often spent my
 Sundays alone, to be my frequent Sunday habit to
 number up my blessings, and I assure you it is a
-most useful practice; <i>e.g.</i>, that I had been born in
+most useful practice; _e.g._, that I had been born in
 Great Britain, in such a century, such a part of it,
 such a rank in life, such a class and character of
 parents, then my personal privileges. But I have
@@ -6410,7 +6410,7 @@ of the plan.
 
 
 /*
-"<i>December 5, 1822.</i>
+"_December 5, 1822._
 */
 
 "I believe I never answered your question who it
@@ -6499,10 +6499,10 @@ circumstances of my life."
 
 
 /*
-"<i>March 23, 1823.</i>
+"_March 23, 1823._
 */
 
-"Above all remember <i>the one thing needful</i>. I
+"Above all remember _the one thing needful_. I
 had far rather that you should be a true
 Christian than a learned man, but I wish you
 to become the latter through the influence of the
@@ -6523,7 +6523,7 @@ after a certain day were to be free.
 
 
 /*
-"<i>May 17, 1832.</i>
+"_May 17, 1832._
 */
 
 "The debate was by no means so interesting
@@ -6559,7 +6559,7 @@ that of being able to study only when you have
 
 "I just recollect this letter will reach you on
 the Sunday. Allow me, therefore, to repeat my
-emphatic valediction <i>Remember</i>. You will be in
+emphatic valediction _Remember_. You will be in
 my heart and in my prayers, and probably we
 shall be celebrating about the same time the
 memorial of our blessed Lord's suffering and the
@@ -6578,7 +6578,7 @@ honourable of all human employments."[50]
 
 
 /*
-"<i>June 14.</i>
+"_June 14._
 */
 
 "All may be done through prayer--almighty
@@ -6593,7 +6593,7 @@ character, tempers, and life."
 
 
 /*
-"<i>July 12, 1823.</i>
+"_July 12, 1823._
 */
 
 "It has often been a matter of grief to me
@@ -6649,7 +6649,7 @@ or caprice.
 
 
 /*
-"<sc>Barmouth</sc>, <i>October 14, 1823.</i>
+"<sc>Barmouth</sc>, _October 14, 1823._
 */
 
 "<sc>My very dear Samuel</sc>,--I again take up my
@@ -6740,7 +6740,7 @@ import, and I think they are not always sufficiently
 borne in mind by really good people, this of
 course forbids all needless singularities, &c.) That
 principle must doubtless be kept in view. But
-again, <i>you</i> will not require me to prove that it
+again, _you_ will not require me to prove that it
 can only have any jurisdiction where there is
 nothing wrong to be participated in or encouraged.
 And therefore I am sure you will not deny that you
@@ -6759,9 +6759,9 @@ from them, if your so doing would fairly subject
 you to the charge of moroseness or any other evil
 imputation. I understand there is no excess, and
 that you separate after a short time. Its being
-more <i>agreeable</i> to you to stay away I should not
+more _agreeable_ to you to stay away I should not
 deem a legitimate motive if alone. But in all
-these questions the <i>practical</i> question often is, how
+these questions the _practical_ question often is, how
 the expenditure of any given amount of time and
 money (for the former I estimate full as highly
 as the latter) can be made productive of the best
@@ -6814,11 +6814,11 @@ we can, consistently with 'good report,' and with
 not suffering our good to be evil spoken of. I
 say this deliberately, that it is a duty not sufficiently
 borne in mind even by real Christians,
-when we read the <i>strong</i> passage in the 15th of
+when we read the _strong_ passage in the 15th of
 Deuteronomy, and still more when we remember
 our Saviour's language in the 25th of St. Matthew,
 we shall see reason to be astonished that the
-<i>generality</i> of those who do fear God, and mean
+_generality_ of those who do fear God, and mean
 in the main to please Him, can give away so
 small a proportion of their fortunes, and so little
 appear sensible of the obligation under which they
@@ -6839,8 +6839,8 @@ Samuel, be not satisfied with the name of
 Christian. But strive to be a Christian 'in life
 and in power and in the Holy Ghost.' I think a
 solitary walk or ride now and then would afford
-an excellent opportunity for cultivating <i>spirituality
-of mind</i>, the grand characteristic of the thriving
+an excellent opportunity for cultivating _spirituality
+of mind_, the grand characteristic of the thriving
 Christian.
 
 "But my feelings draw me off from the proper
@@ -6893,11 +6893,11 @@ evermore.
 
 
 /*
-"<i>November 5, 1823.</i>
+"_November 5, 1823._
 */
 
 "I trust I scarcely need assure you that I must
-always wish to make you comfortable <i>quoad</i> money
+always wish to make you comfortable _quoad_ money
 matters, and on the other hand that the less the cost
 of rendering you so, the more convenient to me.
 My income is much diminished within the last few
@@ -6915,7 +6915,7 @@ earthly parent loves his child."
 
 
 /*
-"<i>November 7, 1823.</i>
+"_November 7, 1823._
 */
 
 "There is a vile and base sentiment current
@@ -6949,7 +6949,7 @@ enjoy."[51]
 
 
 /*
-"<i>August 6, 1824.</i>
+"_August 6, 1824._
 */
 
 "I can bear silence no longer, and I beg you will
@@ -6970,7 +6970,7 @@ of calling them your friends. Is it yet too late?"
 
 
 /*
-"<i>September 10, 1824.</i>
+"_September 10, 1824._
 */
 
 "As I was talking to your mother this morning on
@@ -6985,7 +6985,7 @@ believe that you are economical on principle, and it
 is only by being so that one can be duly liberal.
 Without self-denial every man, be his fortune what
 it may, will find himself unable to act as he ought in
-this particular, not that <i>giving</i> is always the best
+this particular, not that _giving_ is always the best
 charity, far from it; employing people is often a far
 preferable mode of serving them. To you I may
 say that if I have been able to be liberal not less
@@ -7016,12 +7016,12 @@ year on charity.
 
 
 /*
-"<i>December 10, 1824.</i>
+"_December 10, 1824._
 */
 
 "I have deemed it quite a duty on this delicious
-day to prolong my country walk in a <i>tête-à-tête</i> with
-your dear mother, a <i>tête-à-tête</i>, however, from which
+day to prolong my country walk in a _tête-à-tête_ with
+your dear mother, a _tête-à-tête_, however, from which
 our dear children's images are not excluded. I own
 that those who are termed Methodists by the world
 do give more liberally to the distressed than others,
@@ -7046,7 +7046,7 @@ mind."
 
 
 /*
-"<i>October 26, 1825.</i>
+"_October 26, 1825._
 */
 
 "You ask me about your Uncle Stephen's having
@@ -7097,7 +7097,7 @@ completely) closed his declaration."
 
 
 /*
-"<i>December 16, 1825.</i>
+"_December 16, 1825._
 */
 
 "It is Henry Thornton[53] that was connected with
@@ -7124,7 +7124,7 @@ the calmness of a veteran."
 
 
 /*
-"<i>Sunday, January 22, 1826.</i>
+"_Sunday, January 22, 1826._
 */
 
 "You may have heard me mention, that when in
@@ -7176,7 +7176,7 @@ Heavenly Father bless to you the perusal of it...."
 
 
 /*
-"<i>February 27, 1826.</i>
+"_February 27, 1826._
 */
 
 "Let me assure you that you give me great
@@ -7200,7 +7200,7 @@ being needlessly singular, we never ought to be so,
 but for some special and good reason. Again, I
 am aware of what you suggest that, in our days, in
 which the number of those who profess a stricter
-kind of religion than the world of <i>soi-disant</i> Christians
+kind of religion than the world of _soi-disant_ Christians
 in general, there is danger lest a party spirit
 should creep in with its usual effects and evils.
 Against this, therefore, we should be on the watch.
@@ -7218,7 +7218,7 @@ making them you will give a favourable idea,
 produce a pleasing impression of your religious
 principles, and dispose people the rather to adopt
 them. But then, if you thereby are likely to
-become an <i>offence</i> (in the Scripture sense) to
+become an _offence_ (in the Scripture sense) to
 weaker Christians, (persons, with all their infirmities,
 eminently dear to Christ,) you may do more harm
 than good, and that to the class which had the
@@ -7230,11 +7230,11 @@ and disgust at lukewarmness, and the danger
 of damping the religious affections by such recreations
 as He had in mind. Of course I don't
 object to domestic dances. It is not the act, the
-<i>saltus</i>, but the <i>whole tone</i> of an assembly."
+_saltus_, but the _whole tone_ of an assembly."
 
 
 /*
-"<sc>Clifton</sc>, <i>May 27, 1826.</i>
+"<sc>Clifton</sc>, _May 27, 1826._
 */
 
 "I am very glad to think that you will be with
@@ -7263,7 +7263,7 @@ Christ."[54]
 
 
 /*
-"<i>April 20, 1826.</i>
+"_April 20, 1826._
 */
 
 "I would gladly fill my sheet, yet I can prescribe
@@ -7274,7 +7274,7 @@ your own mind would supply."
 
 
 /*
-"<i>September 30.</i>
+"_September 30._
 */
 
 "I am thankful to reflect that at the very moment
@@ -7305,7 +7305,7 @@ is, in 'Jonathan Edwards on the Religious Affections,'
 a book from which you will, I think, gain
 much useful matter, a very striking passage, in
 which he condemns with great severity, but not at
-all too great, <i>me judice</i>, that familiarity with the
+all too great, _me judice_, that familiarity with the
 Supreme King which was affected by some of the
 religionists of his day, as well as by Dr. Hawker
 recently, and remarks very truly that Moses and
@@ -7319,12 +7319,12 @@ asking him what advice he should give to a friend
 whose family was very irreligious. In the house
 of this friend 'it was a common phrase accompanying
 a shake of each other's hands on meeting,
-"May we meet together in <i>hell</i>."' The answer to
+"May we meet together in _hell_."' The answer to
 the appeal for advice is as follows:--
 
 
 /*
-"<i>July 28, 1826.</i>
+"_July 28, 1826._
 */
 
 "I will frankly confess to you that the clearness
@@ -7381,7 +7381,7 @@ late Mrs. Henry Thornton's mother, a woman of
 very superior powers and of great influence in our
 social circle, one day broke out to my mother--she
 afterwards said to me something of the same kind,
-not without tears--'Well, I can only say if <i>he</i> is
+not without tears--'Well, I can only say if _he_ is
 deranged I hope we all shall become so.' To your
 young friend again I need not suggest the duty of
 constant prayer for his nearest relatives. By degrees
@@ -7435,7 +7435,7 @@ silent."
 
 /*
 "<sc>Highwood Hill</sc>,
-  "<i>November 27, 1826.</i>
+  "_November 27, 1826._
 */
 
 "I hope you are pleased, I assure you I am, with
@@ -7449,7 +7449,7 @@ in my domestic concerns, that it would indicate a
 heart never to be satisfied were I not disposed in
 all that concerns my children, to cast all my care on
 Him: indeed, you pleased me not a little by stating
-your persuasion that it <i>might be</i> better for you ultimately
+your persuasion that it _might be_ better for you ultimately
 not to have succeeded (to the utmost) on
 this very occasion. And I rejoice the more in this
 impression of yours, because I am sure it does not
@@ -7463,7 +7463,7 @@ pure and virtuous pleasure.
 
 "Your dear mother in all weather that is not bad
 enough to drive the labourers within doors, is herself
-<i>sub dio</i>, studying the grounds, giving directions
+_sub dio_, studying the grounds, giving directions
 for new walks, new plantations, flower-beds, &c.
 And I am thankful for being able to say that the
 exposure to cold and dew hitherto has not hurt her--perhaps
@@ -7471,7 +7471,7 @@ it has been beneficial."
 
 
 /*
-"<i>August 25, 1827.</i>
+"_August 25, 1827._
 */
 
 "I was lately looking into Wrangham's 'British
@@ -7528,7 +7528,7 @@ be deemed favourable to either of you."
 
 
 /*
-"<i>March 20, 1828.</i>
+"_March 20, 1828._
 */
 
 "The cheerfulness, which at an earlier period of
@@ -7543,7 +7543,7 @@ friends and least of all to my children."
 
 
 /*
-"<i>July 22, 1828.</i>
+"_July 22, 1828._
 */
 
 "I am glad that any opportunity for your coming
@@ -7584,7 +7584,7 @@ than as merely wanting a little reformation?"
 
 
 /*
-"<i>November 20, 1828.</i>
+"_November 20, 1828._
 */
 
 "Has Sargent[56] heard of the fresh explosion in
@@ -7609,7 +7609,7 @@ the ground of superior merit."
 
 
 /*
-"<i>February 20, 1829.</i>
+"_February 20, 1829._
 */
 
 "Legh Richmond,[57] though an excellent man, was
@@ -7633,7 +7633,7 @@ his first year of married life with a partner, between
 whom and himself there was great mutual attachment,
 grounded on esteem, and a mutual acquaintance
 with each other's characters and dispositions, can
-never be so happy as when he is enjoying a <i>tête-à-tête</i>
+never be so happy as when he is enjoying a _tête-à-tête_
 with his bride. By the way, do you keep anything
 in the nature of a journal? A commonplace
 book I take it for granted you keep; and speaking
@@ -7663,7 +7663,7 @@ by the Bishop of Chester to Samuel Wilberforce.
 
 
 /*
-"<i>March 3, 1829.</i>
+"_March 3, 1829._
 */
 
 "Whether regarded in relation to your bodily
@@ -7693,7 +7693,7 @@ distance from almost all your friends, which I mention
 now in reference to the spiritual disadvantages
 of the situation, not in relation to your comfort and
 Emily's, in which, however, it may be fairly admitted
-to some weight. Again, <i>I</i> should much regret your
+to some weight. Again, _I_ should much regret your
 being placed where you would naturally be called to
 study controversial anti-Roman Catholic divinity,
 rather than that which expects the cultivation of
@@ -7712,7 +7712,7 @@ On the same topic Wilberforce writes again:--
 
 
 /*
-"<i>March 17th, 1829.</i>
+"_March 17th, 1829._
 */
 
 "I ought to tell you that in the reasons I assigned
@@ -7766,7 +7766,7 @@ its value to her double what it would be otherwise."[58]
 
 
 /*
-"<i>March 19, 1829.</i>
+"_March 19, 1829._
 */
 
 "In speaking of Whately's book I ought to
@@ -7786,11 +7786,11 @@ me, and supposing I can be advising you, either to
 be roguish, or shabbily reserved. But really I do
 think that you may produce an unfavourable and
 false impression of your principles and professional
-character, by talking unguardedly about <i>Methodistical</i>
+character, by talking unguardedly about _Methodistical_
 persons and opinions. Mrs. R. may report you as
 <sc>UNSOUND</sc> to the Bishop of Winchester, and he
 imbibe a prejudice against you. Besides, my dear
-Samuel, I am sure you will not <i>fire</i> when I say
+Samuel, I am sure you will not _fire_ when I say
 that you may see reason on farther reading, and
 reflection, and more experience to change or qualify
 some of the opinions you may now hold. I own,
@@ -7813,7 +7813,7 @@ on the score of being wanting in gratitude, than on
 any other."
 
 
-"<i>April 3, 1829.</i>
+"_April 3, 1829._
 
 "Articles sent to Mr. Samuel--Bewick, Venn's
 Sermons (2 vols.), White's 'Selborne' (2 vols.
@@ -7855,7 +7855,7 @@ path of duty, and that is all in all."
 
 
 /*
-"<i>September 7, 1829.</i>
+"_September 7, 1829._
 */
 
 "An admirable expedient has this moment
@@ -7888,7 +7888,7 @@ to whose future course I can look with so much
 humble hope, and even joyful confidence. It is
 also with no little thankfulness that I reflect on
 your domestic prospects, from the excellent qualities
-of your, let me say <i>our</i>, dear Emily. I must stop,
+of your, let me say _our_, dear Emily. I must stop,
 the rest shall be prayer, prayer for both of you, that
 your course in this life may be useful and honourable,
 and that you may at length, accompanied by
@@ -7899,7 +7899,7 @@ into the everlasting kingdom of God."
 
 
 /*
-"<i>September 28, 1829.</i>
+"_September 28, 1829._
 */
 
 "How much do they lose of comfort, as well as,
@@ -7930,7 +7930,7 @@ greater size and consequence."
 
 
 /*
-"<i>November 21, 1829.</i>
+"_November 21, 1829._
 */
 
 "We have been for a few days at Battersea
@@ -7950,7 +7950,7 @@ day."
 
 
 /*
-"<i>December 17, 1829.</i>
+"_December 17, 1829._
 */
 
 "We ought not to expect this life to flow on
@@ -7979,19 +7979,19 @@ favoured Christians, rather than as the general
 character of all, yet I believe that except for some
 hypochondriacal affection, or state of spirits arising
 from bodily ailments, every Christian ought to be
-very distrustful of himself, <i>and to call himself to
-account, as it were</i>, if he is not able to maintain a
+very distrustful of himself, _and to call himself to
+account, as it were_, if he is not able to maintain a
 settled frame of 'inward peace,' if not joy. It is
 to be obtained through the Holy Spirit, and therefore
 when St. Paul prays for the Roman Christians
-that they may be filled with all <i>peace</i> and <i>joy</i> in
+that they may be filled with all _peace_ and _joy_ in
 believing, and may abound in hope, it is added,
 through the power of the Holy Ghost."
 
 
 /*
 "<sc>Highwood Hill</sc>,
-  "<i>December 31, 1829.</i>
+  "_December 31, 1829._
 */
 
 "<sc>My dear Children</sc>,--For to both of you I
@@ -8056,7 +8056,7 @@ matter for gratitude and humiliation, (I am sure I
 find the latter most powerfully called forth in my
 heart by my own survey). Many thanks for your
 last kind letter. You have precisely anticipated
-what was said by the several <i>dramatis personæ</i>. It
+what was said by the several _dramatis personæ_. It
 is a real sacrifice for Emily and you to be absent
 from my family circle. But the sacrifice is to duty,
 and that is enough. And you have no small ground
@@ -8077,7 +8077,7 @@ this feeling.
 
 /*
 "<sc>Highwood Hill</sc>,
-  "<i>November 25, 1830.</i>
+  "_November 25, 1830._
 */
 
 "Your mother suggests that a threshing machine
@@ -8098,7 +8098,7 @@ instance, of the principle of gravity."
 
 
 /*
-"<i>December 9, 1830.</i>
+"_December 9, 1830._
 */
 
 "I have been delaying the books that all might
@@ -8123,7 +8123,7 @@ the letters will be too late. So farewell."
 
 
 /*
-"<i>December 17, 1830.</i>
+"_December 17, 1830._
 */
 
 "I have always thought that your having a
@@ -8145,7 +8145,7 @@ influence of the Holy Spirit was in the heart, that
 Spirit may be grieved and quenched. The good
 seed in the hearts of the stony-ground hearers is
 just an instance in point. When my friend Terrot
-was chaplain, of the <i>Defence</i> I think, great numbers
+was chaplain, of the _Defence_ I think, great numbers
 of the rough sailors were deeply affected by
 his conversation and sermons, of whom, I think he
 said, thirty only appeared in the sequel to be permanently
@@ -8153,7 +8153,7 @@ changed."
 
 
 /*
-"<i>January 4, 1831.</i>
+"_January 4, 1831._
 */
 
 "You are now a man possessed of as much
@@ -8170,7 +8170,7 @@ derived are chiefly Lives and Memoirs. Numbers
 of these have been published of late years, and the
 object is one which would give opportunities for
 exercising sagacity, as well as candour. There is
-this also of good in it that, <i>nullus dies sine lineâ</i>, you
+this also of good in it that, _nullus dies sine lineâ_, you
 might be continually finding some fresh fact or hint,
 which would afterwards be capable of being turned
 to good account. The Annual Registers and the
@@ -8192,18 +8192,18 @@ subject of duelling is one which I never saw well
 treated; a very worthy and sensible man, a Scotchman
 who was shipwrecked in Madagascar, I forget
 his name (was it Duncan?) sent me one, his own
-writing, but I thought it <i>naught</i>. And now my
+writing, but I thought it _naught_. And now my
 very dear boy farewell."
 
 Wilberforce writes to Mrs. Samuel Wilberforce
 the day after his daughter Elizabeth's marriage.
 
 
-<i>Mr. Wilberforce to Mrs. Samuel Wilberforce.</i>
+_Mr. Wilberforce to Mrs. Samuel Wilberforce._
 
 /*
 "<sc>Highwood Hill</sc>,
-  "<i>January 12, 1831.</i>
+  "_January 12, 1831._
 */
 
 "<sc>My dear Emily</sc>,--We had a delightful day
@@ -8254,10 +8254,10 @@ my dear Emily.
 */
 
 
-<i>Mr. Wilberforce to the Rev. Samuel Wilberforce.</i>
+_Mr. Wilberforce to the Rev. Samuel Wilberforce._
 
 /*
-"<i>February 8, 1831.</i>
+"_February 8, 1831._
 */
 
 "<sc>My dear Samuel</sc>,--Pray both for your mother
@@ -8288,7 +8288,7 @@ affectionate father,
 
 /*
 "<sc>Highwood Hill</sc>,
-  "<i>March 4, 1831.</i>
+  "_March 4, 1831._
 */
 
 "I will frankly confess to you that I almost tremble
@@ -8317,17 +8317,17 @@ that it comes to the point I am a little disposed to
 exclaim, 'O happy hills! O pleasing shades!' &c.
 But I should be ashamed were I to have any other
 prevailing feeling than thankfulness. I feel most the
-separation from my books. However, <i>sursum corda</i>."
+separation from my books. However, _sursum corda_."
 
 Wilberforce writes to his friend Babington on
 Lord Russell's propositions:--
 
 
-<i>Mr. Wilberforce to Mr. Babington.</i>
+_Mr. Wilberforce to Mr. Babington._
 
 /*
 "<sc>Highwood Hill</sc>,
-  "<i>March 14, 1831.</i>
+  "_March 14, 1831._
 */
 
 "<sc>My dear Tom</sc>,--I fear you will be again
@@ -8356,10 +8356,10 @@ I should like to know your sentiments on the
 plan."
 
 
-<i>Mr. Wilberforce to the Rev. Samuel Wilberforce.</i>
+_Mr. Wilberforce to the Rev. Samuel Wilberforce._
 
 /*
-"<i>April 8, 1831.</i>
+"_April 8, 1831._
 */
 
 "And now, my dear Samuel, we have commenced
@@ -8374,7 +8374,7 @@ he "became a wanderer without any certain dwelling-place."
 
 /*
 "<sc>Kensington Gore</sc>,
-  "<i>April 20th.</i>
+  "_April 20th._
 */
 
 "It must be three weeks or more since Lord
@@ -8402,7 +8402,7 @@ would not afford me a suitable residence."
 
 
 /*
-"<i>April 23, 1831.</i>
+"_April 23, 1831._
 */
 
 "You cannot conceive how little time I appear to
@@ -8420,7 +8420,7 @@ few men have suffered from them so little as myself."
 
 
 /*
-"<sc>Bath</sc>, <i>October 19, 1831.</i>
+"<sc>Bath</sc>, _October 19, 1831._
 */
 
 "I am but poorly, and I am bothered (a vulgar
@@ -8446,7 +8446,7 @@ that purpose.
 
 
 /*
-"<i>Friday, 12 o'clock, October 21st.</i>
+"_Friday, 12 o'clock, October 21st._
 */
 
 "Our American friend has left us this morning
@@ -8497,7 +8497,7 @@ kiss to sweet baby."
 
 /*
 "<sc>Blaize Castle</sc>,[65]
-  "<i>October 31, 1831.</i>
+  "_October 31, 1831._
 */
 
 "You will hear what dreadful work has been
@@ -8546,12 +8546,12 @@ fear for the Church in these days."
 
 
 /*
-"<sc>Blaize Castle</sc>, <i>November 2.</i>
+"<sc>Blaize Castle</sc>, _November 2._
 */
 
 "The Bristol riots, though in some particulars
 the accounts were as usual exaggerated, were
-quite horrible, and the <i>great</i> events as reported.
+quite horrible, and the _great_ events as reported.
 But a striking instance was afforded how easily
 perpetrations, if I may use the word, the most
 horrible may be at once arrested by determined
@@ -8583,7 +8583,7 @@ usual, out of evil good may arise."
 
 
 /*
-"<sc>Bath</sc>, <i>November 13, 1831.</i>
+"<sc>Bath</sc>, _November 13, 1831._
 */
 
 "I think you know Mr. Pearse of this place,
@@ -8639,8 +8639,8 @@ opinion by general kindness, sending him game,
 important doctrines of true Christianity and of
 showing where the case is really so, that he may
 embrace those doctrines and still continue a good
-Roman Catholic. There is in the <i>Christian
-Observer</i> for September last a critique on Dr.
+Roman Catholic. There is in the _Christian
+Observer_ for September last a critique on Dr.
 Whately's sermons by the Bishop of Chichester.
 He is said, in the outset, to have stated in a
 pamphlet on the Bible Society controversy, that
@@ -8653,12 +8653,12 @@ rest likely to do more harm than good."
 
 
 /*
-"<sc>Bath</sc>, <i>December 6, 1831.</i>
+"<sc>Bath</sc>, _December 6, 1831._
 */
 
 "I am unaffectedly sorry for having been apparently
 so dilatory in complying with your request
-for hymns and tunes. I use the word <i>apparently</i>,
+for hymns and tunes. I use the word _apparently_,
 because to any charge of suffering any opportunity
 of executing the commission to pass by
 unimproved, I may boldly plead not guilty.
@@ -8684,7 +8684,7 @@ to me for prompt execution. I will put down in
 any letter I may write to you any hymns and
 hymn tunes which I like ('Happy the heart
 where graces reign,' Lock tune), and you may
-add together the <i>disjecta membra</i> into one list.
+add together the _disjecta membra_ into one list.
 But I have not hymn-books here except G.
 Noel's. At Highwood I have a considerable
 number. Your poor mother is worried to pieces
@@ -8699,7 +8699,7 @@ their comfort."
 
 
 /*
-"<i>January 19, 1832.</i>
+"_January 19, 1832._
 */
 
 "St. John says, you will remember, 'I have no
@@ -8717,7 +8717,7 @@ which I probably should not have enjoyed
 in the same degree had I still a residence of my
 own--more than compensate all I suffer from the
 want of a proper home. Indeed, there are but
-two particulars that I at all feel, <i>i.e.</i>, the absence
+two particulars that I at all feel, _i.e._, the absence
 of my books, and the not being able to practise
 hospitality; though that is rather a vulgar word
 for expressing my meaning, which is, the pleasure
@@ -8731,7 +8731,7 @@ life."
 
 
 /*
-"<sc>Bath</sc>, <i>June 14, 1832.</i>
+"<sc>Bath</sc>, _June 14, 1832._
 */
 
 "I forget whether you know the Dean of Winchester[69]
@@ -8750,7 +8750,7 @@ of family prayers, beginning with the
 Rector of St. Botolph's (Bishop of London's)."
 
 /*
-"<i>July 12, 1832.</i>
+"_July 12, 1832._
 */
 
 
@@ -8820,7 +8820,7 @@ the weary, diligent hand finally "lay down the pen."
 
 
 /*
-"<i>December 18, 1832.</i>
+"_December 18, 1832._
 */
 
 "Although we should use great modesty in
@@ -8843,7 +8843,7 @@ appeared mysterious."
 
 
 /*
-"<i>December 28, 1832.</i>
+"_December 28, 1832._
 */
 
 "I should wish to suggest to you an idea that
@@ -9129,7 +9129,7 @@ Sir C. Wetherell, Recorder of Bristol. On his arrival in
 that city the riots began there by an attack upon his carriage,
 after which "Bristol was the theatre of the most disgraceful
 outrages that have been perpetrated in this country since the
-riots of London, 1780." (<i>An. Reg.</i> 1831.)]
+riots of London, 1780." (_An. Reg._ 1831.)]
 
 [Footnote 67: Mrs. Wilberforce writes to her son Samuel: "Shall I send
 you the deeds, &c., to take care of for the family, and the plate

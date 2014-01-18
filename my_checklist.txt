@@ -1,6 +1,5 @@
 Stage 2:
 
-convert italics to _
 bold to =
 sc to CAPs - <sc>(\n?[^<]+)</sc> to \U$1\E
 check for < or >
