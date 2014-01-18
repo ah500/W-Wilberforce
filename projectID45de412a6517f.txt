@@ -110,10 +110,6 @@ The letters to the latter are from the
 collection of 600 letters written by the father to
 the son.
 
-[Footnote 1: All Pitt's letters are carefully preserved in the library of
-Lavington House with the exception of this series which was
-found in a disused cupboard.]
-
 /*
 <sc>A. M. Wilberforce.</sc>
 
@@ -184,7 +180,7 @@ THE first of Pitt's letters to Wilberforce is "perhaps
 the only one extant that is racy of those rollicking
 times when the 'fruits of Pitt's earlier rising'
 appeared in the careful sowing of the garden beds
-with the fragments of Ryder's opera hat."[1]
+with the fragments of Ryder's opera hat."[2]
 
 /*
 "<sc>Grafton Street</sc>,
@@ -222,9 +218,6 @@ it is as well for me to try it no further.
 "<sc>W. Pitt</sc>."
 */
 
-[Footnote 1: Lord Rosebery's preface to "Pitt and Wilberforce Letters,"
-privately printed.]
-
 
 /*
 "<sc>Brighthelmstone</sc>,
@@ -244,8 +237,8 @@ making it pretty certain that there will be none
 now before the meeting of Parliament. The party
 to Rheims hold of course, at least as far as depends
 upon me; which is at least one good effect certain.
-I wrote yesterday to Eliot,[1] apprising him, that I
-should be ready to meet him at Bankes's[2] before the
+I wrote yesterday to Eliot,[3] apprising him, that I
+should be ready to meet him at Bankes's[4] before the
 last day of August; that I conceived we must proceed
 from thence to London, and that we ought to
 start within the three or four first days of September.
@@ -277,10 +270,6 @@ Somerset, and <i>if you will</i>, by London.
 "Ever sincerely yrs.,
 "<sc>W. Pitt</sc>."
 */
-
-[Footnote 1: Hon. Edward James Eliot, brother-in-law of Pitt.]
-
-[Footnote 2: Mr. Henry Bankes, Wilberforce's life-long friend.]
 
 
 Pitt's next letter refers to the General Election
@@ -473,13 +462,11 @@ his probable retirement from political life. He no
 doubt thought that Pitt would fail to sympathise
 with his altered views, but the man who was "so
 absorbed in politics that he had never given himself
-time for due reflection on religion"[1] wished to
+time for due reflection on religion"[5] wished to
 understand the religious difficulties of his friend,
 and with the greatest tenderness begs him to open
 his mind to "one who does not know how to
 separate your happiness from his own."
-
-[Footnote 1: "Life of Wilberforce," vol. i. p. 95.]
 
 
 /*
@@ -487,7 +474,7 @@ separate your happiness from his own."
 "<i>December 2, 1785</i>.
 */
 
-"<sc>My dear Wilberforce</sc>,--Bob Smith[1] mentioned
+"<sc>My dear Wilberforce</sc>,--Bob Smith[6] mentioned
 to me on Wednesday the letters he had
 received from you, which prepared me for that I
 received from you yesterday. I am indeed too
@@ -500,8 +487,6 @@ ever lead you to, I will not disguise to you that
 few things could go nearer my heart than to find
 myself differing from you essentially on any great
 principle.
-
-[Footnote 1: Afterwards first Lord Carrington.]
 
 "I trust and believe that it is a circumstance
 which can hardly occur. But if it ever should, and
@@ -578,23 +563,19 @@ satisfaction.
 */
 
 Pitt came the next morning according to his
-proposal in this remarkable letter: when Wilberforce[1]
+proposal in this remarkable letter: when Wilberforce[7]
 "conversed with Pitt near two hours, and
 opened myself completely to him.... He tried
 to reason me out of my convictions, but soon
 found himself unable to combat their correctness
 if Christianity were true." To quote Lord Rosebery's
-Preface[2] to these letters: "Surely a
+Preface[8] to these letters: "Surely a
 memorable episode, this heart-searching of the
 young saint and the young minister. They went
 their different ways, each following their high ideal
 in the way that seemed best to him. And so it
 went on to the end, Wilberforce ever hoping to
 renew the sacred conversation."
-
-[Footnote 1: "Life of Wilberforce," vol. i. p. 95.]
-
-[Footnote 2: Privately printed.]
 
 
 /*
@@ -1356,13 +1337,10 @@ may be able to go on to Bath for a fortnight.
 Two examples are here given of Wilberforce's
 letters to Pitt. The first is written in the character
 of a country member and political friend. The second
-is one in reference to his work on Practical Religion.[1]
+is one in reference to his work on Practical Religion.[9]
 They are both, as is generally the case with his
 letters to Pitt, undated, but the post-mark of the
 second bears "1797."
-
-[Footnote 1: "A Practical View of the Prevailing Religious System of
-Professed Christians," &c., London, 1797.]
 
 
 <i>Mr. Wilberforce to Right Hon. William Pitt.</i>
@@ -1533,10 +1511,8 @@ Firm at his dangerous post he stood;
 Each call for needful rest repelled
 With dying hand the rudder held
 Till, in his fall, with fateful sway
-The steerage of the realm gave way!"[1]
+The steerage of the realm gave way!"[10]
 P/
-
-[Footnote 1: "Marmion," Introduction to Canto 1.]
 
 <i>SKETCH OF PITT BY W.
 WILBERFORCE</i>
@@ -1661,7 +1637,7 @@ Mr. Bankes and I (Lord Westmoreland only
 excepted, with whom, on account of his politics,
 Mr. Pitt had little connection) were the only
 members of the society who had houses of their
-own, Mr. Bankes in London, and I at Wimbolton[1]
+own, Mr. Bankes in London, and I at Wimbolton[11]
 in Surrey. Mr. Bankes often received his friends
 to dinner at his own house, and they frequently
 visited me in the country, but more in the following
@@ -1672,11 +1648,7 @@ go out of town for that purpose as late as eleven
 or twelve o'clock at night, slept at Wimbolton for
 two or three months together. It was, I believe,
 rather at a later period that he often used to sleep
-also at Mr. Robert Smith's house at Hamstead.[2]
-
-[Footnote 1: Wimbledon.]
-
-[Footnote 2: Hampstead.]
+also at Mr. Robert Smith's house at Hamstead.[12]
 
 Mr. Pitt was not long in the House of Commons
 before he took a part in the debates: I was present
@@ -1732,7 +1704,7 @@ arose which plainly indicated the mutual distrust of
 the two parties. Lord Rockingham's constitution
 was much shaken, and after a short illness his
 death took place before the end of the session of
-Parliament, about the middle of June, 1782.[1] Mr.
+Parliament, about the middle of June, 1782.[13] Mr.
 Pitt had taken occasion to declare in the House of
 Commons that he would accept no subordinate
 situation, otherwise there is no doubt he would have
@@ -1740,7 +1712,7 @@ been offered a seat at the Treasury Board, or
 indeed any office out of the Cabinet; but on Lord
 Rockingham's death, notwithstanding Mr. Fox's
 endeavour to prevent a rupture by declaring that
-<i>no disunion existed</i>,[2] the disagreement between the
+<i>no disunion existed</i>,[14] the disagreement between the
 parties, of which so many symptoms had before
 manifested themselves, became complete and
 notorious. Lord Shelburne being invited by the
@@ -1750,12 +1722,6 @@ office, and Mr. Pitt accepted the offer made him by
 Lord Shelburne of becoming Chancellor of the
 Exchequer: he had completed his twenty-third year
 the 28th of May preceding.
-
-[Footnote 1: Here Mr. Wilberforce adds a pencilled note: "Devonshire
-House Ball. King."]
-
-[Footnote 2: Mr. Wilberforce has written over this in pencil: "Qy.--Not
-a stroke of Providence could sever."]
 
 There was more than one day of debate even
 during that session, in which Mr. Pitt indicated that
@@ -1804,7 +1770,7 @@ from the House of Commons after our defeat about
 eight in the morning, where a dinner had been
 waiting for us from eleven or twelve the preceding
 night, and where we all laughed heartily at some
-characteristic traits exhibited by Lord Stanhope,[1]
+characteristic traits exhibited by Lord Stanhope,[15]
 then Lord Mahon. An administration was then
 formed of which the Duke of Portland was at the
 head, and Lord North and Mr. Fox joint Secretaries
@@ -1880,9 +1846,6 @@ country, which, without scruple, they sold on their
 own account. And I remember the widow of the
 former Marshal Detrée intimating a wish that Mr.
 Pitt would become her customer.
-
-[Footnote 1: Mr. Wilberforce has erased here "for desiring Mr. Pitt before
-he went out to pass his register bills."]
 
 Thence we went to Paris, having an opportunity
 during that time of spending four or five days
@@ -1962,7 +1925,7 @@ majority attested the truth of Mr. Pitt's assertion
 that he possessed the confidence of his country.
 In many counties and cities the friends of Mr.
 Fox were turned out, thence denominated Fox's
-Martyrs.[1] I myself became member for Yorkshire
+Martyrs.[16] I myself became member for Yorkshire
 in the place of Mr. Foljambe, Sir George Savile's
 nephew, who had succeeded that excellent public
 man in the representation of the county not many
@@ -1977,16 +1940,7 @@ in office notwithstanding his being out-voted in the
 House of Commons, maintaining that the Opposition
 would not venture to refuse the supplies, and
 that at the proper moment he should dissolve the
-Parliament.[2]
-
-[Footnote 1: Mr. Wilberforce has written here in pencil on the margin,
-"Fox's Martyrs. Qy. number."]
-
-[Footnote 2: Mr. Wilberforce adds here a pencil note in his own handwriting:
-"Remarkable that when I entered York, in order to
-attend a public meeting which was about to take place, there was
-but one gentleman with whom I had the smallest acquaintance,
-the Rev. Wm. Mason, the poet."]
+Parliament.[17]
 
 And now having traced Mr. Pitt's course from
 childhood to the period when he commenced his
@@ -2125,7 +2079,7 @@ awake for a single minute, or ever appeared to
 sadden or cast a gloom over his hours of relaxation
 
 It cannot perhaps be affirmed that he was altogether
-free from pride, but great natural shyness,[1]
+free from pride, but great natural shyness,[18]
 and even awkwardness (French <i>gaucherie</i>), often
 produced effects for which pride was falsely charged
 on him; and really that confidence which might be
@@ -2186,9 +2140,6 @@ propping it up, but, casting it at once aside, he pursued
 his other business as cheerfully and pleasantly
 as usual.
 
-[Footnote 1: Here there is a pencil note: "For he was one of the shyest
-men I ever knew."]
-
 But there are many who with undisturbed composure
 and with a good grace can on <i>important</i>
 occasions thus change their line of conduct and
@@ -2237,15 +2188,13 @@ advantageously at the point at which he stopped.
 In society he was remarkably cheerful and
 pleasant, full of wit and playfulness, neither, like
 Mr. Fox, fond of arguing a question, nor yet
-holding forth, like some others.[1] He was always
+holding forth, like some others.[19] He was always
 ready to hear others as well as to talk himself.
 In very early life he now and then engaged in
 games of chance, and the vehemence with which
 he was animated was certainly very great; but finding
 that he was too much interested by them, all at
 once he entirely and for life desisted from gambling.
-
-[Footnote 1: Pencil note: "Wyndham."]
 
 His regard for truth was greater than I ever
 saw in any man who was not strongly under the
@@ -2435,9 +2384,7 @@ would have been the effects of all this, if not
 obstructed and counteracted in all the various
 ways by which war, that greatest scourge of the
 human race, carries on its baleful and wide
-wasting operations.[1]
-
-[Footnote 1: A note: "Vary here."]
+wasting operations.[20]
 
 Is it not a melancholy consideration that this
 very country, the constitution and laws of which
@@ -2493,15 +2440,13 @@ been the effect of these religious and moral secretions,
 if they may be so termed, which throughout
 the whole political body would have been gradually
 producing their blessed effects in augmenting its
-fulness, symmetry, and strength?[1] And these
+fulness, symmetry, and strength?[21] And these
 effects, remember, would have been of a merely
 public, still less of a merely political character.
 They would have been, to say the least, full as
 manifest, and even more fertile in the production
 of happiness in all the walks of private life and all
 the varieties of social combination.
-
-[Footnote 1: A note:--"Dilate, and Figure."]
 
 In considering the estimates which were formed
 of Mr. Pitt's and Mr. Fox's characters respectively,
@@ -2549,11 +2494,9 @@ that such was the nature of his oratory. Also the
 speeches of a minister were of necessity more
 guarded, and his subjects, except where he was
 opening some new proposition or plan, were rather
-prescribed to him by others, than selected by himself.[1]
+prescribed to him by others, than selected by himself.[22]
 
 <tb>
-
-[Footnote 1: Here is added in pencil, "2nd Nov. 1821."]
 
 The MS. of Canning's lines on Pitt is amongst
 the Wilberforce Papers; they are so little known
@@ -2566,9 +2509,7 @@ had been moved, and was not merely rejected,
 but, by an overwhelming majority, it was carried
 "that the Right Hon. William Pitt has rendered
 great and important services to his country, and
-especially deserved the gratitude of this House."[1]
-
-[Footnote 1: Rosebery's "Life of Pitt," p. 233.]
+especially deserved the gratitude of this House."[23]
 
 
 /P
@@ -2625,14 +2566,10 @@ P/
 
 <i>The letters which follow are from friends of
 Wilberforce between the years 1786-1832: they
-touch on a variety of subjects. George Rose[1] writes
+touch on a variety of subjects. George Rose[24] writes
 in 1790 in the full flush of excitement on the news
 of "peace certain and unequivocal on the very terms
 prescribed from hence."</i>
-
-[Footnote 1: Then Clerk of Parliaments. Rose writes to Wilberforce
-later: "I shall never find words, either in speaking or writing,
-to express what I think of you."]
 
 
 
@@ -2667,7 +2604,7 @@ of the country, and must prevent future occasions
 of quarrel with Spain; war with all its certain
 and possible consequences are (<i>sic</i>) avoided. So
 much for public benefits; what it must produce
-to the individual[1] to whom the merit is justly
+to the individual[25] to whom the merit is justly
 and fairly to be ascribed it is impossible at once
 to foresee--I mean with respect to character
 of everything that can be valuable to a man in
@@ -2684,12 +2621,8 @@ use of my reason, but I am
 */
 
 Pitt's views as to a bounty on corn in the
-scarcity then[2] prevailing are given by Rose in the
+scarcity then[26] prevailing are given by Rose in the
 next letter.
-
-[Footnote 1: Pitt.]
-
-[Footnote 2: About 1802.]
 
 
 <i>Right Hon. G. Rose to Mr. Wilberforce.</i>
@@ -2833,19 +2766,13 @@ House on that day.
 "<sc>George Rose.</sc>"
 
 The next two letters are from Dundas, afterwards
-Lord Melville,[1] "the only minister to whose judgment
+Lord Melville,[27] "the only minister to whose judgment
 Pitt greatly deferred." Wilberforce writes
 of him as "an excellent man of business and a
 fine, warm-hearted fellow," but later on he says,
 "his connection with Dundas was Pitt's great
-misfortune."[2] The first letter is on the subject
+misfortune."[28] The first letter is on the subject
 of free exports of our manufactures to Holland.
-
-[Footnote 1: Lecky, vol. vii. p. 32.]
-
-[Footnote 2: Dundas, who had been Treasurer to the Navy, was impeached
-on April 29, 1805, on a charge of misappropriating £10,000
-worth of public money. He was acquitted June 12, 1805.]
 
 
 <i>Right Hon. Henry Dundas to Mr. Wilberforce.</i>
@@ -3181,7 +3108,7 @@ considered frivolous; and to have used the extraordinary
 influence he possessed over his friends to
 endeavour to induce them also to forsake the world
 of fashion. The long letter which follows is from
-Lord Calthorpe (a relation of Barbara,[1] Wilberforce's
+Lord Calthorpe (a relation of Barbara,[29] Wilberforce's
 wife), who had been strongly advised by
 Wilberforce not to spend a Sunday with the
 Duchess of Gordon in Scotland. Lord Calthorpe
@@ -3193,13 +3120,6 @@ sleep while he read Leighton's "Commentary" to
 her. It would be of interest to know what were the
 "full and useful directions for public speaking" for
 which Lord Calthorpe is grateful to Wilberforce.
-
-[Footnote 1: William Wilberforce married Barbara, daughter of Isaac
-Spooner; she was the seventh Barbara in her family, the name
-having been handed down from mother to daughter. The first
-Barbara was daughter of Viscount Fauconberg and wife of
-Sir Henry Slingsby, Bart., who was beheaded on Tower Hill
-June 8, 1658, by Oliver Cromwell, for loyalty.]
 
 
 <i>Lord Calthorpe to Mr. Wilberforce.</i>
@@ -3304,17 +3224,13 @@ to Mrs. W.
 "You shall hear from me again."
 
 Wilberforce's influence with Pitt was also known
-to Maria, Duchess of Gloucester.[1] It will be remembered
+to Maria, Duchess of Gloucester.[30] It will be remembered
 that Henry William, third son of George
 II. (created Duke of Gloucester in 1764), married
 Maria, Dowager Countess of Waldegrave, in 1766.
 This lady writes to Wilberforce, hoping that through
 his "mediation with Pitt" a regiment of dragoons
 may be given to her son Lord Waldegrave.
-
-[Footnote 1: She was second daughter of Sir Edward Walpole; her uncle
-Horace Walpole writes of her: "For beauty I think she is the
-first match in England, she has infinite wit and vivacity."]
 
 
 <i>The Duchess of Gloucester to Mr. Wilberforce.</i>
@@ -3396,7 +3312,7 @@ that it is only lightly touched on here.
 
 In 1809 Hannah More wrote to Mr. Wilberforce:
 "Oh, if I could have had the benefit of
-your assistance in C[oe]lebs![1] but I could not be
+your assistance in C[oe]lebs![31] but I could not be
 such an unfeeling brute as to ask it. 'Tis not to
 <i>make a speech</i> when I say that <i>you</i> are the <i>only being</i>
 whose counsels would <i>in all points</i> have exactly
@@ -3405,16 +3321,6 @@ critical knowledge of the world in its higher classes
 with such deep religious feelings--either of these
 I might have found in a very few, but not both
 in any."
-
-[Footnote 1: "C[oe]lebs in Search of a Wife," published 1809. Of her
-publishing experiences, Hannah More writes: "One effect of
-C[oe]lebs has pleased me. I always consider a bookseller in respect
-to a book as I do an undertaker with regard to death--one considers
-a publication as the other does a corpse, as a thing to grow
-rich by, but not to be affected with. Davies (Cadell's partner)
-seems deeply struck, and earnestly implores me to follow up some
-of the hints respecting Scripture in a work of which he suggests
-the subject."]
 
 Hannah More and her friends had apparently
 unfortunate experiences with regard to the spiritual
@@ -3429,7 +3335,7 @@ world in its higher classes" joined to "deep
 religious feeling" mentioned by Hannah More, or
 the "indulgent benevolent temper, with no pretension
 to superior sanctity or strictness," of which
-Maria Edgeworth writes,[1] certain it is that
+Maria Edgeworth writes,[32] certain it is that
 Wilberforce became a guide of the religious life
 of many of his friends. For instance, Mr. Eliot,
 the brother-in-law of Pitt, writes from Burton
@@ -3445,9 +3351,6 @@ favour of God's grace), will flag and waver in its
 best pursuits and firmest intention. My chief
 reading for the month has been Warburton."
 
-[Footnote 1: "Life and Letters of Maria Edgeworth," by Augustus J. C.
-Hare.]
-
 Mrs. Elizabeth Fry writes to Wilberforce to
 say:--
 
@@ -3461,13 +3364,10 @@ do not want me, prevent my yet attending to these
 duties; in this I should like to have thy advice."
 
 In 1801 the question of Irish Union divided
-educated opinion. Dr. Burgh,[1] a well-known man
+educated opinion. Dr. Burgh,[33] a well-known man
 at this time and friend of Wilberforce, takes one
 side, and Lord Hardwicke, Viceroy of Ireland, the
 other.
-
-[Footnote 1: "Poor Burgh almost mad about the Union" ("Life of
-Wilberforce," vol. ii. p. 359).]
 
 
 /*
@@ -3575,15 +3475,12 @@ revive."
 
 The state of Ireland at a later date after the
 Union is alluded to in the next letter from Lord
-Redesdale,[1] who was apparently much aggrieved
+Redesdale,[34] who was apparently much aggrieved
 at the treatment which he had experienced in
 giving up the Lord Chancellorship of that country.
 The letter is marked by Wilberforce "Lord
 Redesdale shamefully used on being turned out
 of Chancellorship."
-
-[Footnote 1: Lord Redesdale was appointed Lord High Chancellor of
-Ireland March 15, 1802; he resigned February, 1806.]
 
 
 <i>Lord Redesdale to Mr. Wilberforce.</i>
@@ -4215,12 +4112,10 @@ landed in different places, and being opposed only
 by yeomanry and volunteers they might advance
 to London or wherever else they pleased.
 "Government acknowledge that there is an utter
-want of firearms."[1] Windham's hope was that
+want of firearms."[35] Windham's hope was that
 Buonaparte might, for some reason or other, not
 come; though he confesses that he did not know
 of any foundation for such hope.
-
-[Footnote 1: Wilberforce to Henry Bankes. "Life of W. Wilberforce."]
 
 
 /*
@@ -4312,15 +4207,11 @@ me if I had anything new to say.
 */
 
 
-Lord Chatham[1] at that time Master-General of the
+Lord Chatham[36] at that time Master-General of the
 Ordnance, writes on the same subject: at any rate
 there were "one hundred thousand pikes ready for
 the defence of the country, but there was an indisposition
 to take them."
-
-[Footnote 1: Brother to Mr. Pitt, of whom Lord Eldon gave it as his
-deliberate opinion that "the ablest man I ever knew in the Cabinet
-was Lord Chatham."]
 
 
 /*
@@ -4716,7 +4607,7 @@ Wilberforce was a member of a committee for the
 relief of the "poor German sufferers," the wounded
 Prussians in 1814-15. The translation of Marshal
 Blucher's letter to the Managing Committee after
-Waterloo is as follows.[1]
+Waterloo is as follows.[37]
 
 
 /*
@@ -4738,9 +4629,6 @@ me to all England.
 /*
 "<sc>Blucher.</sc>
 */
-
-[Footnote 1: Part of this letter only is printed in "Life of William
-Wilberforce."]
 
 
 "It is all very well, but I have twenty-two thousand
@@ -4842,7 +4730,7 @@ servant,
 "<sc>Blucher</sc>."
 */
 
-Lord Holland,[1] described as "truly fascinating,
+Lord Holland,[38] described as "truly fascinating,
 having something of his uncle's good humour," by
 Wilberforce, writes of Abolition to him in 1815,
 and thinks "the cause had been very coldly supported,
@@ -4851,10 +4739,6 @@ Madrid, and at Rio Janeiro; and that we ought
 to have imposed conditions on this subject when
 Ferdinand VII. wanted money, instead of giving
 him the money first."
-
-[Footnote 1: The third Lord Holland was Fox's nephew, and converted
-his palace at Kensington into a sort of temple in honour of
-Fox's memory.]
 
 
 /*
@@ -4920,7 +4804,7 @@ of my letter,
 
 Early in 1825, William Wilberforce's brilliant
 Parliamentary career came to an end by his own
-voluntary retirement. The Speaker's[1] letter is the
+voluntary retirement. The Speaker's[39] letter is the
 expression of a very general feeling both in the
 House and outside it.
 
@@ -4943,9 +4827,6 @@ the honest variance of opinion on political questions,
 I know we must all be of one mind in regretting
 the absence of one as distinguished for every
 moral virtue as for the brilliancy of his talents.
-
-[Footnote 1: Charles Manners Sutton, Speaker of the House of Commons,
-1817-1834; created Viscount Canterbury 1835; died 1845.]
 
 "That retirement into more private life may
 contribute largely to your personal ease, and to
@@ -5061,7 +4942,7 @@ side, I should decidedly send him to Cambridge,
 Trinity; were the opposite the case he should
 be fixed at Oriel, Oxford.
 
-"As for the gentleman you mention,[1] his character
+"As for the gentleman you mention,[40] his character
 is not to be expressed in a few words. Of his
 extraordinary powers no one ever entertained a
 doubt. There are also very pleasing traits of
@@ -5088,7 +4969,7 @@ At the time the letter was written, Wilberforce's
 large fortune had been seriously diminished, though
 he was far from being, as his letter would lead one
 to suppose, in the same unfortunate position as
-Mr. Manning.[2] The effect of his own loss was
+Mr. Manning.[41] The effect of his own loss was
 as he says, "greatly to augment his happiness."
 Enough was left for his comfort. It is true he gave
 up his home, and was no longer able to practise
@@ -5097,10 +4978,6 @@ had to be curtailed, such as those to the York
 charities, as to which he "had been reminded in
 1831 that they were larger than those of any other
 subscriber."
-
-[Footnote 1: Mr., afterwards Lord, Brougham.]
-
-[Footnote 2: Mr. Manning became bankrupt in the winter of 1830-31.]
 
 
 /*
@@ -5251,7 +5128,7 @@ more interested in your welldoing and happiness
 than myself. But if we are to be friends, you
 must allow me the privilege of a friend, a privilege
 by far the most valuable of all its excellencies.
-So thought your dear Uncle Stephen,[1] when in the
+So thought your dear Uncle Stephen,[42] when in the
 very extreme bitterness of his grief, which was as
 great as that of any one I ever witnessed, though he
 is now able to control his feelings before company,
@@ -5367,8 +5244,6 @@ not the book at hand, and cannot quote it from
 memory. Don't read this till you have half an
 hour's leisure."
 
-[Footnote 1: Mr. James Stephen married Wilberforce's sister.]
-
 Of the privilege of friendship alluded to in this
 letter, Wilberforce also writes later to his daughter
 Elizabeth: "You will never find telling Robert" (afterwards
@@ -5389,7 +5264,7 @@ you to such a proof of real attachment."
 "<sc>My dearest Lizzy</sc>,--Your letter to-day gives
 me pleasure. We heard from Marianne (Thornton)
 of her having paid you a visit. Her friendly attachment
-to Barbara[1] and you, I account as one of the
+to Barbara[43] and you, I account as one of the
 special blessings of Providence; and there are many
 particulars, though not all, in which I should be
 very glad to have her the object of your imitation.
@@ -5414,8 +5289,6 @@ are of the number of those who look to Him
 habitually for consolation and peace, and such I
 trust will be more and more the case of my dear
 Elizabeth."
-
-[Footnote 1: Mr. Wilberforce's second daughter.]
 
 The next letter is in a more lively strain and
 explains to Elizabeth the system of Bishop Berkeley.
@@ -5595,7 +5468,7 @@ becoming larger, finally if they are becoming ripe
 and rosy. I would willingly walk barefoot from
 this place to Sandgate to see a clear proof of the
 <i>grand change</i> being begun in my dear Samuel at
-the end of my journey."[1]
+the end of my journey."[44]
 
 
 /*
@@ -5610,17 +5483,10 @@ guard as you would against a wild beast which was
 lying in a bush by which you were to pass, ready
 to spring upon you--guard in like manner, I say,
 against wandering thoughts when you are at prayer
-either by yourself or in the family.[2] Nothing
+either by yourself or in the family.[45] Nothing
 grieves the Spirit more than our willingly suffering
 our thoughts to wander and fix themselves on any
 object which happens at the time to interest us."
-
-[Footnote 1: Part of this letter is in "Life of Wilberforce."]
-
-[Footnote 2: This thought, thus strongly impressed on Samuel's mind, was
-many years afterwards expanded by him into the lovely allegory
-of the "Children and the Lion," published in "Agathos and
-other Stories."]
 
 
 /*
@@ -5780,8 +5646,8 @@ presence of a companion, and a boy profits from
 the same quickening principle. But my dearest
 Samuel has not now this danger to plead at Mr.
 Hodson's, and I hope he will now bear in mind
-that this indisposition to work strenuously[1] is one of
-his besetting sins."[2]
+that this indisposition to work strenuously[46] is one of
+his besetting sins."[47]
 
 
 /*
@@ -5820,15 +5686,6 @@ resolved to do. I hope you got your parcel safe,
 and that the lavender-water had not oozed out of
 the bottle; the cork did not seem tight. Farewell,
 my very dear Samuel."
-
-[Footnote 1: Bishop Wilberforce once told Dr. Woodford (Bishop of Ely)
-that he was naturally indolent and had at first "to flog himself up
-to his work." (Life, vol. iii. p. 305). To those who remember
-Bishop Wilberforce, and to readers of his Life, these passages
-must appear surprising indeed. They afford a striking instance
-of a natural defect turned into the contrary Christian grace.]
-
-[Footnote 2: Part of this letter is in the "Life of Wilberforce."]
 
 
 /*
@@ -6094,7 +5951,7 @@ at home in the last holidays. Too much prosperity
 and self-indulgence (and staying at home may be
 said to be a young person's indulgence and prosperity)
 are good neither for man nor boy, neither
-for you nor for myself."[1]
+for you nor for myself."[48]
 
 
 /*
@@ -6111,8 +5968,6 @@ prize and, I hope, to be thankful to God for
 domestic peace and love. Pray God bless you,
 my dearest boy, and enable you to devote to
 Him your various faculties and powers."
-
-[Footnote 1: Part of this letter is in Bishop Wilberforce's Life.]
 
 The mutual affection of father and son is touchingly
 shown in many passages scattered through
@@ -6482,7 +6337,7 @@ formed."
 "<i>November 22, 1822.</i>
 */
 
-"Robert Grant's[1] election has cost my eyes more
+"Robert Grant's[49] election has cost my eyes more
 than they could well expend on such a business.
 But both his hereditary, and his personal, claim to
 all I could do was irresistible. Your mother, Elizabeth,
@@ -6511,13 +6366,6 @@ me, chiefly in the view of its ensuring for my
 children the friendly regard and personal kindnesses
 of many good people after I shall be laid low in the
 grave.
-
-[Footnote 1: Born 1779, younger son of Wilberforce's intimate friend,
-Right Hon. Charles Grant. Robert was in Parliament, 1818-34:
-was Judge-Advocate-General: knighted, 1834, and made Governor-General
-of Bombay: a persistent advocate of Jewish emancipation:
-author of pamphlets on Indian affairs and many well-known
-hymns: died 1838.]
 
 "I could have made them acquainted with great
 people, but I have always avoided it, from a
@@ -6714,7 +6562,7 @@ boys entered into the exercise of their several
 professions, if they are several. But how glad
 shall I be if they all can conscientiously enter
 into the ministry, that most useful and most
-honourable of all human employments."[1]
+honourable of all human employments."[50]
 
 
 /*
@@ -6730,8 +6578,6 @@ then remember to estimate your state on self-examination
 not by your prayers, but by what
 you find to be the effects of them on your
 character, tempers, and life."
-
-[Footnote 1: Part of this letter is in the "Life of Wilberforce."]
 
 
 /*
@@ -7087,7 +6933,7 @@ anticipations are of a very different sort. And
 I can truly declare that the good conduct and
 kindness of my children towards me is a source
 of the purest and greatest pleasure I do or can
-enjoy."[1]
+enjoy."[51]
 
 
 /*
@@ -7109,8 +6955,6 @@ good young men as I trust the two gentlemen are
 whose names I have mentioned, and I have the
 satisfaction of knowing that you have the privilege
 of calling them your friends. Is it yet too late?"
-
-[Footnote 1: Part of this letter is in the "Life of Wilberforce."]
 
 
 /*
@@ -7155,16 +6999,13 @@ It is easy to imagine the reception given to the
 "two young widows" by Wilberforce. He had
 not yet learned the lesson of "economy or even
 parsimony" as regarded his charities--even when he
-had to reduce his expenses he spent £3,000[1] in one
+had to reduce his expenses he spent £3,000[52] in one
 year on charity.
 
 
 /*
 "<i>December 10, 1824.</i>
 */
-
-[Footnote 1: A single year's almsgiving exceeded £3,000. "Life of
-Bishop Wilberforce," vol. i. p. 22.]
 
 "I have deemed it quite a duty on this delicious
 day to prolong my country walk in a <i>tête-à-tête</i> with
@@ -7247,7 +7088,7 @@ completely) closed his declaration."
 "<i>December 16, 1825.</i>
 */
 
-"It is Henry Thornton[1] that was connected with
+"It is Henry Thornton[53] that was connected with
 the house of Pole & Co. He became a partner
 about five months ago. The storm through which
 he has been passing has been indeed violent; but
@@ -7268,11 +7109,6 @@ happy to be able to tell you that there is reason to
 believe that while Henry will gain great credit he
 will lose no money. He has borne the trial with
 the calmness of a veteran."
-
-[Footnote 1: Eldest son of Wilberforce's old friend and ally, Henry
-Thornton, of Battersea, Rise, who died in 1815. The Henry
-Thornton of the text was only twenty-five years old when this
-letter was written.]
 
 
 /*
@@ -7411,7 +7247,7 @@ calculations and plans, that the things that are seen
 are temporal, but the things that are not seen are
 eternal. Then you will live above the world, as one
 who is waiting for the coming of the Lord Jesus
-Christ."[1]
+Christ."[54]
 
 
 /*
@@ -7423,8 +7259,6 @@ what may do almost as well. Shut your door and
 muse until you fancy me by your side, and then
 think what I should say to you, which I dare say
 your own mind would supply."
-
-[Footnote 1: The beginning of this letter is in the "Life of Wilberforce."]
 
 
 /*
@@ -7443,7 +7277,7 @@ my dear boy, I hope you often pray for me, and I
 beg you will continue to do so.
 
 "I am not sure whether or not I told you of our
-having been for a week at Lea,[1] having been detained
+having been for a week at Lea,[55] having been detained
 there by my being slightly indisposed. But
 it was worth while to be so, if it were only to
 witness, or rather to experience, Lady Anderson's
@@ -7467,10 +7301,6 @@ Elijah, and Abraham the friend of God (and all of
 them honoured by such especial marks of the Divine
 condescension), always manifested a holy awe and
 reverence when in the Divine presence."
-
-[Footnote 1: Lea, Lincolnshire--the residence of Sir C. and Lady
-Anderson. The son, in his turn, Sir Charles Anderson, was
-Bishop Wilberforce's life-long friend.]
 
 Samuel Wilberforce had written to his father
 asking him what advice he should give to a friend
@@ -7745,7 +7575,7 @@ than as merely wanting a little reformation?"
 "<i>November 20, 1828.</i>
 */
 
-"Has Sargent[1] heard of the fresh explosion in
+"Has Sargent[56] heard of the fresh explosion in
 the British and Foreign Bible Society? I truly and
 deeply regret it. It has proceeded from a proposal
 to print the Septuagint. In the discussion that
@@ -7765,15 +7595,12 @@ per annum. Pusey had opposition, and is appointed
 by the Duke of Wellington, solely we suppose on
 the ground of superior merit."
 
-[Footnote 1: The Rev. John Sargent, of Lavington, father of Mrs. Samuel
-Wilberforce.]
-
 
 /*
 "<i>February 20, 1829.</i>
 */
 
-"Legh Richmond,[1] though an excellent man, was
+"Legh Richmond,[57] though an excellent man, was
 not a man of refinement or of taste. I cannot deny
 the justice of your remarks as far as I can fairly
 allow myself to form a judgment without referring
@@ -7782,8 +7609,6 @@ Richmond's commonplace, I had almost termed it
 profane, way in which he speaks of the Evil Spirit.
 This falls under the condemnation justly pronounced
 by Paley against levity in religion.
-
-[Footnote 1: His life had been recently published.]
 
 "When I can spare a little eyesight or time, I
 feel myself warranted to indulge the pleasure I
@@ -7925,10 +7750,7 @@ being poorly. But our gourds must have something
 to alloy their sweets. D. G. your mother
 is recovering gradually, and now profits much from
 a jumbling pony-chair; its shaking quality renders
-its value to her double what it would be otherwise."[1]
-
-[Footnote 1: The first few lines of this letter are in the "Life of Bishop
-Wilberforce."]
+its value to her double what it would be otherwise."[58]
 
 
 /*
@@ -8045,9 +7867,9 @@ mother, which she has just put into my hands to
 be inserted into my letter. To all she has said,
 therefore, I say ditto. My dear Samuel, I must
 tell you the pleasure with which I look back on
-what I witnessed at Checkendon,[1] and how it
+what I witnessed at Checkendon,[59] and how it
 combines with, and augments the joyful gratulations
-with which I welcome the 7th of September.[2] I
+with which I welcome the 7th of September.[60] I
 hope I am deeply thankful to the bountiful Giver
 of all good for having granted me in you a son
 to whose future course I can look with so much
@@ -8062,11 +7884,6 @@ a large assemblage of the sheep of Christ, whom
 you have been the honoured instrument of bringing
 to the fold of Christ, have an abundant entrance
 into the everlasting kingdom of God."
-
-[Footnote 1: Checkendon, on the Chiltern Hills in Oxfordshire, Samuel
-Wilberforce's first curacy, where his memory was long cherished.]
-
-[Footnote 2: Samuel's birthday.]
 
 
 /*
@@ -8185,7 +8002,7 @@ that this large sheet which I have selected for the
 purpose should contain the united epistles of all the
 family circle, from the fullest grown if not largest in
 dimensions, myself, to the most diminutive, little
-William.[1] As the thought is my own, I will begin
+William.[61] As the thought is my own, I will begin
 the execution of it, and if any vacant space should
 remain, I will fill it, just as any orifices left vacant
 in said pie are supplied by the pouring in of the
@@ -8237,10 +8054,8 @@ but to have one, to whom you may say that solitude
 is sweet. But I must surrender the pen to your
 dear mother."
 
-[Footnote 1: Only son of Wilberforce's eldest son William.]
-
 The country was at that time extremely disturbed
-by what were known as the "Swing Riots."[1] Bands
+by what were known as the "Swing Riots."[62] Bands
 of rioters went about, burning ricks and threshing
 machines, then newly introduced, and considered by
 the labourers as depriving them of the winter
@@ -8269,17 +8084,13 @@ the abolition of some of the great elements in
 the physical world would be; the extinction, for
 instance, of the principle of gravity."
 
-[Footnote 1: The leader of these riots, whose exact personality is unknown,
-was called "Jack Swing," and in this name the mob sent their
-threats and summonses.]
-
 
 /*
 "<i>December 9, 1830.</i>
 */
 
 "I have been delaying the books that all might
-go together. Mather's 'Magnalia'[1] shall be one
+go together. Mather's 'Magnalia'[63] shall be one
 of them. There is a very curious passage in it
 early in the volume, in which in Charles I's time,
 he says, expenses have been increasing so much of
@@ -8297,11 +8108,6 @@ decorous. Lord Lansdowne, very decent, Lord
 Goderich ditto. But your mother is worrying me
 all this time to force me out, and Joseph declares
 the letters will be too late. So farewell."
-
-[Footnote 1: "Magnalia Christi Americana, or Ecclesiastical History of
-New England," by Cotton Mather, D.D. It was a costly book
-with a large map. Southey considered it one of the most
-"singular books in this or any other language."]
 
 
 /*
@@ -8560,7 +8366,7 @@ he "became a wanderer without any certain dwelling-place."
 */
 
 "It must be three weeks or more since Lord
-Brougham, when on the woolsack, called Stephen,[1]
+Brougham, when on the woolsack, called Stephen,[64]
 then attending the House of Lords, quasi master
 (two of their description you perhaps know are
 required to be always present; they take down their
@@ -8581,8 +8387,6 @@ been making for the living of Rawmarsh, as soon as
 he learned that Lord Brougham had destined it to
 me. Robert would not accept any living which
 would not afford me a suitable residence."
-
-[Footnote 1: Mr. Wilberforce's brother-in-law.]
 
 
 /*
@@ -8680,13 +8484,13 @@ kiss to sweet baby."
 
 
 /*
-"<sc>Blaize Castle</sc>,[1]
+"<sc>Blaize Castle</sc>,[65]
   "<i>October 31, 1831.</i>
 */
 
 "You will hear what dreadful work has been
 going on at Bristol for the last eight and forty
-hours. Sir Charles Wetherell[2] escaped from the
+hours. Sir Charles Wetherell[66] escaped from the
 fury of the mob by first hiding himself in some
 upper room in the Mansion House and then
 passing, disguised in a sack jacket, from
@@ -8721,27 +8525,12 @@ been the grand object. The deputation, I am told,
 were followed by a cart, in which, as they went
 along, they stowed the plunder. I have not said
 it to your mother, for fear of her becoming still
-more nervous,[3] (which need not be), by her finding
+more nervous,[67] (which need not be), by her finding
 me entertaining such cogitations, but if I perceive
 any grumblings of the volcano at Bath, before the
 lava bursts forth I shall hurry your mother to a
 certain quiet parsonage--though, alas! I cannot but
 fear for the Church in these days."
-
-[Footnote 1: The seat of J. S. Harford, Esq.]
-
-[Footnote 2: Lord Grey's Reform Bill had amongst its most vehement opponents
-Sir C. Wetherell, Recorder of Bristol. On his arrival in
-that city the riots began there by an attack upon his carriage,
-after which "Bristol was the theatre of the most disgraceful
-outrages that have been perpetrated in this country since the
-riots of London, 1780." (<i>An. Reg.</i> 1831.)]
-
-[Footnote 3: Mrs. Wilberforce writes to her son Samuel: "Shall I send
-you the deeds, &c., to take care of for the family, and the plate
-to bury in your garden? I think you will be safe in the Isle of
-Wight. Do not let my fears be mentioned; they say we should
-all appear brave and bold."]
 
 
 /*
@@ -8821,7 +8610,7 @@ had several conversations with him, and find
 him a decided Roman Catholic, but a man apparently
 of great candour and moderation. I was
 not surprised to find him strongly prejudiced
-against Blanco White.[1] 'Oh,' he cried, 'I assure
+against Blanco White.[68] 'Oh,' he cried, 'I assure
 you, sir, that book is full of the grossest falsehood.'
 But I was a good deal surprised to
 receive from him an assurance that he had been
@@ -8849,12 +8638,6 @@ Exodus, Job, Psalms, Proverbs, I think Isaiah,
 but am not sure, the four Gospels, Acts, 1st
 Timothy, 1st Peter, 1st John and Jude; all the
 rest likely to do more harm than good."
-
-[Footnote 1: T. Blanco White, a Spaniard by birth, left the Church of
-Rome and joined the Church of England, and also became
-a naturalised Englishman. He was closely connected with the
-Oxford movement, but lapsed into Socinianism. He died in
-1841.]
 
 
 /*
@@ -8939,7 +8722,7 @@ life."
 "<sc>Bath</sc>, <i>June 14, 1832.</i>
 */
 
-"I forget whether you know the Dean of Winchester[1]
+"I forget whether you know the Dean of Winchester[69]
 or not. We have many a discussion
 together, and I now and then stroke his plumage
 the wrong way to make him set up his bristles.
@@ -8957,9 +8740,6 @@ Rector of St. Botolph's (Bishop of London's)."
 /*
 "<i>July 12, 1832.</i>
 */
-
-[Footnote 1: Dr. Thomas Rennell: he was appointed in 1805 and was
-succeeded in 1840 by Dr. Garnier.]
 
 
 "Though I do not like to mention it to your
@@ -9002,7 +8782,7 @@ need not be distressing yourself on my account."
 The rest of this letter shows that Wilberforce
 had asked the advice of Samuel as to the wisdom of
 engaging a Roman Catholic tutor for his grandson
-"dear little William."[1] Samuel's answer was couched
+"dear little William."[70] Samuel's answer was couched
 in decisive terms against this step. Wilberforce,
 however, was reconciled to the idea by the knowledge
 that "dear little William's mother will be
@@ -9025,8 +8805,6 @@ steady, faithful looking forward to the life everlasting--all
 are there. Nor, until he has made one
 more effort to secure the freedom of the slaves, does
 the weary, diligent hand finally "lay down the pen."
-
-[Footnote 1: Only son of Wilberforce's eldest son William.]
 
 
 /*
@@ -9058,7 +8836,7 @@ appeared mysterious."
 
 "I should wish to suggest to you an idea that
 arises from a passage in a letter from William
-Smith.[1] The idea is that it might have a very
+Smith.[71] The idea is that it might have a very
 good effect, for any of my reverend children to be
 known to manifest their zeal in the great cause
 of West Indian emancipation, and slaves' improvement.
@@ -9072,7 +8850,7 @@ under the arbitrary commands of their masters,
 and (perhaps after a year) they will be still more
 completely emancipated. I was truly glad to find
 in the evidence taken before the House of Commons'
-Committee (which the indefatigable Zachary[2]
+Committee (which the indefatigable Zachary[72]
 is analysing), highly honourable testimony to our
 friend's (Wildman's) treatment of his slaves. But
 I ought not to conceal from you the connection
@@ -9131,7 +8909,231 @@ been going about giving lectures in favour of the
 West Indians, had made a great impression on
 Lady Georgiana. But I must lay down my pen."
 
-[Footnote 1: "My most faithful friend, William Smith" ("Life of Wilberforce,"
+FOOTNOTES:
+
+[Footnote 1: All Pitt's letters are carefully preserved in the library of
+Lavington House with the exception of this series which was
+found in a disused cupboard.]
+
+[Footnote 2: Lord Rosebery's preface to "Pitt and Wilberforce Letters,"
+privately printed.]
+
+[Footnote 3: Hon. Edward James Eliot, brother-in-law of Pitt.]
+
+[Footnote 4: Mr. Henry Bankes, Wilberforce's life-long friend.]
+
+[Footnote 5: "Life of Wilberforce," vol. i. p. 95.]
+
+[Footnote 6: Afterwards first Lord Carrington.]
+
+[Footnote 7: "Life of Wilberforce," vol. i. p. 95.]
+
+[Footnote 8: Privately printed.]
+
+[Footnote 9: "A Practical View of the Prevailing Religious System of
+Professed Christians," &c., London, 1797.]
+
+[Footnote 10: "Marmion," Introduction to Canto 1.]
+
+[Footnote 11: Wimbledon.]
+
+[Footnote 12: Hampstead.]
+
+[Footnote 13: Here Mr. Wilberforce adds a pencilled note: "Devonshire
+House Ball. King."]
+
+[Footnote 14: Mr. Wilberforce has written over this in pencil: "Qy.--Not
+a stroke of Providence could sever."]
+
+[Footnote 15: Mr. Wilberforce has erased here "for desiring Mr. Pitt before
+he went out to pass his register bills."]
+
+[Footnote 16: Mr. Wilberforce has written here in pencil on the margin,
+"Fox's Martyrs. Qy. number."]
+
+[Footnote 17: Mr. Wilberforce adds here a pencil note in his own handwriting:
+"Remarkable that when I entered York, in order to
+attend a public meeting which was about to take place, there was
+but one gentleman with whom I had the smallest acquaintance,
+the Rev. Wm. Mason, the poet."]
+
+[Footnote 18: Here there is a pencil note: "For he was one of the shyest
+men I ever knew."]
+
+[Footnote 19: Pencil note: "Wyndham."]
+
+[Footnote 20: A note: "Vary here."]
+
+[Footnote 21: A note:--"Dilate, and Figure."]
+
+[Footnote 22: Here is added in pencil, "2nd Nov. 1821."]
+
+[Footnote 23: Rosebery's "Life of Pitt," p. 233.]
+
+[Footnote 24: Then Clerk of Parliaments. Rose writes to Wilberforce
+later: "I shall never find words, either in speaking or writing,
+to express what I think of you."]
+
+[Footnote 25: Pitt.]
+
+[Footnote 26: About 1802.]
+
+[Footnote 27: Lecky, vol. vii. p. 32.]
+
+[Footnote 28: Dundas, who had been Treasurer to the Navy, was impeached
+on April 29, 1805, on a charge of misappropriating £10,000
+worth of public money. He was acquitted June 12, 1805.]
+
+[Footnote 29: William Wilberforce married Barbara, daughter of Isaac
+Spooner; she was the seventh Barbara in her family, the name
+having been handed down from mother to daughter. The first
+Barbara was daughter of Viscount Fauconberg and wife of
+Sir Henry Slingsby, Bart., who was beheaded on Tower Hill
+June 8, 1658, by Oliver Cromwell, for loyalty.]
+
+[Footnote 30: She was second daughter of Sir Edward Walpole; her uncle
+Horace Walpole writes of her: "For beauty I think she is the
+first match in England, she has infinite wit and vivacity."]
+
+[Footnote 31: "C[oe]lebs in Search of a Wife," published 1809. Of her
+publishing experiences, Hannah More writes: "One effect of
+C[oe]lebs has pleased me. I always consider a bookseller in respect
+to a book as I do an undertaker with regard to death--one considers
+a publication as the other does a corpse, as a thing to grow
+rich by, but not to be affected with. Davies (Cadell's partner)
+seems deeply struck, and earnestly implores me to follow up some
+of the hints respecting Scripture in a work of which he suggests
+the subject."]
+
+[Footnote 32: "Life and Letters of Maria Edgeworth," by Augustus J. C.
+Hare.]
+
+[Footnote 33: "Poor Burgh almost mad about the Union" ("Life of
+Wilberforce," vol. ii. p. 359).]
+
+[Footnote 34: Lord Redesdale was appointed Lord High Chancellor of
+Ireland March 15, 1802; he resigned February, 1806.]
+
+[Footnote 35: Wilberforce to Henry Bankes. "Life of W. Wilberforce."]
+
+[Footnote 36: Brother to Mr. Pitt, of whom Lord Eldon gave it as his
+deliberate opinion that "the ablest man I ever knew in the Cabinet
+was Lord Chatham."]
+
+[Footnote 37: Part of this letter only is printed in "Life of William
+Wilberforce."]
+
+[Footnote 38: The third Lord Holland was Fox's nephew, and converted
+his palace at Kensington into a sort of temple in honour of
+Fox's memory.]
+
+[Footnote 39: Charles Manners Sutton, Speaker of the House of Commons,
+1817-1834; created Viscount Canterbury 1835; died 1845.]
+
+[Footnote 40: Mr., afterwards Lord, Brougham.]
+
+[Footnote 41: Mr. Manning became bankrupt in the winter of 1830-31.]
+
+[Footnote 42: Mr. James Stephen married Wilberforce's sister.]
+
+[Footnote 43: Mr. Wilberforce's second daughter.]
+
+[Footnote 44: Part of this letter is in "Life of Wilberforce."]
+
+[Footnote 45: This thought, thus strongly impressed on Samuel's mind, was
+many years afterwards expanded by him into the lovely allegory
+of the "Children and the Lion," published in "Agathos and
+other Stories."]
+
+[Footnote 46: Bishop Wilberforce once told Dr. Woodford (Bishop of Ely)
+that he was naturally indolent and had at first "to flog himself up
+to his work." (Life, vol. iii. p. 305). To those who remember
+Bishop Wilberforce, and to readers of his Life, these passages
+must appear surprising indeed. They afford a striking instance
+of a natural defect turned into the contrary Christian grace.]
+
+[Footnote 47: Part of this letter is in the "Life of Wilberforce."]
+
+[Footnote 48: Part of this letter is in Bishop Wilberforce's Life.]
+
+[Footnote 49: Born 1779, younger son of Wilberforce's intimate friend,
+Right Hon. Charles Grant. Robert was in Parliament, 1818-34:
+was Judge-Advocate-General: knighted, 1834, and made Governor-General
+of Bombay: a persistent advocate of Jewish emancipation:
+author of pamphlets on Indian affairs and many well-known
+hymns: died 1838.]
+
+[Footnote 50: Part of this letter is in the "Life of Wilberforce."]
+
+[Footnote 51: Part of this letter is in the "Life of Wilberforce."]
+
+[Footnote 52: A single year's almsgiving exceeded £3,000. "Life of
+Bishop Wilberforce," vol. i. p. 22.]
+
+[Footnote 53: Eldest son of Wilberforce's old friend and ally, Henry
+Thornton, of Battersea, Rise, who died in 1815. The Henry
+Thornton of the text was only twenty-five years old when this
+letter was written.]
+
+[Footnote 54: The beginning of this letter is in the "Life of Wilberforce."]
+
+[Footnote 55: Lea, Lincolnshire--the residence of Sir C. and Lady
+Anderson. The son, in his turn, Sir Charles Anderson, was
+Bishop Wilberforce's life-long friend.]
+
+[Footnote 56: The Rev. John Sargent, of Lavington, father of Mrs. Samuel
+Wilberforce.]
+
+[Footnote 57: His life had been recently published.]
+
+[Footnote 58: The first few lines of this letter are in the "Life of Bishop
+Wilberforce."]
+
+[Footnote 59: Checkendon, on the Chiltern Hills in Oxfordshire, Samuel
+Wilberforce's first curacy, where his memory was long cherished.]
+
+[Footnote 60: Samuel's birthday.]
+
+[Footnote 61: Only son of Wilberforce's eldest son William.]
+
+[Footnote 62: The leader of these riots, whose exact personality is unknown,
+was called "Jack Swing," and in this name the mob sent their
+threats and summonses.]
+
+[Footnote 63: "Magnalia Christi Americana, or Ecclesiastical History of
+New England," by Cotton Mather, D.D. It was a costly book
+with a large map. Southey considered it one of the most
+"singular books in this or any other language."]
+
+[Footnote 64: Mr. Wilberforce's brother-in-law.]
+
+[Footnote 65: The seat of J. S. Harford, Esq.]
+
+[Footnote 66: Lord Grey's Reform Bill had amongst its most vehement opponents
+Sir C. Wetherell, Recorder of Bristol. On his arrival in
+that city the riots began there by an attack upon his carriage,
+after which "Bristol was the theatre of the most disgraceful
+outrages that have been perpetrated in this country since the
+riots of London, 1780." (<i>An. Reg.</i> 1831.)]
+
+[Footnote 67: Mrs. Wilberforce writes to her son Samuel: "Shall I send
+you the deeds, &c., to take care of for the family, and the plate
+to bury in your garden? I think you will be safe in the Isle of
+Wight. Do not let my fears be mentioned; they say we should
+all appear brave and bold."]
+
+[Footnote 68: T. Blanco White, a Spaniard by birth, left the Church of
+Rome and joined the Church of England, and also became
+a naturalised Englishman. He was closely connected with the
+Oxford movement, but lapsed into Socinianism. He died in
+1841.]
+
+[Footnote 69: Dr. Thomas Rennell: he was appointed in 1805 and was
+succeeded in 1840 by Dr. Garnier.]
+
+[Footnote 70: Only son of Wilberforce's eldest son William.]
+
+[Footnote 71: "My most faithful friend, William Smith" ("Life of Wilberforce,"
 vol. iii. p. 536).]
 
-[Footnote 2: Macaulay.]
+[Footnote 72: Macaulay.]

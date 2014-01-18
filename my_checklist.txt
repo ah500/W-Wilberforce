@@ -1,10 +1,5 @@
 Stage 1:
 
-footnotes See here: http://www.pgdp.net/wiki/PPTools/Guiguts/Footnotes and do "First pass" before each action.
-	just check they all have the correct anchore and are at a paragraph break. Putting them in the correct possition happens later
-poetry line numbers
-move image tags to paragraph breaks
-
 balanced markup search: \<(\w+)>\n?[^<]+<(?!/\1>)
 malformed markup: <\w+/>|<[^!\w/]|[^-\w"]>|,/?\w>|</?\w\.|</?>|[^<]/\w+>|</?\w+[^\w> ]
 duplicate words: [^a-zA-ZäöüÄÖÜßáéíóúÁÉÍÓÚàèìòùÀÈÌÒÙøæØÆ]([a-zA-ZäöüÄÖÜßáéíóúÁÉÍÓÚàèìòùÀÈÌÒÙøæØÆ'-]+)[ \n]+\1[^a-zA-ZäöüÄÖÜßáéíóúÁÉÍÓÚàèìòùÀÈÌÒÙøæØÆ]
