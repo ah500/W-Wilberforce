@@ -1,7 +1,5 @@
 Stage 1:
 
-Web based checks e.g. ppspell
-
 Check my project notes
 
 *	*	* save ascii backup/html version *	*	*
