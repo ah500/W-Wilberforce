@@ -1,11 +1,5 @@
 Stage 1:
 
-scano checks (from fixup, word freq routine)
-	regex
-	misspelled
-	en-common
-AND/OR pptxt.pl + ppspell (http://www.fadedpage.org/c/ppspell3-r.php)
-
 use jeebies
 use gutcheck
 search oe not marked as [oe]
