@@ -111,9 +111,9 @@ collection of 600 letters written by the father to
 the son.
 
 /*
-<sc>A. M. Wilberforce.</sc>
+A. M. WILBERFORCE.
 
-<sc>Lavington</sc>, _September 1, 1897_.
+LAVINGTON, _September 1, 1897_.
 */
 
 
@@ -183,11 +183,11 @@ appeared in the careful sowing of the garden beds
 with the fragments of Ryder's opera hat."[2]
 
 /*
-"<sc>Grafton Street</sc>,
+"GRAFTON STREET,
 "_July 31, 1782_.
 */
 
-"<sc>Dear Wilberforce</sc>,--I shall not have the least
+"DEAR WILBERFORCE,--I shall not have the least
 difficulty in applying immediately to Lord Shelburne
 in behalf of your friend Mr. Thompson, and the
 favour is not such as to require a great exertion of
@@ -215,16 +215,16 @@ it is as well for me to try it no further.
 
 /*
 "So adieu. Yrs. ever sincerely,
-"<sc>W. Pitt</sc>."
+"W. PITT."
 */
 
 
 /*
-"<sc>Brighthelmstone</sc>,
+"BRIGHTHELMSTONE,
 "_Wednesday, Aug. 6, 1783_.
 */
 
-"<sc>Dear Wilberforce</sc>,--_Anderson's Dictionary_ I
+"DEAR WILBERFORCE,--_Anderson's Dictionary_ I
 have received, and am much obliged to you for it.
 I will return it safe, I hope not dirtied, and possibly
 not read. I am sorry that you give so bad an
@@ -268,7 +268,7 @@ Somerset, and _if you will_, by London.
 
 /*
 "Ever sincerely yrs.,
-"<sc>W. Pitt</sc>."
+"W. PITT."
 */
 
 
@@ -278,11 +278,11 @@ Yorkshire, which county he represented in Parliament
 for twenty-eight years.
 
 /*
-"<sc>Downing Street</sc>,
+"DOWNING STREET,
 "_Tuesday, April 6, 1784_.
 */
 
-"<sc>Dear Wilberforce</sc>,--I have received your two
+"DEAR WILBERFORCE,--I have received your two
 expresses, and one this morning from Mr. Wyvill.
 I could not get to town till late last night, but sent
 forward the letters you desired, and have done all I
@@ -333,7 +333,7 @@ tolerably. I wish it was over. God bless you.
 
 /*
 "Most truly yours,
-"<sc>W. Pitt</sc>.
+"W. PITT.
 */
 
 
@@ -353,11 +353,11 @@ declines for Surrey. Byng will probably be beat."
 
 
 /*
-"<sc>Downing Street</sc>,
+"DOWNING STREET,
 "_Sunday, December 19, 1784_.
 */
 
-"<sc>My dear Wilberforce</sc>,--I have been so diligently
+"MY DEAR WILBERFORCE,--I have been so diligently
 _turning my thoughts_ on all sides since we
 parted, that tho' they have been turned to you as
 often as to any other quarter, I have never found
@@ -413,7 +413,7 @@ settled. God bless you.
 
 /*
 "Ever most faithfully yours.
-"<sc>W. Pitt</sc>."
+"W. PITT."
 */
 
 
@@ -421,7 +421,7 @@ settled. God bless you.
 "1784.
 */
 
-"<sc>My dear Wilberforce</sc>,--I am sorry to find
+"MY DEAR WILBERFORCE,--I am sorry to find
 from your letter from Nottingham that the Knight
 of Yorkshire is in so much dudgeon. Tho', to say
 the truth the instances of neglect you mention are
@@ -446,7 +446,7 @@ scrutiny or a petition. Adieu.
 
 /*
 "Ever yrs.,
-"<sc>W. Pitt</sc>.
+"W. PITT.
 */
 
 
@@ -471,11 +471,11 @@ separate your happiness from his own."
 
 
 /*
-"<sc>Downing Street</sc>,
+"DOWNING STREET,
 "_December 2, 1785_.
 */
 
-"<sc>My dear Wilberforce</sc>,--Bob Smith[6] mentioned
+"MY DEAR WILBERFORCE,--Bob Smith[6] mentioned
 to me on Wednesday the letters he had
 received from you, which prepared me for that I
 received from you yesterday. I am indeed too
@@ -560,7 +560,7 @@ satisfaction.
 
 /*
 "Believe me, affectionately and unalterably yours,
-"<sc>W. Pitt</sc>."
+"W. PITT."
 */
 
 Pitt came the next morning according to his
@@ -580,11 +580,11 @@ renew the sacred conversation."
 
 
 /*
-"<sc>Downing Street</sc>,
+"DOWNING STREET,
 "_September, 23, 1786_.
 */
 
-"<sc>My dear Wilberforce</sc>,--At length all the
+"MY DEAR WILBERFORCE,--At length all the
 obstacles of business, of idleness, and of procrastination
 are so far overcome that I find myself with
 my pen in my hand to answer your three letters.
@@ -638,18 +638,18 @@ him. Adieu.
 
 /*
 "Ever yours,
-"<sc>W. Pitt</sc>."
+"W. PITT."
 */
 
 [Illustration: WILBERFORCE OAK.]
 
 
 /*
-"<sc>Downing Street</sc>,
+"DOWNING STREET,
 "_Tuesday, April 8, 1788_.
 */
 
-"<sc>My dear Wilberforce</sc>,--I have just received
+"MY DEAR WILBERFORCE,--I have just received
 your letter of yesterday, and as I can easily imagine
 how much the subject of it interests you, I will not
 lose a moment in answering it. As to the Slave
@@ -708,7 +708,7 @@ attend you.
 
 /*
 "Ever affectionately yours,
-"<sc>W. Pitt</sc>."
+"W. PITT."
 */
 
 I have had very good accounts of you from two
@@ -716,11 +716,11 @@ or three quarters.
 
 
 /*
-"<sc>Pembroke Hall</sc>,
+"PEMBROKE HALL,
 "_Saturday, June 28, 1788_.
 */
 
-"<sc>My dear Wilberforce</sc>,--I have no small
+"MY DEAR WILBERFORCE,--I have no small
 pleasure in writing to you quietly from hence, after
 hearing the good account you sent me of yourself
 confirmed by those who saw you then, and especially
@@ -815,16 +815,16 @@ this evening. God bless you.
 
 /*
 "Believe me, ever affectionately yours,
-"<sc>W. Pitt</sc>."
+"W. PITT."
 */
 
 
 /*
-"<sc>Downing Street</sc>,
+"DOWNING STREET,
 "_Monday, September 1, 1788_.
 */
 
-"<sc>My dear Wilberforce</sc>,--I have certainly
+"MY DEAR WILBERFORCE,--I have certainly
 given a considerable latitude to my promise of
 writing in a fortnight, in defence of which I have
 nothing to say, but that in addition to the common
@@ -862,16 +862,16 @@ and my dinner.
 
 /*
 "Ever affectionately yours,
-"<sc>W. Pitt</sc>."
+"W. PITT."
 */
 
 
 /*
-"<sc>Downing Street</sc>,
+"DOWNING STREET,
 "_Monday, April 20, 1789_.
 */
 
-"<sc>My dear Wilberforce</sc>,--We have found it
+"MY DEAR WILBERFORCE,--We have found it
 necessary to make some corrections on looking over
 the proof sheets of the Report, which will delay the
 presenting it till Wednesday. I shall have no
@@ -898,16 +898,16 @@ merely to attend St. Paul's.
 
 /*
 "Ever affectionately yours,
-"<sc>W. Pitt</sc>."
+"W. PITT."
 */
 
 
 /*
-"<sc>Downing Street</sc>,
+"DOWNING STREET,
 "_Wednesday, February 2, 1796_.
 */
 
-"<sc>My dear Wilberforce</sc>,--I have seen Sir W.
+"MY DEAR WILBERFORCE,--I have seen Sir W.
 Fawcett, &c., and settled with them that they shall
 take _immediately_ the necessary measures for having
 a sufficient number of officers to receive men at
@@ -930,11 +930,11 @@ business is put off.
 
 
 /*
-"<sc>Downing Street</sc>,
+"DOWNING STREET,
 "_August 4, 1796_.
 */
 
-"<sc>My dear Wilberforce</sc>,--I am anxious not to
+"MY DEAR WILBERFORCE,--I am anxious not to
 let the post go without telling you that I cannot
 have a moment's hesitation in assuring you that in
 case of the Deanery of York becoming vacant, I
@@ -952,16 +952,16 @@ management.
 
 /*
 "Ever yours sincerely,
-"<sc>W. Pitt</sc>."
+"W. PITT."
 */
 
 
 /*
-<sc>"Downing Street</sc>,
+"DOWNING STREET,
 "_September 7, 1796_.
 */
 
-"<sc>My dear Wilberforce</sc>,--I think it nearly
+"MY DEAR WILBERFORCE,--I think it nearly
 certain that Parliament will meet on the 27th, and
 I wish much it may suit you to come this way some
 time before.
@@ -1002,11 +1002,11 @@ my excuses.
 
 
 /*
-"<sc>Downing Street</sc>,
+"DOWNING STREET,
 "_September 20, 1797_.
 */
 
-"<sc>My dear Wilberforce</sc>,--I know what your
+"MY DEAR WILBERFORCE,--I know what your
 feelings will be on receiving the melancholy account
 which I have to send you, and which reached me
 from Cornwall this morning, that a renewal of
@@ -1023,15 +1023,15 @@ I will as soon as I can.
 
 /*
 "Ever sincerely yours,
-"<sc>W. Pitt</sc>."
+"W. PITT."
 */
 
 
 /*
-"_Friday, 4_ <sc>P.M.</sc>
+"_Friday, 4_ P.M.
 */
 
-"<sc>My dear Wilberforce</sc>,--I am only anxious to
+"MY DEAR WILBERFORCE,--I am only anxious to
 avoid embarrassment to your question as well as to
 the general course of business; and will call on you
 in a few minutes on my way to the House.
@@ -1043,11 +1043,11 @@ in a few minutes on my way to the House.
 
 
 /*
-"<sc>Downing Street</sc>,
+"DOWNING STREET,
 "_Thursday, August 14, 1800_.
 */
 
-"<sc>My dear Wilberforce</sc>,--I have no thoughts
+"MY DEAR WILBERFORCE,--I have no thoughts
 of going to Walmer till the very end of the month,
 and it is doubtful whether I can accomplish it then.
 In the interval the Castle is quite disengaged, and
@@ -1078,12 +1078,12 @@ and other household concerns."
 
 
 /*
-"<sc>Park Place</sc>,
+"PARK PLACE,
 
 "_October 1, 1801_.
 */
 
-"<sc>My dear Wilberforce</sc>,--I cannot refrain from
+"MY DEAR WILBERFORCE,--I cannot refrain from
 congratulating you most sincerely on the happy
 event of the Signature of Preliminaries, which you
 will, I believe, hear from Addington. The terms
@@ -1100,15 +1100,15 @@ post.
 
 /*
 "Ever sincerely yours,
-"<sc>W. Pitt</sc>."
+"W. PITT."
 */
 
 
 /*
-"<sc>Downing Street</sc>, _Saturday_.
+"DOWNING STREET, _Saturday_.
 */
 
-"<sc>My dear Wilberforce</sc>,--I shall be very glad
+"MY DEAR WILBERFORCE,--I shall be very glad
 if you can call here any time after nine this evening,
 as I wish to show you a paper from the other side
 of the water, of a very interesting nature, tho' not
@@ -1122,12 +1122,12 @@ expected.
 
 
 /*
-"<sc>Walmer Castle</sc>,
+"WALMER CASTLE,
 
 "_May 31, 1802_.
 */
 
-"<sc>My dear Wilberforce</sc>,--I found your letter
+"MY DEAR WILBERFORCE,--I found your letter
 on my arrival here yesterday, having escaped to
 Hollwood on Friday only as a preparation for
 pursuing my journey hither with less interruption
@@ -1177,12 +1177,12 @@ heartily wish you may be successful in the attempt.
 
 
 /*
-"<sc>Walmer Castle</sc>,
+"WALMER CASTLE,
 
 "_September 22, 1802_.
 */
 
-"<sc>My dear Wilberforce</sc>, I am much obliged
+"MY DEAR WILBERFORCE, I am much obliged
 to you for your kind letter of inquiry. My complaint
 has entirely left me, I am recovering my
 strength every day, and I have no doubt of being
@@ -1205,12 +1205,12 @@ one on which I
 
 
 /*
-"<sc>Bath</sc>,
+"BATH,
 
 "_October 31, 1802_.
 */
 
-"<sc>My dear Wilberforce</sc>,--As you are among
+"MY DEAR WILBERFORCE,--As you are among
 the persons to whom the author of the enclosed
 high-flown compliments refers for his character for
 a very important purpose, I shall be much obliged
@@ -1261,12 +1261,12 @@ will quite stand the test of examination.
 
 
 /*
-"<sc>Walmer Castle</sc>,
+"WALMER CASTLE,
 
 "_August 8, 1803_ (?).
 */
 
-"<sc>My dear Wilberforce</sc>,--Not having returned
+"MY DEAR WILBERFORCE,--Not having returned
 from a visit to some of my corps on the Isle of
 Thanet till Friday evening, I could not answer
 your letter by that day's post, and I was interrupted
@@ -1304,12 +1304,12 @@ example to other maritime districts.
 
 
 /*
-"<sc>Walmer Castle</sc>,
+"WALMER CASTLE,
 
 "_January 5, 1804_.
 */
 
-"<sc>My dear Wilberforce</sc>--Your letter reached
+"MY DEAR WILBERFORCE--Your letter reached
 me very safe this morning, and I thank you very
 much for its contents. I hope it will not be long
 before I have an opportunity of talking over with
@@ -1346,7 +1346,7 @@ second bears "1797."
 
 _Mr. Wilberforce to Right Hon. William Pitt._
 
-"<sc>My dear Pitt</sc>,--My head and heart have been
+"MY DEAR PITT,--My head and heart have been
 long full of some thoughts which I wished to
 state to you when a little less under extreme pressure
 than when Parliament is sitting. But my eyes
@@ -1438,10 +1438,10 @@ property."
 
 
 /*
-"<sc>Bath</sc>, _Easter Sunday_.
+"BATH, _Easter Sunday_.
 */
 
-"<sc>My dear Pitt</sc>,--I am not unreasonable enough
+"MY DEAR PITT,--I am not unreasonable enough
 to ask you to read my book: but as it is more
 likely that when you are extremely busy than at
 any other time you may take it up for ten minutes,
@@ -1472,7 +1472,7 @@ writes with regard to his funeral:
 _Lord Chatham to Mr. Wilberforce._
 
 /*
-"<sc>Dover Street</sc>,
+"DOVER STREET,
 "_February 15, 1806_.
 */
 
@@ -1489,7 +1489,7 @@ Believe me, with sincere regard, my dear sir,
 
 /*
 "Yours very faithfully,
-"<sc>Chatham</sc>."
+"CHATHAM."
 */
 
 
@@ -2585,12 +2585,12 @@ LETTERS FROM FRIENDS
 _Right Hon. George Rose to Mr. Wilberforce._
 
 /*
-"<sc>Old Palace Yard</sc>,
+"OLD PALACE YARD,
 
 "_November 4, 1790_.
 */
 
-"<sc>My dear Wilberforce</sc>,--I was shocked this
+"MY DEAR WILBERFORCE,--I was shocked this
 morning in putting my papers in order on my table
 to find a letter I wrote to you before I went into
 the country; you must have thought me shamefully
@@ -2622,7 +2622,7 @@ use of my reason, but I am
 /*
 "Yours most faithfully and cordially,
 
-"<sc>George Rose.</sc>"
+"GEORGE ROSE."
 */
 
 
@@ -2632,7 +2632,7 @@ next letter.
 
 _Right Hon. G. Rose to Mr. Wilberforce._
 
-"<sc>My dear Wilberforce</sc>,--It would be very
+"MY DEAR WILBERFORCE,--It would be very
 odd if your writing to me on the subject of your
 last, or indeed on any other, could require an
 apology; I regret only that I cannot give you
@@ -2723,12 +2723,12 @@ plan of a private subscription fell to the ground.
 _Right Hon. G. Rose to Mr. Wilberforce._
 
 /*
-"<sc>Old Palace Yard</sc>,
+"OLD PALACE YARD,
 
 "_January 25, 1806, Saturday_.
 */
 
-"<sc>My dear Wilberforce</sc>,--I told you, immediately
+"MY DEAR WILBERFORCE,--I told you, immediately
 after the receipt of your former letters, that
 all thought of applying to Parliament for payment
 of Mr. Pitt's debts was abandoned; and measures
@@ -2768,7 +2768,7 @@ House on that day.
 "The Bishop of Lincoln is at the Deanery.
 "I am, my dear Wilberforce,
 "Most truly yours,
-"<sc>George Rose.</sc>"
+"GEORGE ROSE."
 */
 
 
@@ -2785,10 +2785,10 @@ of free exports of our manufactures to Holland.
 _Right Hon. Henry Dundas to Mr. Wilberforce._
 
 /*
-"<sc>Wimbledon</sc>, _August 15, 1796_.
+"WIMBLEDON, _August 15, 1796_.
 */
 
-"<sc>My dear W.</sc>,--I have spoke both with Mr.
+"MY DEAR W.,--I have spoke both with Mr.
 Pitt and Lord Grenville on the subject of a free
 exportation of our manufactures from this country
 to Holland. I think they agree with me in
@@ -2817,7 +2817,7 @@ with being, my dear Wil,
 
 /*
 "Yours sincerely,
-"<sc>Henry Dundas.</sc>"
+"HENRY DUNDAS."
 */
 
 Dundas's remarks on the defence of the country
@@ -2826,10 +2826,10 @@ in 1798 are not without interest in 1897.
 
 
 /*
-"<sc>Wimbledon</sc>, _January 29, 1798_.
+"WIMBLEDON, _January 29, 1798_.
 */
 
-"<sc>My dear Wilberforce</sc>,--There can not be
+"MY DEAR WILBERFORCE,--There can not be
 a doubt of the wishes of Government to bring
 forward the zeal and exertions of the country in
 every practicable shape; at present I am not
@@ -2868,7 +2868,7 @@ Wilberforce is ailing, and
 /*
 "I remain, my dear Wilberforce,
 "Yours very sincerely,
-"<sc>Henry Dundas.</sc>"
+"HENRY DUNDAS."
 
 
 In his later days when he had withdrawn to
@@ -2913,7 +2913,7 @@ re-establish your health, which would give
 joy to thousands, and no one more than, &c.,
 
 /*
-"<sc>J. Gordon.</sc>"
+"J. GORDON."
 */
 
 
@@ -2929,12 +2929,12 @@ some words" respecting Dundas to Pitt which had
 her:
 
 /*
-"<sc>India Office</sc>,
+"INDIA OFFICE,
 
 "_July 4, 1788_.
 */
 
-"<sc>Dear Duchess</sc>,--I received your affectionate
+"DEAR DUCHESS,--I received your affectionate
 note previous to your departure for Scotland. A
 great part of its contents are more fit for discussion
 in free conversation than by letter. I have only to
@@ -2976,7 +2976,7 @@ to everybody, and
 /*
 "I remain,
 "Yours sincerely,
-"<sc>Henry Dundas.</sc>"
+"HENRY DUNDAS."
 */
 
 The Duchess's answer to Dundas is so full of
@@ -2987,7 +2987,7 @@ of this remarkable woman.
 _Duchess of Gordon to Right Hon. Henry Dundas._
 
 /*
-"<sc>Gordon Castle</sc>,
+"GORDON CASTLE,
 "_July 13, 1788_.
 */
 
@@ -3087,7 +3087,7 @@ from public or private life to cause a gloom.
 
 /*
 &c., &c.,
-"<sc>J. Gordon.</sc>"
+"J. GORDON."
 */
 
 
@@ -3110,7 +3110,7 @@ much mortified if you don't come.
 
 /*
 "Ever yours most truly, &c.,
-"<sc>J. Gordon.</sc>"
+"J. GORDON."
 */
 
 After 1800 Wilberforce seems in great measure
@@ -3136,11 +3136,11 @@ which Lord Calthorpe is grateful to Wilberforce.
 _Lord Calthorpe to Mr. Wilberforce._
 
 /*
-"<sc>Kinrara</sc>,
+"KINRARA,
 "_September 2, 1801, Saturday_.
 */
 
-"<sc>My dear Sir</sc>,--I have just evinced a proof of
+"MY DEAR SIR,--I have just evinced a proof of
 want of vigilance and self-discipline which vexes me
 so much that I am endeavouring to find relief from
 my vexation by telling it to you, as it is a satisfaction
@@ -3229,7 +3229,7 @@ to Mrs. W.
 /*
 "Believe me, my dear sir,
 "Affectly yours,
-"<sc>Calthorpe.</sc>
+"CALTHORPE.
 */
 
 "You shall hear from me again."
@@ -3247,10 +3247,10 @@ may be given to her son Lord Waldegrave.
 _The Duchess of Gloucester to Mr. Wilberforce._
 
 /*
-"<sc>Genoa</sc>, _February 4, 1786_.
+"GENOA, _February 4, 1786_.
 */
 
-"<sc>Sir</sc>,--Although you did not succeed in one of
+"SIR,--Although you did not succeed in one of
 my requests to Mr. Pitt, you were more successful
 in the other; and for that I return you my thanks.
 I did not very much flatter myself that Mr. Pitt
@@ -3283,7 +3283,7 @@ tall as yourself.
 /*
 "Sir,
 "I remain yours, &c., &c.,
-"<sc>Maria.</sc>"
+"MARIA."
 */
 
 The next letter is from the same lady, thanking
@@ -3293,7 +3293,7 @@ work on "Practical Christianity."
 
 
 /*
-"<sc>Gloucester House</sc>,
+"GLOUCESTER HOUSE,
 "_April 14, 1797_.
 */
 
@@ -3312,7 +3312,7 @@ forgets humility is one of the Christian requisites.
 /*
 "I remain, dear sir,
 "Your _very_ much obliged, &c.,
-"<sc>Maria.</sc>"
+"MARIA."
 */
 
 
@@ -3384,10 +3384,10 @@ other.
 /*
 _Dr. Burgh to Mr. Wilberforce._
 
-"<sc>York</sc>, _February 9, 1801_.
+"YORK, _February 9, 1801_.
 */
 
-"<sc>My Dear Wilber.</sc>,--I sincerely thank you for
+"MY DEAR WILBER.,--I sincerely thank you for
 the communication you have made to me, and
 assure you that you may rely upon my profoundest
 silence. The cruel and corrupt means that were
@@ -3497,11 +3497,11 @@ of Chancellorship."
 _Lord Redesdale to Mr. Wilberforce._
 
 /*
-"<sc>Ely Place, Dublin</sc>,
+"ELY PLACE, DUBLIN,
 "_March 5, 1806_.
 */
 
-"<sc>My dear Sir</sc>,--I rely upon your letter,
+"MY DEAR SIR,--I rely upon your letter,
 desiring to know whether there was any establishment
 in this country by contribution to which
 you could forward its civilisation, for excusing
@@ -3680,7 +3680,7 @@ to Mrs. Wilberforce, and I am
 /*
 "Truly, my dear sir,
 "Your faithful, humble servant,
-"<sc>Redesdale.</sc>"
+"REDESDALE."
 */
 
 
@@ -3689,7 +3689,7 @@ to the Yorkshire election, and the state of
 Ireland: his letter is marked "characteristic" by
 Wilberforce.
 
-"<sc>Dear Sir</sc>,--If Mrs. S. remains in her present
+"DEAR SIR,--If Mrs. S. remains in her present
 state of health I hardly know how I can go down
 to Yorkshire at all. It is eight weeks since her
 lying-in, and she cannot yet stand upon her feet.
@@ -3714,7 +3714,7 @@ for Yorkshire.
 
 /*
 "Your obedient servant,
-"<sc>Sydney Smith.</sc>"
+"SYDNEY SMITH."
 */
 
 
@@ -3730,7 +3730,7 @@ written in 1802.
 
 _Lord Eldon to Mr. Wilberforce._
 
-"<sc>Dear Sir</sc>,--I thank you for your book, and
+"DEAR SIR,--I thank you for your book, and
 I add my thanks for your letter. You may be
 assured that I am incapable of 'taking up this
 great question on party grounds.' As a proof
@@ -3785,7 +3785,7 @@ can find, I shall seek the benefit you kindly offer me.
 
 /*
 "Yours sincerely,
-"<sc>Eldon.</sc>"
+"ELDON."
 */
 
 
@@ -3805,11 +3805,11 @@ by Wilberforce.
 _Lord Ellenborough to Mr. Wilberforce._
 
 /*
-"<sc>Bloomsbury Square</sc>,
+"BLOOMSBURY SQUARE,
 "_June 27, 1802_.
 */
 
-"<sc>My dear Sir</sc>,--I recollect perfectly the conversation
+"MY DEAR SIR,--I recollect perfectly the conversation
 between us in the House of Commons to
 which you allude, and should be extreme happy to
 appoint a time when I might have the benefit, which
@@ -3857,7 +3857,7 @@ very sincere respect,
 
 /*
 "Your obedient servant,
-"<sc>Ellenborough.</sc>"
+"ELLENBOROUGH."
 */
 
 
@@ -3872,11 +3872,11 @@ Wilberforce describes as "a very handsome answer."
 _Lord Ellenborough to Mr. Wilberforce._
 
 /*
-"<sc>Bloomsbury Square</sc>,
+"BLOOMSBURY SQUARE,
 "_February 4, 1806_.
 */
 
-"<sc>My dear Sir</sc>,--I sit down to thank you for the
+"MY DEAR SIR,--I sit down to thank you for the
 favour of your letter in the very instant in which I
 have received it. I regret very much that I have no
 opportunity of personal communication with you on
@@ -4010,7 +4010,7 @@ I have so long and so highly esteemed as yourself,
 /*
 "I remain, my dear sir,
 "Most sincerely and faithfully yours,
-"<sc>Ellenborough.</sc>"
+"ELLENBOROUGH."
 */
 
 
@@ -4032,7 +4032,7 @@ _Lord Camden to Mr. Wilberforce._
 "_January 7, 1802._
 */
 
-"<sc>Dear Wilberforce</sc>,--I lament extremely that
+"DEAR WILBERFORCE,--I lament extremely that
 Lady Camden and I have been deprived of the
 pleasure we should have had in receiving you and
 Mrs. Wilberforce here, and still more that you
@@ -4106,7 +4106,7 @@ a manner as it can be done.
 
 "Ever most sincerely yours,
 
-"<sc>Camden.</sc>"
+"CAMDEN."
 */
 
 
@@ -4131,11 +4131,11 @@ of any foundation for such hope.
 
 /*
 _Right Hon. William Windham to Mr. Wilberforce._
-"<sc>BEACONSFIELD</sc>,
+"BEACONSFIELD,
 "_August 18, 1803_.
 */
 
-"<sc>Dear Wilberforce</sc>,--The breaking up of
+"DEAR WILBERFORCE,--The breaking up of
 Parliament, advanced as the season is, I can hardly
 help regretting on another account. One wants a
 means of publishing the abominable backwardness in
@@ -4214,7 +4214,7 @@ me if I had anything new to say.
 /*
 "Yours very truly,
 
-"<sc>W. Windham.</sc>"
+"W. WINDHAM."
 */
 
 
@@ -4228,7 +4228,7 @@ to take them."
 /*
 _Lord Chatham to Mr. Wilberforce._
 
-"<sc>St. James' Square</sc>,
+"ST. JAMES' SQUARE,
 
 "_September 2, 1803._
 */
@@ -4285,7 +4285,7 @@ you,
 
 /*
 "Believe me, yours very sincerely,
-"<sc>Chatham.</sc>"
+"CHATHAM."
 */
 
 Henry Bankes, the old friend of both Pitt and
@@ -4295,11 +4295,11 @@ as follows:--
 
 /*
 _Mr. Bankes to Mr. Wilberforce._
-"<sc>Kingston Hall</sc>,
+"KINGSTON HALL,
 "_January 1, 1807_.
 */
 
-"<sc>My Dear Wilberforce</sc>,--Upon perusing the
+"MY DEAR WILBERFORCE,--Upon perusing the
 French papers I am well satisfied with the conduct
 of our Government. The tone is firm and uniform,
 and the demands such that we might have felt
@@ -4328,7 +4328,7 @@ of ours.
 /*
 "Believe me, my dear Wilberforce,
 "Most sincerely yours,
-"<sc>Henry Bankes.</sc>"
+"HENRY BANKES."
 */
 
 
@@ -4340,7 +4340,7 @@ _Lord Harrowby to Mr. Wilberforce._
 _Friday, September 22, 1809._
 */
 
-"<sc>Dear Wilberforce</sc>,--You must have thought
+"DEAR WILBERFORCE,--You must have thought
 me a great bear not to have thanked you sooner
 for your kind recollection of my wish to see a
 sketch of Mrs. H. More's rustic building. It is
@@ -4398,7 +4398,7 @@ Sabine farm.
 /*
 "Yours ever most sincerely,
 
-"<sc>Harrowby.</sc>"
+"HARROWBY."
 */
 
 
@@ -4428,7 +4428,7 @@ With the greatest regard I ever am,
 
 "Your most faithful servant,
 
-"<sc>Erskine.</sc>"
+"ERSKINE."
 */
 
 
@@ -4440,11 +4440,11 @@ regard to his chapel.
 
 _Rev. Rowland Hill to Mr. Wilberforce._
 
-"<sc>Surrey Church</sc>,
+"SURREY CHURCH,
 
 "_April 16, 1814_.
 
-"<sc>My dear sir</sc>,--Another prosecution for poor
+"MY DEAR SIR,--Another prosecution for poor
 rates on our chapel has commenced. Though the
 appellant, Mr. Farquarson, a man of no character
 and involved in debt, is the ostensible person, yet
@@ -4473,7 +4473,7 @@ and none more so than
 /*
 "Yours most respectfully,
 
-"<sc>Rowland Hill</sc>.
+"ROWLAND HILL.
 */
 
 
@@ -4551,7 +4551,7 @@ into execution all it proposes to do at present.
 /*
 "Ever, my dear sir, yours most faithfully,
 
-"<sc>Wellington.</sc>"
+"WELLINGTON."
 */
 
 
@@ -4568,10 +4568,10 @@ reports.
 /*
 _The Duke of Wellington to General Macaulay._
 
-"<sc>Paris</sc>, _December 22, 1814_.
+"PARIS, _December 22, 1814_.
 */
 
-"<sc>My dear Macaulay</sc>,--I received only yesterday
+"MY DEAR MACAULAY,--I received only yesterday
 your letter of the 9th, and I had already received
 one from Mr. Wilberforce on the same
 subject, to which I have written an answer. I am
@@ -4613,7 +4613,7 @@ War Department have done some good.
 
 /*
 "Ever yours,
-"<sc>Wellington.</sc>"
+"WELLINGTON."
 */
 
 
@@ -4625,7 +4625,7 @@ Waterloo is as follows.[37]
 
 
 /*
-"<sc>Chatillon Sur Sambre</sc>,
+"CHATILLON SUR SAMBRE,
 "_June 24, 1815_.
 */
 
@@ -4641,7 +4641,7 @@ finish the game ourselves. Farewell, and remember
 me to all England.
 
 /*
-"<sc>Blucher.</sc>
+"BLUCHER.
 */
 
 
@@ -4670,10 +4670,10 @@ English nation.
 
 /*
 _Marshal Blucher to Mr. Wilberforce._
-"<sc>Bonn</sc>, _December 7, 1815_.
+"BONN, _December 7, 1815_.
 */
 
-"<sc>Sir</sc>,--Your letter dated the 31st of October,
+"SIR,--Your letter dated the 31st of October,
 reached me in safety, and with it the cheering intelligence
 that the English nation, and all the
 subscribers for the relief of the Prussians who have
@@ -4741,7 +4741,7 @@ the honour to remain, sir, your most devoted
 servant,
 
 /*
-"<sc>Blucher</sc>."
+"BLUCHER."
 */
 
 
@@ -4759,11 +4759,11 @@ him the money first."
 /*
 _Lord Holland to Mr. Wilberforce_.
 
-"<sc>Holland House</sc>,
+"HOLLAND HOUSE,
   "_November 13, 1815_.
 */
 
-"<sc>Dear Sir</sc>,--I heard that you were anxious
+"DEAR SIR,--I heard that you were anxious
 to get some paper on the Slave Trade translated
 into Italian. An Italian gentleman who is upon
 a visit to me will, I am sure, very willingly undertake
@@ -4813,7 +4813,7 @@ of my letter,
 /*
 "I am, sir, yours truly,
 
-"<sc>Vassall Holland.</sc>"
+"VASSALL HOLLAND."
 */
 
 
@@ -4828,12 +4828,12 @@ House and outside it.
 _The Right Hon. Speaker of the House of
 Commons to Mr. Wilberforce._
 
-"<sc>Palace Yard</sc>,
+"PALACE YARD,
 
 "_February 19, 1825_
 */
 
-"<sc>My dear Sir</sc>,--With respect to your quitting
+"MY DEAR SIR,--With respect to your quitting
 us for more private retirement, permit me to say
 with the truest sincerity, and in accordance I am
 persuaded with the unanimous sentiment of the
@@ -4853,7 +4853,7 @@ respectful
 /*
 "Friend and servant,
 
-  "<sc>C. Manners Sutton</sc>."
+  "C. MANNERS SUTTON."
 */
 
 
@@ -4866,12 +4866,12 @@ and pleasing" by Wilberforce.
 /*
 _Lord John Russell to Mr. Wilberforce._
 
-  "<sc>South Audley Street</sc>,
+  "SOUTH AUDLEY STREET,
 
     "_June 3_.
 */
 
-"<sc>My dear Sir</sc>,--I was very much gratified at
+"MY DEAR SIR,--I was very much gratified at
 receiving your letter, not only for the kind sentiments
 personally expressed towards me, but still
 more for the high testimony of your authority in
@@ -4901,7 +4901,7 @@ on the usefulness of your past life,
 
 /*
 "I remain, yours faithfully,
-  "<sc>J. Russell</sc>."
+  "J. RUSSELL."
 */
 
 
@@ -5067,7 +5067,7 @@ By peace for Afric fenced with British laws.
     Enjoy what thou hast won, esteem and love
     From all the good on earth, and all the Blest above!
 
-<sc>William Cowper.</sc>
+WILLIAM COWPER.
 P/
 
 
@@ -5098,7 +5098,7 @@ My Cowper, guard of glory's shine!
 P/
 
 /*
-<sc>William Hayley.</sc>
+WILLIAM HAYLEY.
 */
 
 
@@ -5272,11 +5272,11 @@ you to such a proof of real attachment."
 
 /*
 _Mr. Wilberforce to his daughter Elizabeth._
-  "<sc>Hastings</sc>,
+  "HASTINGS,
     "_January 17, 1817._
 */
 
-"<sc>My dearest Lizzy</sc>,--Your letter to-day gives
+"MY DEAREST LIZZY,--Your letter to-day gives
 me pleasure. We heard from Marianne (Thornton)
 of her having paid you a visit. Her friendly attachment
 to Barbara[43] and you, I account as one of the
@@ -5311,11 +5311,11 @@ explains to Elizabeth the system of Bishop Berkeley.
 
 /*
 _Mr. Wilberforce to his daughter Elizabeth._
-"<sc>Highwood Hill</sc>,
+"HIGHWOOD HILL,
 "_July 13, 1830_.
 */
 
-"<sc>My dear Lizzy</sc>,--If many intentions to write
+"MY DEAR LIZZY,--If many intentions to write
 could be admitted as making up one letter, you
 would have to thank me for being so good a correspondent.
 But I fear that this is a mode of calculation
@@ -5397,11 +5397,11 @@ practical.
 
 /*
 _Mr. Wilberforce to his daughter Elizabeth._
-  "<sc>Highwood Hill</sc>,
+  "HIGHWOOD HILL,
      "_July 26, 1830_.
 */
 
-"<sc>My Very Dear Lizzy</sc>,--Though, owing to my
+"MY VERY DEAR LIZZY,--Though, owing to my
 having been betrayed into forgetfulness of the
 flight of time while sitting under the shade of the
 lime tree it is now so late that I shall not be able to
@@ -5508,7 +5508,7 @@ object which happens at the time to interest us."
 "_June 5, 1817._
 */
 
-"<sc>My Dear Samuel</sc>,--Loving you as dearly as I do,
+"MY DEAR SAMUEL,--Loving you as dearly as I do,
 it might seem strange to some thoughtless people
 that I am glad to hear you are unhappy. But as
 it is about your soul, and as I know that a short
@@ -5567,7 +5567,7 @@ pleasure."
 "_November 1, 1817._
 */
 
-"<sc>My very dear Samuel</sc>,--Though some company
+"MY VERY DEAR SAMUEL,--Though some company
 who are to dine with me are already in the
 drawing-room, I must leave them to themselves for
 two minutes while I express the very great pleasure
@@ -5707,7 +5707,7 @@ my very dear Samuel."
 "_September 17, 1819._
 */
 
-"<sc>My Dear Boy</sc>,--It is a great pleasure to me
+"MY DEAR BOY,--It is a great pleasure to me
 that you wish to know your faults. Even if we
 are a little nettled when we first hear of them,
 especially when they are such as we thought we
@@ -5734,7 +5734,7 @@ stewardship."
 
 
 /*
-"<sc>Weymouth</sc>, _September, 1820_.
+"WEYMOUTH, _September, 1820_.
 */
 
 "I have this day learned for the first time that
@@ -5777,7 +5777,7 @@ Christian may always be best estimated."
 
 
 /*
-"<sc>Bath</sc>, _September 23, 1820_.
+"BATH, _September 23, 1820_.
 */
 
 "Did you ever cross a river with a horse in a
@@ -5839,10 +5839,10 @@ of our pleasures."
 
 
 /*
-"<sc>Bath</sc>, _November 18, 1820_.
+"BATH, _November 18, 1820_.
 */
 
-"<sc>My dear Samuel</sc>.--I am sorry to hear that
+"MY DEAR SAMUEL.--I am sorry to hear that
 your examination is, or part of it at least, disadvantageous
 to you. Does not this arise in part
 from your having stayed with us when your school-fellows
@@ -5967,7 +5967,7 @@ for you nor for myself."[48]
 
 
 /*
-"<sc>Downing Street</sc>, _December 11, 1820_.
+"DOWNING STREET, _December 11, 1820_.
 */
 
 "Three words, or, rather, five lines, just to
@@ -6006,10 +6006,10 @@ me."
 
 
 /*
-"<sc>London</sc>, _June 30, 1821_.
+"LONDON, _June 30, 1821_.
 */
 
-"<sc>My very dear Boy</sc>,--I congratulate you cordially
+"MY VERY DEAR BOY,--I congratulate you cordially
 on your success, and I rejoice to hear of
 your literary progress. But I should have been
 still more gratified, indeed beyond all comparison
@@ -6649,10 +6649,10 @@ or caprice.
 
 
 /*
-"<sc>Barmouth</sc>, _October 14, 1823._
+"BARMOUTH, _October 14, 1823._
 */
 
-"<sc>My very dear Samuel</sc>,--I again take up my
+"MY VERY DEAR SAMUEL,--I again take up my
 pen to give you my sentiments on the important
 subject on which I promised to write to you,
 and on which you have kindly asked my advice.
@@ -6888,7 +6888,7 @@ evermore.
 /*
 "I am ever affectionately yours,
 
-"<sc>W. Wilberforce.</sc>"
+"W. WILBERFORCE."
 */
 
 
@@ -7234,7 +7234,7 @@ _saltus_, but the _whole tone_ of an assembly."
 
 
 /*
-"<sc>Clifton</sc>, _May 27, 1826._
+"CLIFTON, _May 27, 1826._
 */
 
 "I am very glad to think that you will be with
@@ -7434,7 +7434,7 @@ silent."
 
 
 /*
-"<sc>Highwood Hill</sc>,
+"HIGHWOOD HILL,
   "_November 27, 1826._
 */
 
@@ -7788,7 +7788,7 @@ think that you may produce an unfavourable and
 false impression of your principles and professional
 character, by talking unguardedly about _Methodistical_
 persons and opinions. Mrs. R. may report you as
-<sc>UNSOUND</sc> to the Bishop of Winchester, and he
+UNSOUND to the Bishop of Winchester, and he
 imbibe a prejudice against you. Besides, my dear
 Samuel, I am sure you will not _fire_ when I say
 that you may see reason on farther reading, and
@@ -7990,11 +7990,11 @@ through the power of the Holy Ghost."
 
 
 /*
-"<sc>Highwood Hill</sc>,
+"HIGHWOOD HILL,
   "_December 31, 1829._
 */
 
-"<sc>My dear Children</sc>,--For to both of you I
+"MY DEAR CHILDREN,--For to both of you I
 address myself. An idea, which for so old a fellow
 as myself you will allow somewhat to be deserving
 the praise of brightness, has just struck my mind,
@@ -8076,7 +8076,7 @@ this feeling.
 
 
 /*
-"<sc>Highwood Hill</sc>,
+"HIGHWOOD HILL,
   "_November 25, 1830._
 */
 
@@ -8202,11 +8202,11 @@ the day after his daughter Elizabeth's marriage.
 _Mr. Wilberforce to Mrs. Samuel Wilberforce._
 
 /*
-"<sc>Highwood Hill</sc>,
+"HIGHWOOD HILL,
   "_January 12, 1831._
 */
 
-"<sc>My dear Emily</sc>,--We had a delightful day
+"MY DEAR EMILY,--We had a delightful day
 yesterday for our ceremony, and after the indissoluble
 knot had been tied in due form, the parties
 drove off about 12 o'clock to spend a few days at
@@ -8250,7 +8250,7 @@ my dear Emily.
 /*
 "Believe me, begging a kiss to baby,
   "Ever affectionately yours,
-    "<sc>W. Wilberforce</sc>."
+    "W. WILBERFORCE."
 */
 
 
@@ -8260,7 +8260,7 @@ _Mr. Wilberforce to the Rev. Samuel Wilberforce._
 "_February 8, 1831._
 */
 
-"<sc>My dear Samuel</sc>,--Pray both for your mother
+"MY DEAR SAMUEL,--Pray both for your mother
 and for poor William that they may be delivered
 from [Greek: merimna]. The former, alas! lies awake for hours
 in the morning, and cannot banish from her mind
@@ -8283,11 +8283,11 @@ exertions. Kindest remembrances to dear Emily,
 and a kiss to little Emily, and the blessing of your
 affectionate father,
 
-"<sc>W. Wilberforce</sc>."
+"W. WILBERFORCE."
 
 
 /*
-"<sc>Highwood Hill</sc>,
+"HIGHWOOD HILL,
   "_March 4, 1831._
 */
 
@@ -8326,11 +8326,11 @@ Lord Russell's propositions:--
 _Mr. Wilberforce to Mr. Babington._
 
 /*
-"<sc>Highwood Hill</sc>,
+"HIGHWOOD HILL,
   "_March 14, 1831._
 */
 
-"<sc>My dear Tom</sc>,--I fear you will be again
+"MY DEAR TOM,--I fear you will be again
 disposed to accuse me of treating you with neglect
 (not, I hope, with unkindness) in suffering week after
 week to pass away without returning answers to
@@ -8373,7 +8373,7 @@ he "became a wanderer without any certain dwelling-place."
 
 
 /*
-"<sc>Kensington Gore</sc>,
+"KENSINGTON GORE,
   "_April 20th._
 */
 
@@ -8420,7 +8420,7 @@ few men have suffered from them so little as myself."
 
 
 /*
-"<sc>Bath</sc>, _October 19, 1831._
+"BATH, _October 19, 1831._
 */
 
 "I am but poorly, and I am bothered (a vulgar
@@ -8496,7 +8496,7 @@ kiss to sweet baby."
 
 
 /*
-"<sc>Blaize Castle</sc>,[65]
+"BLAIZE CASTLE,[65]
   "_October 31, 1831._
 */
 
@@ -8546,7 +8546,7 @@ fear for the Church in these days."
 
 
 /*
-"<sc>Blaize Castle</sc>, _November 2._
+"BLAIZE CASTLE, _November 2._
 */
 
 "The Bristol riots, though in some particulars
@@ -8583,7 +8583,7 @@ usual, out of evil good may arise."
 
 
 /*
-"<sc>Bath</sc>, _November 13, 1831._
+"BATH, _November 13, 1831._
 */
 
 "I think you know Mr. Pearse of this place,
@@ -8653,7 +8653,7 @@ rest likely to do more harm than good."
 
 
 /*
-"<sc>Bath</sc>, _December 6, 1831._
+"BATH, _December 6, 1831._
 */
 
 "I am unaffectedly sorry for having been apparently
@@ -8731,7 +8731,7 @@ life."
 
 
 /*
-"<sc>Bath</sc>, _June 14, 1832._
+"BATH, _June 14, 1832._
 */
 
 "I forget whether you know the Dean of Winchester[69]

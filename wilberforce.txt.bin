@@ -32,7 +32,7 @@
  'Pg031' => {'offset' => '619.52', 'label' => 'Pg 17', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg032' => {'offset' => '657.40', 'label' => 'Pg 18', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg033' => {'offset' => '685.52', 'label' => 'Pg 19', 'style' => '"', 'action' => '+1', 'base' => ''},
- 'Pg034' => {'offset' => '723.47', 'label' => 'Pg 20', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg034' => {'offset' => '723.38', 'label' => 'Pg 20', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg035' => {'offset' => '751.44', 'label' => 'Pg 21', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg036' => {'offset' => '780.41', 'label' => 'Pg 22', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg037' => {'offset' => '808.45', 'label' => 'Pg 23', 'style' => '"', 'action' => '+1', 'base' => ''},
@@ -105,7 +105,7 @@
  'Pg104' => {'offset' => '2673.49', 'label' => 'Pg 88', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg105' => {'offset' => '2702.55', 'label' => 'Pg 89', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg106' => {'offset' => '2739.44', 'label' => 'Pg 90', 'style' => '"', 'action' => '+1', 'base' => ''},
- 'Pg107' => {'offset' => '2771.23', 'label' => 'Pg 91', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg107' => {'offset' => '2771.14', 'label' => 'Pg 91', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg108' => {'offset' => '2805.49', 'label' => 'Pg 92', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg109' => {'offset' => '2842.45', 'label' => 'Pg 93', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg110' => {'offset' => '2874.42', 'label' => 'Pg 94', 'style' => '"', 'action' => '+1', 'base' => ''},
@@ -1856,7 +1856,7 @@ $::operationshash{'Check words with possible ligatures'}='2014-01-18 16:21';
 $::operationshash{'Check . lower'}='2014-01-18 16:22';
 $::operationshash{'Remove end-of-line spaces'}='2014-01-12 16:36';
 
-$::bookmarks[0] = '1.0';
+$::bookmarks[0] = '17.0';
 
 $::pngspath = 'C:\Users\Anna\Distributed_Proofreaders\PPing\PP_in_progress\PPing\W-Wilberforce\page_images\\';
 
