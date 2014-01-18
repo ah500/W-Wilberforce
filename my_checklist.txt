@@ -1,6 +1,5 @@
 Stage 1:
 
-check for consistant spacing of capitals (A.H. vs A. H. )
 fix sidenotes
 footnotes See here: http://www.pgdp.net/wiki/PPTools/Guiguts/Footnotes and do "First pass" before each action.
 	just check they all have the correct anchore and are at a paragraph break. Putting them in the correct possition happens later
