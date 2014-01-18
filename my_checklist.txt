@@ -1,6 +1,5 @@
 Stage 1:
 
-use jeebies
 use gutcheck
 search oe not marked as [oe]
 word frequency list buttons
