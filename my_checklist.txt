@@ -1,6 +1,5 @@
 Stage 1:
 
-check ellipses
 check for consistant spacing of capitals (A.H. vs A. H. )
 fix sidenotes
 footnotes See here: http://www.pgdp.net/wiki/PPTools/Guiguts/Footnotes and do "First pass" before each action.
