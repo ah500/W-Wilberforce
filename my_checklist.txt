@@ -1,7 +1,5 @@
 Stage 1:
 
-word frequency list buttons
-	including em-dashes
 Spell-check
 
 check ellipses
