@@ -4840,7 +4840,6 @@ respectful
   "<sc>C. Manners Sutton</sc>."
 */
 
-<tb>
 
 Lord John Russell's answer to Wilberforce's
 anti-bribery suggestions at the time of the first
@@ -5717,7 +5716,6 @@ obtained, the degree (in other words) in which
 we have improved the talents committed to our
 stewardship."
 
-<tb>
 
 /*
 "<sc>Weymouth</sc>, <i>September, 1820</i>.
@@ -5741,7 +5739,6 @@ than myself of music), but was to go to the relief
 of the clergy widows and children. I say therefore
 yes. Q.E.D."
 
-<tb>
 
 /*
 "<i>September 4, 1820.</i>
@@ -5762,7 +5759,6 @@ with all possible seriousness. As I have often told
 you, it is the grand test by which the state of a
 Christian may always be best estimated."
 
-<tb>
 
 /*
 "<sc>Bath</sc>, <i>September 23, 1820</i>.
