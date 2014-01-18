@@ -1,7 +1,5 @@
 Stage 1:
 
-Spell-check
-
 check ellipses
 check for consistant spacing of capitals (A.H. vs A. H. )
 fix sidenotes
