@@ -1,7 +1,5 @@
 Stage 1:
 
-Check my project notes
-
 *	*	* save ascii backup/html version *	*	*
 
 
@@ -146,5 +144,3 @@ http://www.pgdp.net/wiki/Post-Processing_Advice#ppg
 
 
 My notes:
-
-Make sure there are 2 blank lines between each letter.
