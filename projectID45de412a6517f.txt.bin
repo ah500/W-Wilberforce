@@ -1832,6 +1832,7 @@ $::proofers{'305'}[3] = 'a';
 $::proofers{'305'}[4] = 'a';
 $::proofers{'305'}[5] = 'a';
 
+$::operationshash{'Gutcheck'}='2014-01-18 16:17';
 $::operationshash{'Check emdashes'}='2014-01-12 11:32';
 $::operationshash{'pptxt'}='2014-01-18 14:43';
 $::operationshash{'Check Stealthos Word Frequency'}='2014-01-18 14:43';
@@ -1844,7 +1845,7 @@ $::operationshash{'Open C:\Users\Anna\Distributed_Proofreaders\PPing\PP_in_progr
 $::operationshash{'Word Frequency'}='2014-01-18 14:42';
 $::operationshash{'Remove end-of-line spaces'}='2014-01-12 16:36';
 
-$::bookmarks[0] = '1.0';
+$::bookmarks[0] = '8162.0';
 
 $::pngspath = 'C:\Users\Anna\Distributed_Proofreaders\PPing\PP_in_progress\PPing\W-Wilberforce\page_images\\';
 
