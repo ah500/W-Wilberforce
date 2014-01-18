@@ -1,6 +1,5 @@
 Stage 2:
 
-bold to =
 sc to CAPs - <sc>(\n?[^<]+)</sc> to \U$1\E
 check for < or >
 
