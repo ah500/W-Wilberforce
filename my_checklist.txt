@@ -1,7 +1,5 @@
 Stage 2:
 
-check for < or >
-
 beautify ascii tables /*, protect from rewrap with [2,70]
 double check /#
 
