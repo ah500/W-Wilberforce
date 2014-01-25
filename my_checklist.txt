@@ -1,6 +1,5 @@
 Stage 2:
 
-greek
 [OE]->Oe [oe]->oe
 remove ^ from superscripts
 any other business
@@ -118,3 +117,5 @@ http://www.pgdp.net/wiki/Post-Processing_Advice#ppg
 
 
 My notes:
+Make utf8 version with the Greek letters.
+Put Greek back into HTML version.
