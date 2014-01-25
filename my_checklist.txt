@@ -1,6 +1,5 @@
 Stage 2:
 
-gutcheck
 check my project notes
 search for *
 
