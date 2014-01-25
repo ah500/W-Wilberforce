@@ -1,9 +1,5 @@
 Stage 2:
 
-check my project notes
-
-save as correct character coding
-
 prepare sr files with sensible names and no images, zip
 *	*	* upload for smooth reading *	*	*
 
@@ -96,6 +92,5 @@ http://www.pgdp.net/wiki/Post-Processing_Advice#ppg
 
 
 My notes:
-Make utf8 version with the Greek letters.
 Put Greek back into HTML version.
-Add oe ligatures for C[oe]lebs (*3) and subp[oe]na'd (*1) back in utf8 and html versions.
+Add oe ligatures for C[oe]lebs (*3) and subp[oe]na'd (*1) back in html versions.

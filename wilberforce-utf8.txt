@@ -4900,10 +4900,10 @@ second view is that which most belongs to our present inquiry--that,
 I mean, of the society in which it may appear necessary to take a
 share on grounds of conformity (where there is nothing wrong) to the
 ordinary customs of life, and even on the principle of 'providing
-things honest in the sight of all men' (honest in the Greek is [Greek:
-dikaios]) and not suffering your good to be evil spoken of. Now in
-considering this question, I am persuaded I need not begin in my dear
-Samuel's instance with arguing for, but may assume the principle that
+things honest in the sight of all men' (honest in the Greek is δικαιος)
+and not suffering your good to be evil spoken of. Now in considering
+this question, I am persuaded I need not begin in my dear Samuel's
+instance with arguing for, but may assume the principle that
 there are no indifferent actions properly speaking, I should rather
 say none with which religion has nothing to do. This however is the
 commonly received doctrine of those who consider themselves as very
@@ -5769,8 +5769,8 @@ watch the operations of the Divine Hand. I have often thought that,
 had it not been for the positive declarations of the Holy Scriptures
 concerning the attention of the Almighty Governor of the universe to
 our minutest comforts and interests enforced by a comparison with
-the [Greek: storgê] of parental affection, we should not dare to be
-so presumptuous as to believe, that He who rolls the spheres along,
+the στοργἡ of parental affection, we should not dare to be so
+presumptuous as to believe, that He who rolls the spheres along,
 would condescend thus to sympathise with our feelings, and attend
 to our minutest interests. Here also Dr. Chalmers' suggestions,
 derived from the discoveries made to us through the microscope, come
@@ -6023,8 +6023,8 @@ _Mr. Wilberforce to the Rev. Samuel Wilberforce._
 
   "_February 8, 1831._
 
-"MY DEAR SAMUEL,--Pray both for your mother and for poor William that
-they may be delivered from [Greek: merimna]. The former, alas! lies
+"MY DEAR SAMUEL,--Pray both for your mother and for poor William
+that they may be delivered from μἑριμνα. The former, alas! lies
 awake for hours in the morning, and cannot banish from her mind the
 carking cares that haunt and worry her. We profess to believe in the
 efficacy of prayer. Let us prove the truth of our profession by at
@@ -6213,8 +6213,8 @@ gaol, I am assured, is left undestroyed. The Bishop's Palace, (and
 Deanery too I am told), burnt to the ground. The Custom House ditto,
 Mansion House ditto. Poor Pinney, the Mayor, I was assured, behaved on
 Saturday with great presence of mind. The populace, however, got into
-the Mansion House before the corporation went to dinner; so all the
-good things regaled the [Greek: hoi polloi]. Strange to say, (just as
+the Mansion House before the corporation went to dinner; so all
+the good things regaled the ὁι πολλοι. Strange to say, (just as
 in the London riots), people were allowed to walk the streets in peace,
 and last night half the people in the square were looking on at the
 depredations committing by the other half. Well-dressed ladies walked

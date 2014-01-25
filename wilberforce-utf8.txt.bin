@@ -290,7 +290,7 @@
  'Pg289' => {'offset' => '6150.24', 'label' => 'Pg 269', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg290' => {'offset' => '6175.57', 'label' => 'Pg 270', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg291' => {'offset' => '6197.6', 'label' => 'Pg 271', 'style' => '"', 'action' => '+1', 'base' => ''},
- 'Pg292' => {'offset' => '6216.67', 'label' => 'Pg 272', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg292' => {'offset' => '6217.3', 'label' => 'Pg 272', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg293' => {'offset' => '6237.46', 'label' => 'Pg 273', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg294' => {'offset' => '6256.50', 'label' => 'Pg 274', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg295' => {'offset' => '6278.9', 'label' => 'Pg 275', 'style' => '"', 'action' => '+1', 'base' => ''},
@@ -1856,7 +1856,7 @@ $::operationshash{'Check , Upper'}='2014-01-18 16:21';
 $::operationshash{'Check Accents'}='2014-01-18 16:22';
 $::operationshash{'Remove end-of-line spaces'}='2014-01-12 16:36';
 
-$::bookmarks[0] = '11.0';
+$::bookmarks[0] = '6723.0';
 
 $::pngspath = 'C:\Users\Anna\Distributed_Proofreaders\PPing\PP_in_progress\PPing\W-Wilberforce\page_images\\';
 
