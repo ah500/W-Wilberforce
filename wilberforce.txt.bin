@@ -1833,13 +1833,13 @@ $::proofers{'305'}[4] = 'a';
 $::proofers{'305'}[5] = 'a';
 
 $::operationshash{'Check words with unicode chars > FF'}='2014-01-18 16:22';
-$::operationshash{'pptxt'}='2014-01-18 14:43';
+$::operationshash{'pptxt'}='2014-01-25 12:20';
 $::operationshash{'Check Stealthos Word Frequency'}='2014-01-18 14:43';
 $::operationshash{'Begin Page Separators Fixup'}='2014-01-18 14:35';
 $::operationshash{'Check hyphens'}='2014-01-18 16:22';
 $::operationshash{'Open C:\Users\Anna\Distributed_Proofreaders\PPing\PP_in_progress\PPing\W-Wilberforce\projectID45de412a6517f.txt'}='2014-01-18 14:30';
 $::operationshash{'Open C:\Users\Anna\Distributed_Proofreaders\PPing\PP_in_progress\PPing\W-Wilberforce\wilberforce.txt'}='2014-01-25 11:54';
-$::operationshash{'Fixup Routine'}='2014-01-12 16:35';
+$::operationshash{'Fixup Routine'}='2014-01-25 12:22';
 $::operationshash{'Moved footnotes to landing zone'}='2014-01-18 17:11';
 $::operationshash{'Footnote Fixup'}='2014-01-18 17:05';
 $::operationshash{'Open C:\Users\Anna\Distributed_Proofreaders\PPing\PP_in_progress\PPing\Wilberforce\projectID45de412a6517f.txt'}='2014-01-11 18:25';
@@ -1856,7 +1856,7 @@ $::operationshash{'Check , Upper'}='2014-01-18 16:21';
 $::operationshash{'Check Accents'}='2014-01-18 16:22';
 $::operationshash{'Remove end-of-line spaces'}='2014-01-12 16:36';
 
-$::bookmarks[0] = '43.13';
+$::bookmarks[0] = '2502.0';
 
 $::pngspath = 'C:\Users\Anna\Distributed_Proofreaders\PPing\PP_in_progress\PPing\W-Wilberforce\page_images\\';
 

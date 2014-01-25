@@ -1,8 +1,5 @@
 Stage 2:
 
-pptext
-remove end of line spaces
-save
 rewrap
 	check this is all ok before saving!
 	indent anything which needs protecting from rewrap by a couple of spaces.
