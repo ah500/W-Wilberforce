@@ -1,12 +1,5 @@
 Stage 2:
 
-move footnotes to correct location
-if using after paragraph footnotes then indent with 
-/#[2,70]
-[A] footnote
-#/ 
-footnote fixup
-
 greek
 [OE]->Oe [oe]->oe
 remove ^ from superscripts
