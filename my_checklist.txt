@@ -1,11 +1,5 @@
 Stage 2:
 
-[OE]->Oe [oe]->oe
-remove ^ from superscripts
-any other business
-check my project notes
-Check for [**
-
 pptext
 remove end of line spaces
 save
