@@ -1856,7 +1856,7 @@ $::operationshash{'Check , Upper'}='2014-01-18 16:21';
 $::operationshash{'Check Accents'}='2014-01-18 16:22';
 $::operationshash{'Remove end-of-line spaces'}='2014-01-12 16:36';
 
-$::bookmarks[0] = '6723.0';
+$::bookmarks[0] = '6736.0';
 
 $::pngspath = 'C:\Users\Anna\Distributed_Proofreaders\PPing\PP_in_progress\PPing\W-Wilberforce\page_images\\';
 

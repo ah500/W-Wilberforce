@@ -314,7 +314,7 @@ The chief thing necessary is that I should then be able to name _some_
 day, and the precise day is of less consequence. You will hardly
 believe me if I tell you that I entertain the strongest hope of coming
 very near, if not absolutely succeeding. I have seen the Oracle of
-Yorkshire, Wyvill, and made him completely happy with the prospect.
+Yorkshire, Wyvill, and made him compleatly happy with the prospect.
 
 "All things are going, on the whole, exceeding well. You will have
 learnt that the _Old Boy_ at last overcame his doubts, and has ventured
@@ -501,7 +501,7 @@ is both the rightest and wisest thing you can do. If it will contribute
 to setting you at ease, that _I_ should personally bring it forward
 (supposing circumstances will admit of its being brought forward this
 session) your wish will decide. At all events, if it is in such a state
-that it can be brought on, I will take care that it shall be moved in a
+that it can be brought on. I will take care that it shall be moved in a
 respectable way, and I will take my part in it as actively as if I was
 myself the mover. And if I was to consult entirely my own inclination
 or opinion, I am not sure whether this may not be best for the business
@@ -600,7 +600,7 @@ Westminster, but by keeping our secret till the moment, I hope even
 that may be saved; but it is comparatively of little consequence. I
 feel the arrangement is liable to some invidious objections, but I am
 satisfied they are more than counterbalanced by the solid advantage of
-establishing a complete concert with so essential a department, and
+establishing a compleat concert with so essential a department, and
 removing all appearance of a separate interest. I shall be impatient,
 however, to hear what you think of my scheme. There is nothing else
 that occurs worth adding to this long scrawl, and I am obliged to
@@ -1520,7 +1520,7 @@ daily it appeared doubtful whether he was to continue Prime Minister
 or retire into private life. Yet though then not five-and-twenty I do
 not believe that the anxiety of his situation ever kept him awake for
 a single minute, or ever appeared to sadden or cast a gloom over his
-hours of relaxation.
+hours of relaxation
 
 It cannot perhaps be affirmed that he was altogether free from
 pride, but great natural shyness,[18] and even awkwardness (French
@@ -4774,7 +4774,7 @@ well-being of the parties concerned." The main point was that all negro
 children born after a certain day were to be free.
 
 
-  "_May 17, 1823._
+  "_May 17, 1832._
 
 "The debate was by no means so interesting as we expected. Buxton's
 opening speech was not so good as his openings have before been. His
@@ -5076,7 +5076,7 @@ letter once a week, if it be merely a certificate of your existence.
 I have been for some days thinking of writing to you, in consequence
 of my having heard that your friend Ryder and Sir George Prevost were
 reading classics with Mr. Keble. Could you not have been allowed to
-make it a triumvirate? Much as I value classical scholarship, I prize
+make it a triumvirate? Much as I value classical scholarship. I prize
 still more highly the superior benefit to be derived from associating
 with such good young men as I trust the two gentlemen are whose names
 I have mentioned, and I have the satisfaction of knowing that you have
@@ -5484,7 +5484,7 @@ contributed to bring you both after its blessed termination to the
 enjoyment of the rest that remaineth for the people of God."
 
 This letter refers to Samuel Wilberforce's marriage with Emily Sargent,
-as to which his father remarks: "Viewed in a worldly light, the
+as to which his father remarks: "Viewed in a worldy light, the
 connection cannot be deemed favourable to either of you."
 
 
@@ -6726,11 +6726,3 @@ Transcriber's note:
 
 In this text version _Underscores_ are used where the original used
 _italic_ fonts.
-
-The following corrections have been made:
-
-Page 10, "compleatly" changed to "completely" (completely happy)
-
-Page 22, "compleat" changed to "complete" (complete concert)
-
-Page 241, "worldy" changed to "worldly" (viewed in a worldly)
