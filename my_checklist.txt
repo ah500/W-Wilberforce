@@ -1,7 +1,5 @@
 Stage 2:
 
-format image captions
-
 move footnotes to correct location
 if using after paragraph footnotes then indent with 
 /#[2,70]
