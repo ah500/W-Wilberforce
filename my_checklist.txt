@@ -1,8 +1,5 @@
 Stage 2:
 
-rewrap
-	check this is all ok before saving!
-	indent anything which needs protecting from rewrap by a couple of spaces.
 Clear rewrap markers
 
 search for [1-9]-[1-9] and remove the dashes from fractions
