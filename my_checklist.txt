@@ -2,10 +2,6 @@ Stage 2:
 
 check my project notes
 
-TN, include:   _Underscores_ have been used to indicate _italic_ fonts.
-indent by a couple of spaces.
-spell check
-
 save as correct character coding
 
 prepare sr files with sensible names and no images, zip

@@ -1849,14 +1849,14 @@ $::operationshash{'Check . lower'}='2014-01-18 16:22';
 $::operationshash{'Found last page separator'}='2014-01-18 14:38';
 $::operationshash{'Footnote check passed'}='2014-01-18 17:11';
 $::operationshash{'Remove blank lines before page separators'}='2014-01-18 17:11';
-$::operationshash{'Gutcheck'}='2014-01-18 16:17';
+$::operationshash{'Gutcheck'}='2014-01-25 17:05';
 $::operationshash{'Reindex footnotes'}='2014-01-18 17:11';
 $::operationshash{'Check emdashes'}='2014-01-18 16:21';
 $::operationshash{'Check , Upper'}='2014-01-18 16:21';
 $::operationshash{'Check Accents'}='2014-01-18 16:22';
 $::operationshash{'Remove end-of-line spaces'}='2014-01-12 16:36';
 
-$::bookmarks[0] = '9.0';
+$::bookmarks[0] = '6724.0';
 
 $::pngspath = 'C:\Users\Anna\Distributed_Proofreaders\PPing\PP_in_progress\PPing\W-Wilberforce\page_images\\';
 
