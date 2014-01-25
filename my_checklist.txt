@@ -1,7 +1,5 @@
 Stage 2:
 
-Clear rewrap markers
-
 search for [1-9]-[1-9] and remove the dashes from fractions
 gutcheck
 check my project notes

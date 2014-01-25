@@ -15,7 +15,6 @@ WILLIAM WILBERFORCE_
 
 
 
-/F[2,70]
   Private Papers
   of
   William Wilberforce
@@ -47,7 +46,6 @@ WILLIAM WILBERFORCE_
 
 
   Printed in U.S.A.
-F/
 
 
 
@@ -95,11 +93,9 @@ Elizabeth, and to his son Samuel, afterwards Bishop of Oxford and
 Winchester. The letters to the latter are from the collection of 600
 letters written by the father to the son.
 
-/*
   A. M. WILBERFORCE.
 
   LAVINGTON, _September 1, 1897_.
-*/
 
 
 
@@ -107,7 +103,6 @@ letters written by the father to the son.
 CONTENTS
 
 
-/*[2,70]
                                       PAGE
 
   LETTERS FROM PITT                      1
@@ -117,7 +112,6 @@ CONTENTS
   LETTERS FROM FRIENDS                  83
 
   HOME LETTERS                         163
-*/
 
 
 
@@ -125,7 +119,6 @@ CONTENTS
 ILLUSTRATIONS
 
 
-/*[2,70]
                                                                    PAGE
 
   1. WILLIAM WILBERFORCE, M.P. FOR THE COUNTY
@@ -146,7 +139,6 @@ ILLUSTRATIONS
 
   5. SAMUEL WILBERFORCE, AGED 29                    "               245
   (_From a drawing by George Richmond._)
-*/
 
 
 
@@ -164,10 +156,8 @@ extant that is racy of those rollicking times when the 'fruits of
 Pitt's earlier rising' appeared in the careful sowing of the garden
 beds with the fragments of Ryder's opera hat."[2]
 
-/*
   "GRAFTON STREET,
   "_July 31, 1782_.
-*/
 
 "DEAR WILBERFORCE,--I shall not have the least difficulty in applying
 immediately to Lord Shelburne in behalf of your friend Mr. Thompson,
@@ -188,16 +178,12 @@ secretary. Perhaps, however, you will not be able to read without the
 assistance of a decypherer. At least in compassion to your eyesight it
 is as well for me to try it no further.
 
-/*
   "So adieu. Yrs. ever sincerely,
   "W. PITT."
-*/
 
 
-/*
   "BRIGHTHELMSTONE,
   "_Wednesday, Aug. 6, 1783_.
-*/
 
 "DEAR WILBERFORCE,--_Anderson's Dictionary_ I have received, and am
 much obliged to you for it. I will return it safe, I hope not dirtied,
@@ -230,20 +216,16 @@ you did, by desiring you to write immediately. I go from hence to
 Somersetshire this day sennight, and stay till Bankes's. Direct to
 Burton Pynsent, Somerset, and _if you will_, by London.
 
-/*
   "Ever sincerely yrs.,
   "W. PITT."
-*/
 
 
 Pitt's next letter refers to the General Election of 1784, and William
 Wilberforce's candidature for Yorkshire, which county he represented in
 Parliament for twenty-eight years.
 
-/*
   "DOWNING STREET,
   "_Tuesday, April 6, 1784_.
-*/
 
 "DEAR WILBERFORCE,--I have received your two expresses, and one this
 morning from Mr. Wyvill. I could not get to town till late last night,
@@ -282,29 +264,23 @@ successful everywhere, with only a very few exceptions, than can be
 imagined. I hope you bear all the fatigue tolerably. I wish it was
 over. God bless you.
 
-/*
   "Most truly yours,
   "W. PITT.
-*/
 
 
 "Compts. to Smith, and many thanks for his letter. I hope he is still
 with you. The numbers at Westminster to-day are--
 
-/*
   Hood.   Wray.   Fox.
   3936    3622    3413
-*/
 
 Sawbridge has beat Atkinson only by seven, and there is to be a
 scrutiny. The other members are Watson, Lewes, and Newnham. Sir R.
 Clayton declines for Surrey. Byng will probably be beat."
 
 
-/*
   "DOWNING STREET,
   "_Sunday, December 19, 1784_.
-*/
 
 "MY DEAR WILBERFORCE,--I have been so diligently _turning my thoughts_
 on all sides since we parted, that tho' they have been turned to you
@@ -345,15 +321,11 @@ learnt that the _Old Boy_ at last overcame his doubts, and has ventured
 single into the Cabinet, which is a great point happily settled. God
 bless you.
 
-/*
   "Ever most faithfully yours.
   "W. PITT."
-*/
 
 
-/*
   "1784.
-*/
 
 "MY DEAR WILBERFORCE,--I am sorry to find from your letter from
 Nottingham that the Knight of Yorkshire is in so much dudgeon. Tho',
@@ -372,10 +344,8 @@ received an account from Whitbread that St. Andrew loses his election
 by three; and would probably lose by more if he chooses a scrutiny or a
 petition. Adieu.
 
-/*
   "Ever yrs.,
   "W. PITT.
-*/
 
 
 "For the sake of this letter I am leaving a thousand others unanswered,
@@ -394,10 +364,8 @@ him to open his mind to "one who does not know how to separate your
 happiness from his own."
 
 
-/*
   "DOWNING STREET,
   "_December 2, 1785_.
-*/
 
 "MY DEAR WILBERFORCE,--Bob Smith[6] mentioned to me on Wednesday
 the letters he had received from you, which prepared me for that I
@@ -459,10 +427,8 @@ discussed, and believe me that at all events the full knowledge of the
 nature and extent of your opinions and intentions will be to me a
 lasting satisfaction.
 
-/*
   "Believe me, affectionately and unalterably yours,
   "W. PITT."
-*/
 
 Pitt came the next morning according to his proposal in this remarkable
 letter: when Wilberforce[7] "conversed with Pitt near two hours, and
@@ -476,10 +442,8 @@ so it went on to the end, Wilberforce ever hoping to renew the sacred
 conversation."
 
 
-/*
   "DOWNING STREET,
   "_September, 23, 1786_.
-*/
 
 "MY DEAR WILBERFORCE,--At length all the obstacles of business, of
 idleness, and of procrastination are so far overcome that I find myself
@@ -518,18 +482,14 @@ of next week for about ten days. Soon after I hope I may see you at
 Hollwood. Bob Smith was in town lately, much better on the whole, but
 not quite so well as I hoped to see him. Adieu.
 
-/*
   "Ever yours,
   "W. PITT."
-*/
 
 [Illustration: WILBERFORCE OAK.]
 
 
-/*
   "DOWNING STREET,
   "_Tuesday, April 8, 1788_.
-*/
 
 "MY DEAR WILBERFORCE,--I have just received your letter of yesterday,
 and as I can easily imagine how much the subject of it interests you, I
@@ -572,18 +532,14 @@ As soon as I can judge about Parliament meeting before Christmas or
 not, you shall hear. If it sits pretty late now, it probably will not
 meet till after. Adieu for the present. Every good wish attend you.
 
-/*
   "Ever affectionately yours,
   "W. PITT."
-*/
 
 I have had very good accounts of you from two or three quarters.
 
 
-/*
   "PEMBROKE HALL,
   "_Saturday, June 28, 1788_.
-*/
 
 "MY DEAR WILBERFORCE,--I have no small pleasure in writing to you
 quietly from hence, after hearing the good account you sent me of
@@ -652,16 +608,12 @@ seal it up, as in spite of the rain which keeps me at home, I am in
 expectation of an agreeable collection of dons whom Turner has convened
 to smoke and sleep round his table this evening. God bless you.
 
-/*
   "Believe me, ever affectionately yours,
   "W. PITT."
-*/
 
 
-/*
   "DOWNING STREET,
   "_Monday, September 1, 1788_.
-*/
 
 "MY DEAR WILBERFORCE,--I have certainly given a considerable latitude
 to my promise of writing in a fortnight, in defence of which I have
@@ -689,16 +641,12 @@ object. The moment I hear anything respecting it I will write again;
 and at all events in less than _my last fortnight_. I must end now in
 haste to save the post and my dinner.
 
-/*
   "Ever affectionately yours,
   "W. PITT."
-*/
 
 
-/*
   "DOWNING STREET,
   "_Monday, April 20, 1789_.
-*/
 
 "MY DEAR WILBERFORCE,--We have found it necessary to make some
 corrections on looking over the proof sheets of the Report, which will
@@ -718,16 +666,12 @@ case that is not made out upon the strongest grounds. Steele has shown
 me your letter to him. There certainly cannot be the least reason for
 your coming up merely to attend St. Paul's.
 
-/*
   "Ever affectionately yours,
   "W. PITT."
-*/
 
 
-/*
   "DOWNING STREET,
   "_Wednesday, February 2, 1796_.
-*/
 
 "MY DEAR WILBERFORCE,--I have seen Sir W. Fawcett, &c., and settled
 with them that they shall take _immediately_ the necessary measures for
@@ -741,16 +685,12 @@ difficulty. My cold is much better, and I have hardly any doubt of
 being in condition for service on Friday, to which day, you probably
 know, the business is put off.
 
-/*
   "Yours ever,
   "W. P."
-*/
 
 
-/*
   "DOWNING STREET,
   "_August 4, 1796_.
-*/
 
 "MY DEAR WILBERFORCE,--I am anxious not to let the post go without
 telling you that I cannot have a moment's hesitation in assuring you
@@ -763,16 +703,12 @@ train. I certainly am not inclined even now to think gloomily of public
 affairs; but I must at the same time own that I feel the crisis to be a
 most serious one, and to require the utmost exertion and management.
 
-/*
   "Ever yours sincerely,
   "W. PITT."
-*/
 
 
-/*
   "DOWNING STREET,
   "_September 7, 1796_.
-*/
 
 "MY DEAR WILBERFORCE,--I think it nearly certain that Parliament will
 meet on the 27th, and I wish much it may suit you to come this way some
@@ -799,16 +735,12 @@ taken, being in the hurry of a journey to Weymouth and back, I deferred
 it again, so that it was already announced in the _Gazette_, and it
 became too late to write. Perhaps you can make my excuses.
 
-/*
   "Ever yours,
   "W. P."
-*/
 
 
-/*
   "DOWNING STREET,
   "_September 20, 1797_.
-*/
 
 "MY DEAR WILBERFORCE,--I know what your feelings will be on receiving
 the melancholy account which I have to send you, and which reached me
@@ -821,30 +753,22 @@ accounts for some time, and was not at this moment at all prepared for
 what has happened. You will not wonder that I cannot write to you on
 any other subject, but I will as soon as I can.
 
-/*
   "Ever sincerely yours,
   "W. PITT."
-*/
 
 
-/*
   "_Friday, 4_ P.M.
-*/
 
 "MY DEAR WILBERFORCE,--I am only anxious to avoid embarrassment to your
 question as well as to the general course of business; and will call
 on you in a few minutes on my way to the House.
 
-/*
   "Ever aff. yours,
   "W. P."
-*/
 
 
-/*
   "DOWNING STREET,
   "_Thursday, August 14, 1800_.
-*/
 
 "MY DEAR WILBERFORCE,--I have no thoughts of going to Walmer till the
 very end of the month, and it is doubtful whether I can accomplish it
@@ -859,10 +783,8 @@ for myself and the only two or three persons who would be likely to
 come with me, such as perhaps Carrington, the Master of the Rolls, and
 Long. Be so good, therefore, to consult entirely your own convenience.
 
-/*
   "Ever yours,
   "W. P.
-*/
 
 "Let me know what day next week you fix for being there, and everything
 shall be ready for you. You may as well send your servant to my
@@ -870,11 +792,9 @@ manager Bullock, who will arrange everything about cellar and other
 household concerns."
 
 
-/*
   "PARK PLACE,
 
   "_October 1, 1801_.
-*/
 
 "MY DEAR WILBERFORCE,--I cannot refrain from congratulating you most
 sincerely on the happy event of the Signature of Preliminaries, which
@@ -887,32 +807,24 @@ is most fortunate both for Government and the public, and for the sake
 of both, gives me infinite satisfaction. I am but just in time for the
 post.
 
-/*
   "Ever sincerely yours,
   "W. PITT."
-*/
 
 
-/*
   "DOWNING STREET, _Saturday_.
-*/
 
 "MY DEAR WILBERFORCE,--I shall be very glad if you can call here any
 time after nine this evening, as I wish to show you a paper from the
 other side of the water, of a very interesting nature, tho' not such as
 was most to be wished or at all to be expected.
 
-/*
   "Yours,
   "W. P."
-*/
 
 
-/*
   "WALMER CASTLE,
 
   "_May 31, 1802_.
-*/
 
 "MY DEAR WILBERFORCE,--I found your letter on my arrival here
 yesterday, having escaped to Hollwood on Friday only as a preparation
@@ -945,18 +857,14 @@ This is far from a reason for not endeavouring, if possible, to prevent
 the aggravation of the evil in the meantime, and I heartily wish you
 may be successful in the attempt.
 
-/*
   "Ever affy. yrs.,
 
   "W. P."
-*/
 
 
-/*
   "WALMER CASTLE,
 
   "_September 22, 1802_.
-*/
 
 "MY DEAR WILBERFORCE, I am much obliged to you for your kind letter of
 inquiry. My complaint has entirely left me, I am recovering my strength
@@ -974,11 +882,9 @@ the occasion was one on which I
 [Rest of letter torn off.]
 
 
-/*
   "BATH,
 
   "_October 31, 1802_.
-*/
 
 "MY DEAR WILBERFORCE,--As you are among the persons to whom the author
 of the enclosed high-flown compliments refers for his character for
@@ -1012,18 +918,14 @@ great deal, but I think he carries some of his details and refinements
 further than is at all necessary for his purpose, and perhaps than will
 quite stand the test of examination.
 
-/*
   "Ever affy. yrs.,
 
   "W. P."
-*/
 
 
-/*
   "WALMER CASTLE,
 
   "_August 8, 1803_ (?).
-*/
 
 "MY DEAR WILBERFORCE,--Not having returned from a visit to some of my
 corps on the Isle of Thanet till Friday evening, I could not answer
@@ -1047,18 +949,14 @@ local defence, both naval and military, and I trust shall both add
 very much to the security of essential points on this coast, and set
 not a bad example to other maritime districts.
 
-/*
   "Ever affy. yours,
 
   "W. P."
-*/
 
 
-/*
   "WALMER CASTLE,
 
   "_January 5, 1804_.
-*/
 
 "MY DEAR WILBERFORCE--Your letter reached me very safe this morning,
 and I thank you very much for its contents. I hope it will not be long
@@ -1074,11 +972,9 @@ expectation of the enemy, I mean to be in town the beginning of next
 week, and will immediately let you know. Perhaps I may be able to go on
 to Bath for a fortnight.
 
-/*
   "Ever affy. yours,
 
   "W. P."
-*/
 
 
 Two examples are here given of Wilberforce's letters to Pitt. The
@@ -1146,11 +1042,9 @@ to the writer, who is a good deal nettled at his former communications
 to Lord Spencer not being attended to. I will send the manuscript by
 to-morrow's mail.
 
-/*
   "Yours ever sincerely,
 
   "W. W.
-*/
 
 "Every one is calling out for you to summon the nation to arm itself
 in the common defence. You hear how nobly my Yorkshire men are acting.
@@ -1158,9 +1052,7 @@ I must have more discussion on that head, for they still wish you to
 impose an equal rate on all property."
 
 
-/*
   "BATH, _Easter Sunday_.
-*/
 
 "MY DEAR PITT,--I am not unreasonable enough to ask you to read my
 book: but as it is more likely that when you are extremely busy than at
@@ -1173,11 +1065,9 @@ particularly addressed to such as you. At the same time I know you will
 scold me for introducing your name. May God bless you. This is the
 frequent prayer of your affectionate and faithful.
 
-/*
   "W. W."
 
   [Postmarked 1797.]
-*/
 
 
 Here ends the hitherto unpublished correspondence between Pitt and
@@ -1187,10 +1077,8 @@ Chatham, writes with regard to his funeral:
 
 _Lord Chatham to Mr. Wilberforce._
 
-/*
   "DOVER STREET,
   "_February 15, 1806_.
-*/
 
 "I have many thanks to offer you for your very kind letter which I
 received this morning. Knowing, as I do, how truly the sentiments of
@@ -1201,10 +1089,8 @@ friend, some particular situation allotted to you in the last sad
 tribute to be paid to his memory. Believe me, with sincere regard, my
 dear sir,
 
-/*
   "Yours very faithfully,
   "CHATHAM."
-*/
 
 
 Pitt was one of the few men whose lives have affected the destiny
@@ -1218,14 +1104,12 @@ was written in 1821, sixteen years after Pitt's death, and is printed
 exactly as Wilberforce left it. It will no doubt recall to the mind of
 the reader Scott's well-known lines:
 
-/P
     "With Palinure's undaunted mood,
     Firm at his dangerous post he stood;
     Each call for needful rest repelled
     With dying hand the rudder held
     Till, in his fall, with fateful sway
     The steerage of the realm gave way!"[10]
-P/
 
 
 
@@ -1959,7 +1843,6 @@ great and important services to his country, and especially deserved
 the gratitude of this House."[23]
 
 
-/P
     THE PILOT THAT WEATHER'D THE STORM.
 
     (_A Song written in 1802._)
@@ -2003,7 +1886,6 @@ the gratitude of this House."[23]
       The dawning of peace should fresh darkness deform,
     The regrets of the good, and the fears of the wise,
       Shall turn to the Pilot that weather'd the storm.
-P/
 
 
 
@@ -2024,11 +1906,9 @@ LETTERS FROM FRIENDS
 
 _Right Hon. George Rose to Mr. Wilberforce._
 
-/*
   "OLD PALACE YARD,
 
   "_November 4, 1790_.
-*/
 
 "MY DEAR WILBERFORCE,--I was shocked this morning in putting my papers
 in order on my table to find a letter I wrote to you before I went into
@@ -2051,11 +1931,9 @@ situation.
 "I have actually been drunk ever since ten o'clock this morning, and
 have not yet quite the use of my reason, but I am
 
-/*
   "Yours most faithfully and cordially,
 
   "GEORGE ROSE."
-*/
 
 
 Pitt's views as to a bounty on corn in the scarcity then[26] prevailing
@@ -2130,11 +2008,9 @@ to the ground.
 
 _Right Hon. G. Rose to Mr. Wilberforce._
 
-/*
   "OLD PALACE YARD,
 
   "_January 25, 1806, Saturday_.
-*/
 
 "MY DEAR WILBERFORCE,--I told you, immediately after the receipt of
 your former letters, that all thought of applying to Parliament for
@@ -2162,12 +2038,10 @@ are given to them which will aid their income.
 measures for promoting the subscription, and you shall know the result.
 You will, I am persuaded, come in to attend the House on that day.
 
-/*
   "The Bishop of Lincoln is at the Deanery.
   "I am, my dear Wilberforce,
   "Most truly yours,
   "GEORGE ROSE."
-*/
 
 
 The next two letters are from Dundas, afterwards Lord Melville,[27]
@@ -2180,9 +2054,7 @@ free exports of our manufactures to Holland.
 
 _Right Hon. Henry Dundas to Mr. Wilberforce._
 
-/*
   "WIMBLEDON, _August 15, 1796_.
-*/
 
 "MY DEAR W.,--I have spoke both with Mr. Pitt and Lord Grenville
 on the subject of a free exportation of our manufactures from this
@@ -2203,18 +2075,14 @@ situation to maintain them. But I find my pen running away with me, and
 must conclude with congratulating you on the fine weather and luxuriant
 crops, and with being, my dear Wil,
 
-/*
   "Yours sincerely,
   "HENRY DUNDAS."
-*/
 
 Dundas's remarks on the defence of the country and the raising of
 volunteer and yeomanry corps in 1798 are not without interest in 1897.
 
 
-/*
   "WIMBLEDON, _January 29, 1798_.
-*/
 
 "MY DEAR WILBERFORCE,--There can not be a doubt of the wishes of
 Government to bring forward the zeal and exertions of the country in
@@ -2241,7 +2109,6 @@ than is convenient consistently with keeping one's mind in a constant
 tenor of steady and unruffled attention. I was sorry to learn within
 these two days that Mrs. Wilberforce is ailing, and
 
-/*
   "I remain, my dear Wilberforce,
   "Yours very sincerely,
   "HENRY DUNDAS."
@@ -2288,9 +2155,7 @@ these two days that Mrs. Wilberforce is ailing, and
   re-establish your health, which would give
   joy to thousands, and no one more than, &c.,
 
-/*
   "J. GORDON."
-*/
 
 
 In this letter the Duchess encloses her correspondence with Dundas, who
@@ -2301,11 +2166,9 @@ Wilberforce to heal through his influence with Pitt. She had "dropped
 some words" respecting Dundas to Pitt which had "got round" to the
 former. Dundas writes to her:
 
-/*
   "INDIA OFFICE,
 
   "_July 4, 1788_.
-*/
 
 "DEAR DUCHESS,--I received your affectionate note previous to your
 departure for Scotland. A great part of its contents are more fit for
@@ -2336,11 +2199,9 @@ that I made professions even in the middle of a country dance without a
 perfect determination to realise them. Remember me affectionately to
 everybody, and
 
-/*
   "I remain,
   "Yours sincerely,
   "HENRY DUNDAS."
-*/
 
 The Duchess's answer to Dundas is so full of piquancy that it helps one
 to realise the personality of this remarkable woman.
@@ -2348,10 +2209,8 @@ to realise the personality of this remarkable woman.
 
 _Duchess of Gordon to Right Hon. Henry Dundas._
 
-/*
   "GORDON CASTLE,
   "_July 13, 1788_.
-*/
 
 "I have this morning yours, and though not a little confused with the
 bustle of joy that surrounds me, cannot delay answering it. There is
@@ -2420,10 +2279,8 @@ afford you much amusement, and may the paths of Melville and Duneira
 be strewed with roses, without one care from public or private life to
 cause a gloom.
 
-/*
   &c., &c.,
   "J. GORDON."
-*/
 
 
 The Duchess, in enclosing this correspondence, begs Wilberforce to
@@ -2440,10 +2297,8 @@ here Monday evening. Pray come; I shall be delighted to see you, and
 much mortified if you don't come.
 
 
-/*
   "Ever yours most truly, &c.,
   "J. GORDON."
-*/
 
 After 1800 Wilberforce seems in great measure to have cut himself
 loose from society that he considered frivolous; and to have used
@@ -2462,10 +2317,8 @@ public speaking" for which Lord Calthorpe is grateful to Wilberforce.
 
 _Lord Calthorpe to Mr. Wilberforce._
 
-/*
   "KINRARA,
   "_September 2, 1801, Saturday_.
-*/
 
 "MY DEAR SIR,--I have just evinced a proof of want of vigilance and
 self-discipline which vexes me so much that I am endeavouring to find
@@ -2529,11 +2382,9 @@ a very large Gothic house built upon its site. I hope you are enjoying
 health and quiet where you are, and every other blessing. Give my
 kindest remembrance to Mrs. W.
 
-/*
   "Believe me, my dear sir,
   "Affectly yours,
   "CALTHORPE.
-*/
 
 "You shall hear from me again."
 
@@ -2547,9 +2398,7 @@ may be given to her son Lord Waldegrave.
 
 _The Duchess of Gloucester to Mr. Wilberforce._
 
-/*
   "GENOA, _February 4, 1786_.
-*/
 
 "SIR,--Although you did not succeed in one of my requests to Mr.
 Pitt, you were more successful in the other; and for that I return
@@ -2572,21 +2421,17 @@ the match to take place, but till it is over I shall have my doubts. If
 Mrs. Wilberforce and your sister are in town will you give them my best
 compliments. Sophia and William are both as tall as yourself.
 
-/*
   "Sir,
   "I remain yours, &c., &c.,
   "MARIA."
-*/
 
 The next letter is from the same lady, thanking Wilberforce for having
 written "so full an explanation of what so few people understand" in
 his work on "Practical Christianity."
 
 
-/*
   "GLOUCESTER HOUSE,
   "_April 14, 1797_.
-*/
 
 "I received your inimitable book the day before I got your letter, and
 had read a good way in it. I have continued to read in it with the
@@ -2597,11 +2442,9 @@ the good it will do will be infinite. Mrs. H. More was with me last
 night; she is so exalted by your book that she almost forgets humility
 is one of the Christian requisites.
 
-/*
   "I remain, dear sir,
   "Your _very_ much obliged, &c.,
   "MARIA."
-*/
 
 
 Let us turn to the more serious friendships of Wilberforce's middle
@@ -2651,11 +2494,9 @@ Burgh,[33] a well-known man at this time and friend of Wilberforce,
 takes one side, and Lord Hardwicke, Viceroy of Ireland, the other.
 
 
-/*
   _Dr. Burgh to Mr. Wilberforce._
 
   "YORK, _February 9, 1801_.
-*/
 
 "MY DEAR WILBER.,--I sincerely thank you for the communication you
 have made to me, and assure you that you may rely upon my profoundest
@@ -2701,18 +2542,14 @@ surely too clearly justify whatever inference I have drawn from them.
 say it; but if a few good men may not save a nation, they yet may save
 and purchase favour to themselves.
 
-/*
   "I am ever, my dear Wilber.,
   "Most fervently yours,
   "W. B."
-*/
 
 
-/*
   _Lord Hardwicke to Mr. Wilberforce._
 
   "_September 30, 1801._
-*/
 
 "I think the alterations made by the Union are in some respects
 likely to facilitate the conduct of public business in this country
@@ -2740,10 +2577,8 @@ Chancellorship."
 
 _Lord Redesdale to Mr. Wilberforce._
 
-/*
   "ELY PLACE, DUBLIN,
   "_March 5, 1806_.
-*/
 
 "MY DEAR SIR,--I rely upon your letter, desiring to know whether
 there was any establishment in this country by contribution to which
@@ -2869,11 +2704,9 @@ most heartily concur. The remainder of my life I trust will be passed
 more quietly than the last three years. Lady Redesdale begs to join in
 respects to Mrs. Wilberforce, and I am
 
-/*
   "Truly, my dear sir,
   "Your faithful, humble servant,
   "REDESDALE."
-*/
 
 
 Sydney Smith writes in 1807 with regard to the Yorkshire election,
@@ -2897,10 +2730,8 @@ perpetual member for Yorkshire.
 
 "In the meantime I remain, with great respect,
 
-/*
   "Your obedient servant,
   "SYDNEY SMITH."
-*/
 
 
 Wilberforce had evidently written to Lord Eldon begging him not to
@@ -2952,10 +2783,8 @@ the subject leads me to determine to vote and I feel it likely to be
 beneficial to converse upon facts, as well as to read all I can find,
 I shall seek the benefit you kindly offer me.
 
-/*
   "Yours sincerely,
   "ELDON."
-*/
 
 
 Wilberforce had met Lord Ellenborough on the Continent in 1785, and
@@ -2970,10 +2799,8 @@ Wilberforce.
 
 _Lord Ellenborough to Mr. Wilberforce._
 
-/*
   "BLOOMSBURY SQUARE,
   "_June 27, 1802_.
-*/
 
 "MY DEAR SIR,--I recollect perfectly the conversation between us
 in the House of Commons to which you allude, and should be extreme
@@ -3009,10 +2836,8 @@ and should not be governed by any supposed policy of man which might be
 set up in opposition to it. I write this in confidence to yourself. I
 remain, my dear sir, with very sincere respect,
 
-/*
   "Your obedient servant,
   "ELLENBOROUGH."
-*/
 
 
 Wilberforce had written to Lord Ellenborough on the evils of his having
@@ -3023,10 +2848,8 @@ of brevity and which Wilberforce describes as "a very handsome answer."
 
 _Lord Ellenborough to Mr. Wilberforce._
 
-/*
   "BLOOMSBURY SQUARE,
   "_February 4, 1806_.
-*/
 
 "MY DEAR SIR,--I sit down to thank you for the favour of your letter
 in the very instant in which I have received it. I regret very much
@@ -3126,11 +2949,9 @@ various duties which press upon me at this moment and to preserve the
 good opinion of good men, and especially of one whom on many accounts I
 have so long and so highly esteemed as yourself,
 
-/*
   "I remain, my dear sir,
   "Most sincerely and faithfully yours,
   "ELLENBOROUGH."
-*/
 
 
 In 1802, on the supposition that Lord Wellesley's resignation as
@@ -3144,9 +2965,7 @@ future fame.
 
 _Lord Camden to Mr. Wilberforce._
 
-/*
   "_January 7, 1802._
-*/
 
 "DEAR WILBERFORCE,--I lament extremely that Lady Camden and I have been
 deprived of the pleasure we should have had in receiving you and Mrs.
@@ -3198,13 +3017,11 @@ a person indifferent to everything concerning him except his public
 character, and open the business in as advantageous a manner as it can
 be done.
 
-/*
   "Believe me,
 
   "Ever most sincerely yours,
 
   "CAMDEN."
-*/
 
 
 In 1803 the tardiness of our military preparations had been accentuated
@@ -3221,11 +3038,9 @@ reason or other, not come; though he confesses that he did not know of
 any foundation for such hope.
 
 
-/*
   _Right Hon. William Windham to Mr. Wilberforce._
   "BEACONSFIELD,
   "_August 18, 1803_.
-*/
 
 "DEAR WILBERFORCE,--The breaking up of Parliament, advanced as the
 season is, I can hardly help regretting on another account. One wants
@@ -3282,11 +3097,9 @@ what foundation there is for any such hope I confess I do not know.
 Forgive my running on at this rate. The importance of the subject would
 certainly warrant me if I had anything new to say.
 
-/*
   "Yours very truly,
 
   "W. WINDHAM."
-*/
 
 
 Lord Chatham[36] at that time Master-General of the Ordnance, writes on
@@ -3295,13 +3108,11 @@ ready for the defence of the country, but there was an indisposition to
 take them."
 
 
-/*
   _Lord Chatham to Mr. Wilberforce._
 
   "ST. JAMES' SQUARE,
 
   "_September 2, 1803._
-*/
 
 "I had certainly felt it my duty (as only following up the plan
 proposed before I came to the Ordnance) to endeavour to restore at
@@ -3339,20 +3150,16 @@ question of volunteering which I contemplate as a most serious one.
 Excuse great haste with which I have written, and with Lady Chatham's
 very best remembrances to you,
 
-/*
   "Believe me, yours very sincerely,
   "CHATHAM."
-*/
 
 Henry Bankes, the old friend of both Pitt and Wilberforce, writes on
 the political situation in 1807 as follows:--
 
 
-/*
   _Mr. Bankes to Mr. Wilberforce._
   "KINGSTON HALL,
   "_January 1, 1807_.
-*/
 
 "MY DEAR WILBERFORCE,--Upon perusing the French papers I am well
 satisfied with the conduct of our Government. The tone is firm and
@@ -3372,20 +3179,16 @@ think, his words, and the words of his master.
 French negotiators, and their proceedings do in fact but little credit
 to their understandings, if they have any opinion of ours.
 
-/*
   "Believe me, my dear Wilberforce,
   "Most sincerely yours,
   "HENRY BANKES."
-*/
 
 
 Lord Harrowby, who twice refused the Premiership, writes of the state
 of parties in 1809.
 
-/*
   _Lord Harrowby to Mr. Wilberforce._
   _Friday, September 22, 1809._
-*/
 
 "DEAR WILBERFORCE,--You must have thought me a great bear not to have
 thanked you sooner for your kind recollection of my wish to see a
@@ -3429,11 +3232,9 @@ life. It will probably be a very short excursion, and certainly a most
 painful one. I look for no comfort but in planting turnips in my Sabine
 farm.
 
-/*
   "Yours ever most sincerely,
 
   "HARROWBY."
-*/
 
 
 Lord Erskine writes in 1813, to Wilberforce:--
@@ -3453,13 +3254,11 @@ its merit in everything that characterises an appeal to a Christian
 assembly on the subject of Christianity. With the greatest regard I
 ever am,
 
-/*
   "My dear sir,
 
   "Your most faithful servant,
 
   "ERSKINE."
-*/
 
 
 Rowland Hill, the celebrated preacher, the disciple of Whitefield, and
@@ -3492,11 +3291,9 @@ result of his neglecting to answer our respectful petitions so as to
 obtain some redress on our behalves, thousands would have to bless you,
 and none more so than
 
-/*
   "Yours most respectfully,
 
   "ROWLAND HILL.
-*/
 
 
 "It should appear according to the new French constitution that our
@@ -3556,11 +3353,9 @@ mentioned the subject at a public meeting in the city, which I hope
 will be avoided at least till the French Government will have carried
 into execution all it proposes to do at present.
 
-/*
   "Ever, my dear sir, yours most faithfully,
 
   "WELLINGTON."
-*/
 
 
 The Duke of Wellington's letter to General Macaulay is on the same
@@ -3571,11 +3366,9 @@ thinks that the great cause had suffered from prematurely published
 reports.
 
 
-/*
   _The Duke of Wellington to General Macaulay._
 
   "PARIS, _December 22, 1814_.
-*/
 
 "MY DEAR MACAULAY,--I received only yesterday your letter of the 9th,
 and I had already received one from Mr. Wilberforce on the same
@@ -3607,10 +3400,8 @@ away, but I believe are really in a better state; the appointments
 of Monsieur Didule to the Police and of Marshal Soult to the War
 Department have done some good.
 
-/*
   "Ever yours,
   "WELLINGTON."
-*/
 
 
 Wilberforce was a member of a committee for the relief of the "poor
@@ -3619,10 +3410,8 @@ Marshal Blucher's letter to the Managing Committee after Waterloo is as
 follows.[37]
 
 
-/*
   "CHATILLON SUR SAMBRE,
   "_June 24, 1815_.
-*/
 
 "Are you now satisfied? In eight days I have fought two bloody battles,
 besides five considerable engagements. I have taken one fortress, and
@@ -3632,9 +3421,7 @@ not stop our operations, and if the Austrians and Russians do not
 speedily push forward, we shall finish the game ourselves. Farewell,
 and remember me to all England.
 
-/*
   "BLUCHER.
-*/
 
 
 "It is all very well, but I have twenty-two thousand killed and
@@ -3654,10 +3441,8 @@ behalf." He entreats Wilberforce to be the organ of his gratitude to
 the whole English nation.
 
 
-/*
   _Marshal Blucher to Mr. Wilberforce._
   "BONN, _December 7, 1815_.
-*/
 
 "SIR,--Your letter dated the 31st of October, reached me in safety, and
 with it the cheering intelligence that the English nation, and all the
@@ -3710,9 +3495,7 @@ sympathy of that generous nation.
 consideration; and I have the honour to remain, sir, your most devoted
 servant,
 
-/*
   "BLUCHER."
-*/
 
 
 Lord Holland,[38] described as "truly fascinating, having something of
@@ -3723,12 +3506,10 @@ ought to have imposed conditions on this subject when Ferdinand VII.
 wanted money, instead of giving him the money first."
 
 
-/*
   _Lord Holland to Mr. Wilberforce_.
 
   "HOLLAND HOUSE,
     "_November 13, 1815_.
-*/
 
 "DEAR SIR,--I heard that you were anxious to get some paper on the
 Slave Trade translated into Italian. An Italian gentleman who is upon
@@ -3763,11 +3544,9 @@ have imposed conditions on this and on other subjects, but we gave the
 money first, and he now sets us at defiance. With many apologies for
 the length of my letter,
 
-/*
   "I am, sir, yours truly,
 
   "VASSALL HOLLAND."
-*/
 
 
 Early in 1825, William Wilberforce's brilliant Parliamentary career
@@ -3776,14 +3555,12 @@ letter is the expression of a very general feeling both in the House
 and outside it.
 
 
-/*
   _The Right Hon. Speaker of the House of
   Commons to Mr. Wilberforce._
 
   "PALACE YARD,
 
   "_February 19, 1825_
-*/
 
 "MY DEAR SIR,--With respect to your quitting us for more private
 retirement, permit me to say with the truest sincerity, and in
@@ -3798,11 +3575,9 @@ his talents.
 personal ease, and to the entire restoration of your health, is, my
 dear sir, the sincere wish of your most faithful and respectful
 
-/*
   "Friend and servant,
 
     "C. MANNERS SUTTON."
-*/
 
 
 Lord John Russell's answer to Wilberforce's anti-bribery suggestions at
@@ -3810,13 +3585,11 @@ the time of the first Reform Bill is given below. It is marked "kind
 and pleasing" by Wilberforce.
 
 
-/*
   _Lord John Russell to Mr. Wilberforce._
 
     "SOUTH AUDLEY STREET,
 
       "_June 3_.
-*/
 
 "MY DEAR SIR,--I was very much gratified at receiving your letter, not
 only for the kind sentiments personally expressed towards me, but still
@@ -3838,10 +3611,8 @@ been glad to have read it to the House, but I did not like to do so
 without your permission. Wishing you many years of happiness in your
 retirement, enhanced by reflecting on the usefulness of your past life,
 
-/*
   "I remain, yours faithfully,
     "J. RUSSELL."
-*/
 
 
 Wilberforce writes on the same subject in October, 1831, to an old
@@ -3865,10 +3636,8 @@ On the different effects of the Oxford and Cambridge system on the
 minds of young men, Wilberforce writes to a friend:--
 
 
-/*
   _Mr. Wilberforce to Mr. William Gray._
     "_December 31_, 1830.
-*/
 
 "It is curious to observe the effects of the Oxford system in producing
 on the minds of young men a strong propensity to what may be termed
@@ -3912,10 +3681,8 @@ to the York charities, as to which he "had been reminded in 1831 that
 they were larger than those of any other subscriber."
 
 
-/*
   _Mr. Wilberforce to Mr. Manning.
   "June 11, 1832._
-*/
 
 "I am truly rejoiced, my dear friend, to hear that you are so
 comfortably circumstanced. I also have abundant cause for thankfulness.
@@ -3937,9 +3704,7 @@ The next extract refers to the painting of the well-known picture of
 Wilberforce now in the National Portrait Gallery.
 
 
-/*
   _Sir Thomas Lawrence to Mr. Wilberforce._
-*/
 
 "You make a too flattering apology for sending me but your name in your
 own handwriting. I hardly know what other word in our language could
@@ -3952,13 +3717,10 @@ The date of the following lines of Cowper and also of Hayley is not
 given. They are marked "Verses sent to me by Cowper and Hayley."
 
 
-/*
   _To William Wilberforce, Esqre._
-*/
 
 SONNET.
 
-/P
     Thy country, Wilberforce, with just disdain,
         Hears thee by cruel men and impious called
         Fanatic, for thy zeal to loose th' enthralled
@@ -3975,12 +3737,10 @@ SONNET.
         From all the good on earth, and all the Blest above!
 
     WILLIAM COWPER.
-P/
 
 
 _To William Wilberforce, Esqre, on the preceding Sonnet._
 
-/P
     When Virtue saw with brave disdain
     Lucre's infuriate sons profane
       Her Wilberforce's worth;
@@ -4001,11 +3761,8 @@ _To William Wilberforce, Esqre, on the preceding Sonnet._
     Now shall my favourite Bard be thine:
     My Cowper, guard of glory's shine!
       Shall grave thy merits there."
-P/
 
-/*
   WILLIAM HAYLEY.
-*/
 
 
 [Illustration: BIRTHPLACE OF WILLIAM WILBERFORCE, AT HULL.]
@@ -4031,10 +3788,8 @@ how he exercised "the privilege of a friend," for such he considered
 himself to his daughter, and "told her frankly all her faults."
 
 
-/*
   _Mr. Wilberforce to his daughter Elizabeth.
   "November 30, 1816._
-*/
 
 "This is but a short letter to my dear Elizabeth. When I do address my
 dear girl, I ought to consider how I can best testify my friendship:
@@ -4133,11 +3888,9 @@ happiness at heart, I mean that this friendly regard can alone prompt
 you to such a proof of real attachment."
 
 
-/*
   _Mr. Wilberforce to his daughter Elizabeth._
     "HASTINGS,
       "_January 17, 1817._
-*/
 
 "MY DEAREST LIZZY,--Your letter to-day gives me pleasure. We heard
 from Marianne (Thornton) of her having paid you a visit. Her friendly
@@ -4164,11 +3917,9 @@ The next letter is in a more lively strain and explains to Elizabeth
 the system of Bishop Berkeley.
 
 
-/*
   _Mr. Wilberforce to his daughter Elizabeth._
   "HIGHWOOD HILL,
   "_July 13, 1830_.
-*/
 
 "MY DEAR LIZZY,--If many intentions to write could be admitted as
 making up one letter, you would have to thank me for being so good a
@@ -4229,11 +3980,9 @@ spirit for all her feelings, and all her infirmities. His remedies for
 "solitariness of spirit" are most practical.
 
 
-/*
   _Mr. Wilberforce to his daughter Elizabeth._
     "HIGHWOOD HILL,
        "_July 26, 1830_.
-*/
 
 "MY VERY DEAR LIZZY,--Though, owing to my having been betrayed into
 forgetfulness of the flight of time while sitting under the shade of
@@ -4281,10 +4030,8 @@ correspondence with his son Samuel, aged nine. The father is already
 seeking for a proof of the grand change of conversion in his child.
 
 
-/*
   _Mr. Wilberforce to his son Samuel.
     "September 13, 1814._
-*/
 
 "I was shocked to hear that you are nine years old; I thought it was
 eight. You must take great pains to prove to me that you are nine not
@@ -4299,9 +4046,7 @@ clear proof of the _grand change_ being begun in my dear Samuel at the
 end of my journey."[44]
 
 
-/*
   _"March 25, 1817._
-*/
 
 "I do hope, my dear Samuel, like his great namesake at a still earlier
 period of life, is beginning to turn in earnest to his God. Oh,
@@ -4314,9 +4059,7 @@ our willingly suffering our thoughts to wander and fix themselves on
 any object which happens at the time to interest us."
 
 
-/*
   "_June 5, 1817._
-*/
 
 "MY DEAR SAMUEL,--Loving you as dearly as I do, it might seem strange
 to some thoughtless people that I am glad to hear you are unhappy. But
@@ -4334,9 +4077,7 @@ God for Christ's sake to forgive you and to sanctify you, and in short
 to make you to be born again, as our Saviour expressed it to Nicodemus."
 
 
-/*
   "_July 19th._
-*/
 
 "I will procure and send you Goldsmith's 'Grecian History,' if you will
 read it attentively, though it is by no means so good a history as
@@ -4349,9 +4090,7 @@ subject, but get alone and pray to God to hear and bless you, to take
 away the stony heart and substitute a heart of flesh in its place."
 
 
-/*
   "_August 15th, 1817._
-*/
 
 "The great rule practically for pleasing our Saviour in all the little
 events of the day is to be thinking of Him occasionally and trying to
@@ -4361,9 +4100,7 @@ pain, but trying positively, to _be kind_, to be obedient, to give
 pleasure."
 
 
-/*
   "_November 1, 1817._
-*/
 
 "MY VERY DEAR SAMUEL,--Though some company who are to dine with me are
 already in the drawing-room, I must leave them to themselves for two
@@ -4376,9 +4113,7 @@ is building the house. It is quite a drop of balm into my heart when I
 hear of my dear boys going on well."
 
 
-/*
   "_May 2, 1818._
-*/
 
 "Could you both but look into my heart and there see the tender and
 warm love I feel for you! How my heart bleeds at the idea of your being
@@ -4390,9 +4125,7 @@ declining years, you would want no more powerful motives to Christian
 obedience."
 
 
-/*
   "_April 25, 1818._
-*/
 
 "Our West Indian warfare is begun, and our opponents are commencing
 in the way of some (I won't add an epithet) classes of enemies by the
@@ -4400,9 +4133,7 @@ poisoned arrows of calumny and falsehood. But how thankful should we be
 to live in a country in which the law protects us from personal injury!"
 
 
-/*
   "_June 26, 1818._
-*/
 
 "My dear children little think how often we parents are ruminating
 about them when we are absent from them, perhaps in very bustling
@@ -4414,9 +4145,7 @@ dear Samuel, keep going on well. Prayer and self-denial, as you used to
 be taught when a very little boy, are the grand things."
 
 
-/*
   "_February 13, 1819._
-*/
 
 "I am very glad that you like your new situation. One of the grand
 secrets to be remembered, in order to enable us to pass through life
@@ -4424,9 +4153,7 @@ with comfort, is not to expect too much from any new place or plan, or
 from the accomplishment of any new purpose."
 
 
-/*
   "_March 12, 1819._
-*/
 
 "On the whole, Mr. Hodson's report of you is a gratifying one. But
 there is one ground for doubts and fears, and I hope my beloved child
@@ -4443,9 +4170,7 @@ now bear in mind that this indisposition to work strenuously[46] is one
 of his besetting sins."[47]
 
 
-/*
   "_May 22, 1819._
-*/
 
 "I hear with pleasure of your goings on, and I may add that we all
 thought our dear boy greatly improved when he was last with us. How
@@ -4453,9 +4178,7 @@ delightful will it be to me in my declining years to hear that my
 dearest Samuel is doing credit to his name and family!"
 
 
-/*
   "_May 25, 1819._
-*/
 
 "I do not like to write merely on the _outside_ of this cover, though I
 have time to insert very little within, yet as when you were a little
@@ -4473,9 +4196,7 @@ lavender-water had not oozed out of the bottle; the cork did not seem
 tight. Farewell, my very dear Samuel."
 
 
-/*
   "_September 17, 1819._
-*/
 
 "MY DEAR BOY,--It is a great pleasure to me that you wish to know your
 faults. Even if we are a little nettled when we first hear of them,
@@ -4495,9 +4216,7 @@ of holiness we have obtained, the degree (in other words) in which we
 have improved the talents committed to our stewardship."
 
 
-/*
   "WEYMOUTH, _September, 1820_.
-*/
 
 "I have this day learned for the first time that there were to be
 oratorios at Gloucester, and that some of the boys were to go to them.
@@ -4513,9 +4232,7 @@ than myself of music), but was to go to the relief of the clergy widows
 and children. I say therefore yes. Q.E.D."
 
 
-/*
   "_September 4, 1820._
-*/
 
 "I am persuaded that my dear Samuel will endeavour to keep his
 mind in such a right frame as to enable him to enjoy the pleasures
@@ -4529,9 +4246,7 @@ seriousness. As I have often told you, it is the grand test by which
 the state of a Christian may always be best estimated."
 
 
-/*
   "BATH, _September 23, 1820_.
-*/
 
 "Did you ever cross a river with a horse in a ferry boat? If so, you
 must have observed, if you are an observing creature, which if you are
@@ -4567,18 +4282,14 @@ associating Him thus with all the little circumstances of life, it is
 that we are to live in His love and fear continually."
 
 
-/*
   "_November 20, 1820._
-*/
 
 "We quite enjoyed your pleasure in Robert's visit. In truth the
 gratification we parents derive from our children's innocent, much more
 their commendable, enjoyments is one of the greatest of our pleasures."
 
 
-/*
   "BATH, _November 18, 1820_.
-*/
 
 "MY DEAR SAMUEL.--I am sorry to hear that your examination is, or
 part of it at least, disadvantageous to you. Does not this arise in
@@ -4667,9 +4378,7 @@ young person's indulgence and prosperity) are good neither for man nor
 boy, neither for you nor for myself."[48]
 
 
-/*
   "DOWNING STREET, _December 11, 1820_.
-*/
 
 "Three words, or, rather, five lines, just to assure you that in the
 midst of all our Parliamentary business I do not forget my very dear
@@ -4683,26 +4392,20 @@ The mutual affection of father and son is touchingly shown in many
 passages scattered through their letters. Two may serve as specimens:--
 
 
-/*
   "_February 24, 1821._
-*/
 
 "Perhaps at the very time of your being occupied in reading my
 sentiments, I may be engaged in calling you up before my mind's eye and
 recommending you to the throne of grace."
 
 
-/*
   "_September 5._
-*/
 
 "Probably at the very same time you will be thinking of me and holding
 a conversation with me."
 
 
-/*
   "LONDON, _June 30, 1821_.
-*/
 
 "MY VERY DEAR BOY,--I congratulate you cordially on your success, and I
 rejoice to hear of your literary progress. But I should have been still
@@ -4726,9 +4429,7 @@ hurry over your devotions, still less omit them. Farewell, my dearest
 boy."
 
 
-/*
   "_1821._
-*/
 
 "In speaking of the pros and cons of Maisemore, you spoke of one
 great boy with whom you disagreed. I always meant to ask you about
@@ -4759,9 +4460,7 @@ to draw on him Mr. Hodson's eulogium, and so I trust he will continue
 doing."
 
 
-/*
   "_October 12, 1821._
-*/
 
 "It is quite delightful to me to receive such an account of you as is
 contained in the letter Mama has this day had from Mr. Hodson. Oh that
@@ -4769,9 +4468,7 @@ I may continue to have such reports of my dear Samuel wherever he may
 be. They quite warm his old father's heart, and melt his mother's."
 
 
-/*
   "_February 20, 1822._
-*/
 
 "You never can have a friend, your dear affectionate mother alone
 excepted, whose interests and sympathies are so identically the
@@ -4829,9 +4526,7 @@ your heart. May I live, if it please God, to see you an honour to your
 family and a blessing to your fellow-creatures."
 
 
-/*
   "_March 30, 1822._
-*/
 
 "It is scarcely possible for children to have an adequate conception of
 the delight it gives to a parent's heart to receive a favourable report
@@ -4843,9 +4538,7 @@ now furnish. And then, when I am dead and gone, he will remember his
 old father, and the letter he had from him on Sunday, 31st March, 1822."
 
 
-/*
   "_April, 1822._
-*/
 
 "Though honestly my purse is in such a state that I cannot buy books
 except very sparingly, I beg you will buy Hume and Smollett, 13 vols.
@@ -4855,9 +4548,7 @@ presents for Scotch pints--each double. Had I as much money as I have
 good will you should wish for no book that I would not get you."
 
 
-/*
   "_October 22, 1822._
-*/
 
 "The train of your idea and feelings is precisely that which I believe
 is commonly experienced at the outset of a religious course. It was
@@ -4930,9 +4621,7 @@ stop. 'With thee conversing I forget all course of seasons and their
 change.'"
 
 
-/*
   "_October 26, 1822._
-*/
 
 "I cannot to-day send you the account of _time_, but I will transmit
 it to you. It was a very simple business, and the chief object was to
@@ -4945,9 +4634,7 @@ responsibility and to practise self-examination daily as to the past
 and the future day."
 
 
-/*
   "_March 17, 1822._
-*/
 
 "No man has perhaps more cause for gratitude to God than myself. But
 of all the various instances of His goodness, the greatest of all,
@@ -4963,9 +4650,7 @@ children when I am no more. I hope you and the rest will never act so
 as to be unworthy of the connections I have formed."
 
 
-/*
   "_November 22, 1822._
-*/
 
 "Robert Grant's[49] election has cost my eyes more than they could well
 expend on such a business. But both his hereditary, and his personal,
@@ -5011,9 +4696,7 @@ felt it a desolate arrangement, but Wilberforce, as was his wont, finds
 certain advantages in the very discomforts of the plan.
 
 
-/*
   "_December 5, 1822._
-*/
 
 "I believe I never answered your question who it was that advised me to
 retire from Parliament. I entirely forget. Your question, Will there
@@ -5074,9 +4757,7 @@ compared, I mean, with my situation, and from the peculiar duties and
 circumstances of my life."
 
 
-/*
   "_March 23, 1823._
-*/
 
 "Above all remember _the one thing needful_. I had far rather that
 you should be a true Christian than a learned man, but I wish you to
@@ -5093,9 +4774,7 @@ well-being of the parties concerned." The main point was that all negro
 children born after a certain day were to be free.
 
 
-/*
   "_May 17, 1832._
-*/
 
 "The debate was by no means so interesting as we expected. Buxton's
 opening speech was not so good as his openings have before been. His
@@ -5133,9 +4812,7 @@ be if they all can conscientiously enter into the ministry, that most
 useful and most honourable of all human employments."[50]
 
 
-/*
   "_June 14._
-*/
 
 "All may be done through prayer--almighty prayer, I am ready to say;
 and why not? for that it is almighty is only through the gracious
@@ -5145,9 +4822,7 @@ self-examination not by your prayers, but by what you find to be the
 effects of them on your character, tempers, and life."
 
 
-/*
   "_July 12, 1823._
-*/
 
 "It has often been a matter of grief to me that both Henry and Robert
 have a sad habit of appearing, if not of being, inattentive at church.
@@ -5185,9 +4860,7 @@ He speaks strongly against gratifying all the cravings of fashion,
 thoughtlessness, or caprice.
 
 
-/*
   "BARMOUTH, _October 14, 1823._
-*/
 
 "MY VERY DEAR SAMUEL,--I again take up my pen to give you my sentiments
 on the important subject on which I promised to write to you, and on
@@ -5351,16 +5024,12 @@ you safely through the ordeal into which you are just about to enter,
 and at length receive you into that blessed world where danger will be
 over, and all will be love and peace and joy for evermore.
 
-/*
   "I am ever affectionately yours,
 
   "W. WILBERFORCE."
-*/
 
 
-/*
   "_November 5, 1823._
-*/
 
 "I trust I scarcely need assure you that I must always wish to make you
 comfortable _quoad_ money matters, and on the other hand that the less
@@ -5376,9 +5045,7 @@ consideration it is that our Saviour loves His people better than we
 love each other, than an earthly parent loves his child."
 
 
-/*
   "_November 7, 1823._
-*/
 
 "There is a vile and base sentiment current among men of the world
 that, if you want to preserve a friend you must guard against having
@@ -5401,9 +5068,7 @@ children towards me is a source of the purest and greatest pleasure I
 do or can enjoy."[51]
 
 
-/*
   "_August 6, 1824._
-*/
 
 "I can bear silence no longer, and I beg you will in future send me
 or your dear mother a something, be it ever so short, in the way of a
@@ -5418,9 +5083,7 @@ I have mentioned, and I have the satisfaction of knowing that you have
 the privilege of calling them your friends. Is it yet too late?"
 
 
-/*
   "_September 10, 1824._
-*/
 
 "As I was talking to your mother this morning on money matters it shot
 across my mind that you had desired me to send you a supply, which I
@@ -5453,9 +5116,7 @@ parsimony" as regarded his charities--even when he had to reduce his
 expenses he spent £3,000[52] in one year on charity.
 
 
-/*
   "_December 10, 1824._
-*/
 
 "I have deemed it quite a duty on this delicious day to prolong my
 country walk in a _tête-à-tête_ with your dear mother, a _tête-à-tête_,
@@ -5476,9 +5137,7 @@ right constitution of the habits tends to produce happiness, and you
 may proceed with the train of ideas I have called up in your mind."
 
 
-/*
   "_October 26, 1825._
-*/
 
 "You ask me about your Uncle Stephen's having been a newspaper
 reporter. He was. The case was this. At the age of, I believe,
@@ -5515,9 +5174,7 @@ than immediately broke out when Stephen had (indeed before he had
 completely) closed his declaration."
 
 
-/*
   "_December 16, 1825._
-*/
 
 "It is Henry Thornton[53] that was connected with the house of Pole
 & Co. He became a partner about five months ago. The storm through
@@ -5537,9 +5194,7 @@ he will lose no money. He has borne the trial with the calmness of a
 veteran."
 
 
-/*
   "_Sunday, January 22, 1826._
-*/
 
 "You may have heard me mention, that when in my solitary bachelor state
 I was alone all day on the Sunday, I used after dinner to call up
@@ -5577,9 +5232,7 @@ but much that I think is likely to be eminently useful; and may our
 Heavenly Father bless to you the perusal of it...."
 
 
-/*
   "_February 27, 1826._
-*/
 
 "Let me assure you that you give me great pleasure by telling me
 unreservedly any doubts you may entertain of the propriety of my
@@ -5621,9 +5274,7 @@ domestic dances. It is not the act, the _saltus_, but the _whole tone_
 of an assembly."
 
 
-/*
   "CLIFTON, _May 27, 1826._
-*/
 
 "I am very glad to think that you will be with us. Your dear mother's
 spirits are not always the most buoyant, and, coming first to reside
@@ -5644,9 +5295,7 @@ the world, as one who is waiting for the coming of the Lord Jesus
 Christ."[54]
 
 
-/*
   "_April 20, 1826._
-*/
 
 "I would gladly fill my sheet, yet I can prescribe what may do almost
 as well. Shut your door and muse until you fancy me by your side, and
@@ -5654,9 +5303,7 @@ then think what I should say to you, which I dare say your own mind
 would supply."
 
 
-/*
   "_September 30._
-*/
 
 "I am thankful to reflect that at the very moment I am now thinking of
 you and addressing you; you also are probably engaged in some religious
@@ -5692,9 +5339,7 @@ other's hands on meeting, "May we meet together in _hell_."' The answer
 to the appeal for advice is as follows:--
 
 
-/*
   "_July 28, 1826._
-*/
 
 "I will frankly confess to you that the clearness and strength of the
 command of the apostle, 'Children, obey your parents in all things'
@@ -5774,10 +5419,8 @@ would wish. He is a man of the greatest simplicity of character, only
 rather too quiet and silent."
 
 
-/*
   "HIGHWOOD HILL,
     "_November 27, 1826._
-*/
 
 "I hope you are pleased, I assure you I am, with the result of your
 B.A. course. And I scarcely dare allow myself to wish that you may be
@@ -5803,9 +5446,7 @@ I am thankful for being able to say that the exposure to cold and dew
 hitherto has not hurt her--perhaps it has been beneficial."
 
 
-/*
   "_August 25, 1827._
-*/
 
 "I was lately looking into Wrangham's 'British Biography,' and I
 was forcibly struck by observing that by far the larger part of the
@@ -5847,9 +5488,7 @@ as to which his father remarks: "Viewed in a worldy light, the
 connection cannot be deemed favourable to either of you."
 
 
-/*
   "_March 20, 1828._
-*/
 
 "The cheerfulness, which at an earlier period of my life might have
 been a copious spring supplying my letters with a stream of pleasant
@@ -5860,9 +5499,7 @@ kindly warmth of heart with which I write to my friends and least of
 all to my children."
 
 
-/*
   "_July 22, 1828._
-*/
 
 "I am glad that any opportunity for your coming forward as a public
 speaker has occurred, I mean an opportunity proper for you to
@@ -5892,9 +5529,7 @@ state, and as therefore requiring the converting grace of God, than as
 merely wanting a little reformation?"
 
 
-/*
   "_November 20, 1828._
-*/
 
 "Has Sargent[56] heard of the fresh explosion in the British and
 Foreign Bible Society? I truly and deeply regret it. It has proceeded
@@ -5912,9 +5547,7 @@ had opposition, and is appointed by the Duke of Wellington, solely we
 suppose on the ground of superior merit."
 
 
-/*
   "_February 20, 1829._
-*/
 
 "Legh Richmond,[57] though an excellent man, was not a man of
 refinement or of taste. I cannot deny the justice of your remarks
@@ -5956,9 +5589,7 @@ near Preston, in Lancashire, made by the Bishop of Chester to Samuel
 Wilberforce.
 
 
-/*
   "_March 3, 1829._
-*/
 
 "Whether regarded in relation to your bodily strength, your spiritual
 interests, or to prudence in affairs, I should be disposed to advise
@@ -5994,9 +5625,7 @@ nothing. Most likely a curate would be indispensable."
 On the same topic Wilberforce writes again:--
 
 
-/*
   "_March 17th, 1829._
-*/
 
 "I ought to tell you that in the reasons I assigned to the Bishop
 for declining his offer, one, and in itself perhaps the strongest,
@@ -6035,9 +5664,7 @@ and now profits much from a jumbling pony-chair; its shaking quality
 renders its value to her double what it would be otherwise."[58]
 
 
-/*
   "_March 19, 1829._
-*/
 
 "In speaking of Whately's book I ought to have said that I had not got
 to the part in which he speaks of imputed righteousness. I remember it
@@ -6102,9 +5729,7 @@ instead of being cumbered about many things; yet she is in the path of
 duty, and that is all in all."
 
 
-/*
   "_September 7, 1829._
-*/
 
 "An admirable expedient has this moment suggested itself to me, which
 will supersede the necessity for my giving expression to sentiments and
@@ -6135,9 +5760,7 @@ honoured instrument of bringing to the fold of Christ, have an abundant
 entrance into the everlasting kingdom of God."
 
 
-/*
   "_September 28, 1829._
-*/
 
 "How much do they lose of comfort, as well as, I believe, in incentives
 to gratitude and love, and if it be not their own fault thereby in
@@ -6160,9 +5783,7 @@ continuity, as much as those which we are apt to regard as of greater
 size and consequence."
 
 
-/*
   "_November 21, 1829._
-*/
 
 "We have been for a few days at Battersea Rise. But your mother will, I
 doubt not, have told you the memorabilia of this visit, and especially
@@ -6176,9 +5797,7 @@ degree, my letters were to me during my Parliamentary life, and even to
 this day."
 
 
-/*
   "_December 17, 1829._
-*/
 
 "We ought not to expect this life to flow on smoothly without rubs
 or mortification. Indeed, it is a sentiment which I often inculcate
@@ -6207,10 +5826,8 @@ and _joy_ in believing, and may abound in hope, it is added, through
 the power of the Holy Ghost."
 
 
-/*
   "HIGHWOOD HILL,
     "_December 31, 1829._
-*/
 
 "MY DEAR CHILDREN,--For to both of you I address myself. An idea, which
 for so old a fellow as myself you will allow somewhat to be deserving
@@ -6272,10 +5889,8 @@ labourers as depriving them of the winter threshing work. Wilberforce
 seems to have shared this feeling.
 
 
-/*
   "HIGHWOOD HILL,
     "_November 25, 1830._
-*/
 
 "Your mother suggests that a threshing machine used to be kept in one
 of your barns. If so I really think it should be removed. I should be
@@ -6290,9 +5905,7 @@ abolition of some of the great elements in the physical world would
 be; the extinction, for instance, of the principle of gravity."
 
 
-/*
   "_December 9, 1830._
-*/
 
 "I have been delaying the books that all might go together. Mather's
 'Magnalia'[63] shall be one of them. There is a very curious passage in
@@ -6310,9 +5923,7 @@ force me out, and Joseph declares the letters will be too late. So
 farewell."
 
 
-/*
   "_December 17, 1830._
-*/
 
 "I have always thought that your having a strong virtuous attachment
 when you first went to the University was a great security to you. The
@@ -6334,9 +5945,7 @@ sermons, of whom, I think he said, thirty only appeared in the sequel
 to be permanently changed."
 
 
-/*
   "_January 4, 1831._
-*/
 
 "You are now a man possessed of as much leisure as you are ever likely
 to possess. What think you of laying in materials for a Doctrinal and
@@ -6372,10 +5981,8 @@ daughter Elizabeth's marriage.
 
 _Mr. Wilberforce to Mrs. Samuel Wilberforce._
 
-/*
   "HIGHWOOD HILL,
     "_January 12, 1831._
-*/
 
 "MY DEAR EMILY,--We had a delightful day yesterday for our ceremony,
 and after the indissoluble knot had been tied in due form, the parties
@@ -6407,18 +6014,14 @@ certain young lady, who was a sort of guardian angel hovering around
 him in fancy and exerting a benign influence over the sensibility and
 tenderness of his lively spirit. Farewell, my dear Emily.
 
-/*
   "Believe me, begging a kiss to baby,
     "Ever affectionately yours,
       "W. WILBERFORCE."
-*/
 
 
 _Mr. Wilberforce to the Rev. Samuel Wilberforce._
 
-/*
   "_February 8, 1831._
-*/
 
 "MY DEAR SAMUEL,--Pray both for your mother and for poor William that
 they may be delivered from [Greek: merimna]. The former, alas! lies
@@ -6440,10 +6043,8 @@ blessing of your affectionate father,
 "W. WILBERFORCE."
 
 
-/*
   "HIGHWOOD HILL,
     "_March 4, 1831._
-*/
 
 "I will frankly confess to you that I almost tremble for the
 consequences of Lord Russell's plan of Reform if it should be carried.
@@ -6472,10 +6073,8 @@ propositions:--
 
 _Mr. Wilberforce to Mr. Babington._
 
-/*
   "HIGHWOOD HILL,
     "_March 14, 1831._
-*/
 
 "MY DEAR TOM,--I fear you will be again disposed to accuse me of
 treating you with neglect (not, I hope, with unkindness) in suffering
@@ -6498,9 +6097,7 @@ to know your sentiments on the plan."
 
 _Mr. Wilberforce to the Rev. Samuel Wilberforce._
 
-/*
   "_April 8, 1831._
-*/
 
 "And now, my dear Samuel, we have commenced our wanderings. I write
 from Daniel Wilson's, who treats us with the utmost kindness."
@@ -6510,10 +6107,8 @@ remaining years of his life with his sons and with his friends. In his
 own language, he "became a wanderer without any certain dwelling-place."
 
 
-/*
   "KENSINGTON GORE,
     "_April 20th._
-*/
 
 "It must be three weeks or more since Lord Brougham, when on the
 woolsack, called Stephen,[64] then attending the House of Lords, quasi
@@ -6533,9 +6128,7 @@ had destined it to me. Robert would not accept any living which would
 not afford me a suitable residence."
 
 
-/*
   "_April 23, 1831._
-*/
 
 "You cannot conceive how little time I appear to have at my own command
 while passing our lives in this vagarious mode, which, however, calls
@@ -6548,9 +6141,7 @@ times directed against me. But on the whole few men have suffered from
 them so little as myself."
 
 
-/*
   "BATH, _October 19, 1831._
-*/
 
 "I am but poorly, and I am bothered (a vulgar phrase, but having been
 used in the House of Lords I may condescend to adopt it) with incessant
@@ -6568,9 +6159,7 @@ to you in the state of mind in which I am at the moment, though I
 should not otherwise have selected it for that purpose.
 
 
-/*
   "_Friday, 12 o'clock, October 21st._
-*/
 
 "Our American friend has left us this morning But, alas! he has
 requested me to write in his album. What a vile system is the album
@@ -6608,10 +6197,8 @@ them. Affectionate remembrances to dear Emily, and a kiss to sweet
 baby."
 
 
-/*
   "BLAIZE CASTLE,[65]
     "_October 31, 1831._
-*/
 
 "You will hear what dreadful work has been going on at Bristol for the
 last eight and forty hours. Sir Charles Wetherell[66] escaped from
@@ -6645,9 +6232,7 @@ hurry your mother to a certain quiet parsonage--though, alas! I cannot
 but fear for the Church in these days."
 
 
-/*
   "BLAIZE CASTLE, _November 2._
-*/
 
 "The Bristol riots, though in some particulars the accounts were
 as usual exaggerated, were quite horrible, and the _great_ events
@@ -6672,9 +6257,7 @@ in all our great cities and neighbourhoods a civil police, properly
 armed and drilled. And thus, as usual, out of evil good may arise."
 
 
-/*
   "BATH, _November 13, 1831._
-*/
 
 "I think you know Mr. Pearse of this place, an excellent and very
 agreeable man, and master of the Grammar School at this place, a large
@@ -6721,9 +6304,7 @@ think Isaiah, but am not sure, the four Gospels, Acts, 1st Timothy,
 good."
 
 
-/*
   "BATH, _December 6, 1831._
-*/
 
 "I am unaffectedly sorry for having been apparently so dilatory in
 complying with your request for hymns and tunes. I use the word
@@ -6754,9 +6335,7 @@ hope I shall be able to go on allowing my children what is necessary
 for their comfort."
 
 
-/*
   "_January 19, 1832._
-*/
 
 "St. John says, you will remember, 'I have no greater joy than to
 know that my children walk in the truth.' This he could declare
@@ -6779,9 +6358,7 @@ even for those who are far less advanced than myself in the journey of
 life."
 
 
-/*
   "BATH, _June 14, 1832._
-*/
 
 "I forget whether you know the Dean of Winchester[69] or not. We have
 many a discussion together, and I now and then stroke his plumage
@@ -6794,9 +6371,7 @@ forty years. And as a proof I assigned the numerous editions of almost
 all the publications of family prayers, beginning with the Rector of
 St. Botolph's (Bishop of London's)."
 
-/*
   "_July 12, 1832._
-*/
 
 
 "Though I do not like to mention it to your mother, I feel myself
@@ -6846,9 +6421,7 @@ one more effort to secure the freedom of the slaves, does the weary,
 diligent hand finally "lay down the pen."
 
 
-/*
   "_December 18, 1832._
-*/
 
 "Although we should use great modesty in speculating on the invisible
 and eternal world, yet we may reasonably presume from intimations
@@ -6864,9 +6437,7 @@ we shall be enabled to understand the causes of various events which at
 the time had appeared mysterious."
 
 
-/*
   "_December 28, 1832._
-*/
 
 "I should wish to suggest to you an idea that arises from a passage in
 a letter from William Smith.[71] The idea is that it might have a very
