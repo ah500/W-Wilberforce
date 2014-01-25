@@ -122,8 +122,8 @@ LAVINGTON, _September 1, 1897_.
 CONTENTS
 
 
-/*
-                          PAGE
+/*[2,70]
+                                    PAGE
 
 LETTERS FROM PITT                      1
 
@@ -140,26 +140,24 @@ HOME LETTERS                         163
 ILLUSTRATIONS
 
 
-/*
+/*[2,70]
                                                                  PAGE
 
 1. WILLIAM WILBERFORCE, M.P. FOR THE COUNTY
-OF YORK                                          _Frontispiece._
+OF YORK                                               _Frontispiece._
 (_From a picture by J. Rising._)
 
-2. WILBERFORCE OAK                         _Facing page_      17
+2. WILBERFORCE OAK                              _Facing page_      17
 (At the foot of an old tree at Hollwood, after a conversation
 with Pitt, Wilberforce resolved to give notice in
 the House of Commons of his intention to bring forward
 the Abolition of the Slave Trade.)
 
-3. THE RIGHT HONOURABLE WILLIAM PITT
-                                           _Facing page_      79
+3. THE RIGHT HONOURABLE WILLIAM PITT            _Facing page_      79
 (_From a plate taken from an original drawing by the late
 Mr. Sayers._)
 
-4. BIRTHPLACE OF WILLIAM WILBERFORCE AT
-HULL                                      _Facing page_      163
+4. BIRTHPLACE OF WILLIAM WILBERFORCE AT        _Facing page_      163
 
 5. SAMUEL WILBERFORCE, AGED 29                    "               245
 (_From a drawing by George Richmond._)

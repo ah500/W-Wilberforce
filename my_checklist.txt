@@ -1,7 +1,5 @@
 Stage 2:
 
-beautify ascii tables /*, protect from rewrap with [2,70]
-
 format image captions
 
 move footnotes to correct location
