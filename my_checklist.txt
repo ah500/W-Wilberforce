@@ -1,6 +1,5 @@
 Stage 2:
 
-search for [1-9]-[1-9] and remove the dashes from fractions
 gutcheck
 check my project notes
 search for *
