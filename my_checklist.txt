@@ -1,10 +1,5 @@
 Stage 3:
 
-
-process images
-save as jpge and try to get under 100KB
-Look on TIA for alternatives if the provided images have problems.
-
 open pre_split file
 rewrap each /P ... P/ section (or if lots rewrap whole book)
 Check for [oe] and replace with &oelig;
