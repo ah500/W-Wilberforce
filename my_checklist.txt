@@ -1,10 +1,5 @@
 Stage 3:
 
-Open HTML palette and choose options
-apply auto HTML conversion
-	save file (with a new name) and view in a browser
-	page through file looking for systematic errors, start over if it's bad!
-
 Start at the top of the document and match each element to the images especially check 
 	front material
 	TOC - try copying from the plain text version and adding <pre> </pre> tags
