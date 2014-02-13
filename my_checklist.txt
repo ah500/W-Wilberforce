@@ -1,6 +1,5 @@
 Stage 3:
 
-Check for [symbol] and replace appropriately
 move footnotes to correct place (usually bottom of file)
 
 Open HTML palette and choose options
@@ -79,5 +78,3 @@ http://www.pgdp.net/wiki/Post-Processing_Advice#ppg
 
 
 My notes:
-Put Greek back into HTML version.
-Add oe ligatures for C[oe]lebs (*3) and subp[oe]na'd (*1) back in html versions.
