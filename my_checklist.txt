@@ -1,7 +1,5 @@
 Stage 3:
 
-open pre_split file
-rewrap each /P ... P/ section (or if lots rewrap whole book)
 Check for [oe] and replace with &oelig;
 Check for [symbol] and replace appropriately
 move footnotes to correct place (usually bottom of file)

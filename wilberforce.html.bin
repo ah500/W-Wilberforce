@@ -95,7 +95,7 @@
  'Pg094' => {'offset' => '2481.50', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
  'Pg095' => {'offset' => '2481.50', 'label' => 'Pg 79', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg096' => {'offset' => '2512.52', 'label' => 'Pg 80', 'style' => '"', 'action' => '+1', 'base' => ''},
- 'Pg097' => {'offset' => '2548.50', 'label' => 'Pg 81', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg097' => {'offset' => '2548.54', 'label' => 'Pg 81', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg098' => {'offset' => '2564.2', 'label' => 'Pg 82', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg099' => {'offset' => '2564.2', 'label' => 'Pg 83', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg100' => {'offset' => '2569.27', 'label' => 'Pg 84', 'style' => '"', 'action' => '+1', 'base' => ''},
@@ -175,7 +175,7 @@
  'Pg174' => {'offset' => '4958.26', 'label' => 'Pg 158', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg175' => {'offset' => '4987.47', 'label' => 'Pg 159', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg176' => {'offset' => '5020.48', 'label' => 'Pg 160', 'style' => '"', 'action' => '+1', 'base' => ''},
- 'Pg177' => {'offset' => '5062.42', 'label' => 'Pg 161', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg177' => {'offset' => '5062.46', 'label' => 'Pg 161', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg178' => {'offset' => '5102.2', 'label' => 'Pg 162', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg179' => {'offset' => '5102.2', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
  'Pg180' => {'offset' => '5102.2', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
@@ -1833,30 +1833,30 @@ $::proofers{'305'}[4] = 'a';
 $::proofers{'305'}[5] = 'a';
 
 $::operationshash{'Check words with unicode chars > FF'}='2014-01-18 16:22';
-$::operationshash{'Check Stealthos Word Frequency'}='2014-01-18 14:43';
 $::operationshash{'pptxt'}='2014-01-18 14:43';
-$::operationshash{'Check hyphens'}='2014-01-18 16:22';
+$::operationshash{'Check Stealthos Word Frequency'}='2014-01-18 14:43';
+$::operationshash{'Found last page separator'}='2014-01-18 14:38';
 $::operationshash{'Begin Page Separators Fixup'}='2014-01-18 14:35';
+$::operationshash{'Check hyphens'}='2014-01-18 16:22';
 $::operationshash{'Open C:\Users\Anna\Distributed_Proofreaders\PPing\PP_in_progress\PPing\W-Wilberforce\projectID45de412a6517f.txt'}='2014-01-18 14:30';
-$::operationshash{'Open C:\Users\Anna\Distributed_Proofreaders\PPing\PP_in_progress\PPing\W-Wilberforce\wilberforce.html'}='2014-01-25 17:39';
 $::operationshash{'Fixup Routine'}='2014-01-12 16:35';
+$::operationshash{'Open C:\Users\Anna\Distributed_Proofreaders\PPing\PP_in_progress\PPing\W-Wilberforce\wilberforce.html'}='2014-02-13 20:48';
 $::operationshash{'Moved footnotes to landing zone'}='2014-01-18 17:11';
+$::operationshash{'Footnote check passed'}='2014-01-18 17:11';
+$::operationshash{'Remove blank lines before page separators'}='2014-01-18 17:11';
+$::operationshash{'Reindex footnotes'}='2014-01-18 17:11';
+$::operationshash{'Gutcheck'}='2014-01-18 16:17';
+$::operationshash{'Check emdashes'}='2014-01-18 16:21';
+$::operationshash{'Check , Upper'}='2014-01-18 16:21';
 $::operationshash{'Footnote Fixup'}='2014-01-18 17:05';
 $::operationshash{'Open C:\Users\Anna\Distributed_Proofreaders\PPing\PP_in_progress\PPing\Wilberforce\projectID45de412a6517f.txt'}='2014-01-11 18:25';
 $::operationshash{'Word Frequency'}='2014-01-18 16:21';
+$::operationshash{'Check Accents'}='2014-01-18 16:22';
 $::operationshash{'Check words with possible ligatures'}='2014-01-18 16:21';
 $::operationshash{'Check . lower'}='2014-01-18 16:22';
-$::operationshash{'Found last page separator'}='2014-01-18 14:38';
-$::operationshash{'Footnote check passed'}='2014-01-18 17:11';
-$::operationshash{'Remove blank lines before page separators'}='2014-01-18 17:11';
-$::operationshash{'Gutcheck'}='2014-01-18 16:17';
-$::operationshash{'Reindex footnotes'}='2014-01-18 17:11';
-$::operationshash{'Check emdashes'}='2014-01-18 16:21';
-$::operationshash{'Check , Upper'}='2014-01-18 16:21';
-$::operationshash{'Check Accents'}='2014-01-18 16:22';
 $::operationshash{'Remove end-of-line spaces'}='2014-01-12 16:36';
 
-$::bookmarks[0] = '6940.45';
+$::bookmarks[0] = '2.0';
 
 $::pngspath = 'C:\Users\Anna\Distributed_Proofreaders\PPing\PP_in_progress\PPing\W-Wilberforce\page_images\\';
 
