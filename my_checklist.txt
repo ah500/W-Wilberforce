@@ -1,7 +1,5 @@
 Stage 3:
 
-move footnotes to correct place (usually bottom of file)
-
 Open HTML palette and choose options
 apply auto HTML conversion
 	save file (with a new name) and view in a browser
