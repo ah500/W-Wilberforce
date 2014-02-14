@@ -10,9 +10,6 @@ hyperlink (make sure links big enough, espec footnotes)
 	footnotes
 	TN as required
 
-Write and spell check Transcriber's Note
-format TN
-
 Check title at top of project is correct
 
 Add info for a cover image if available
