@@ -1,14 +1,5 @@
 Stage 3:
 
-remove unwanted css classes
-
-Check accessability
-
-link checker - removed unused anchors (except page anchors)
-run tidy
-
-pphtml
-
 apply any fixes found in HTML version to the plain text version
 apply any smooth reading comments to both files
 
