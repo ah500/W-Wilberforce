@@ -3,8 +3,6 @@ Stage 3:
 Try to declare a few hrs and use <hr class= rather than style=
 Remeber that <h1> and <h2> get new pages in kindles... :(
 
-Check title at top of project is correct
-
 Add info for a cover image if available
 
 find orphaned markup (in HTML palette)
