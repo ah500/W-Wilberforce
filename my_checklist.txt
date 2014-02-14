@@ -1,8 +1,5 @@
 Stage 3:
 
-apply any fixes found in HTML version to the plain text version
-apply any smooth reading comments to both files
-
 upload finished project
 	create new folder
 	copy in etext files, bin files html files, images dir if needed by html
