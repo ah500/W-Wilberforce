@@ -9,9 +9,6 @@ Check accessability
 link checker - removed unused anchors (except page anchors)
 run tidy
 
-HTML validation
-CSS validation
-
 pphtml
 
 apply any fixes found in HTML version to the plain text version
