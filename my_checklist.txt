@@ -1,21 +1,5 @@
 Stage 3:
 
-Start at the top of the document and match each element to the images especially check 
-	front material
-	TOC - try copying from the plain text version and adding <pre> </pre> tags
-	    - or do as a list, e.g. like in sea monsters
-	index 
-	poems
-	chapter headings
-	images - give size of images
-		- regex to put link to big image around images: 
-			search: <img src=("images/[0-9i_]+)_s.jpg"
-			replace: <a href=$1.jpg">\n<img src=$1_s.jpg"
-
-		Then
-			search: title="" />\n
-			replace: title="" />\n</a>\n
-	end material (adverts)
 Try to declare a few hrs and use <hr class= rather than style=
 Remeber that <h1> and <h2> get new pages in kindles... :(
 
