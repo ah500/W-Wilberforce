@@ -6,10 +6,6 @@ Remeber that <h1> and <h2> get new pages in kindles... :(
 Add info for a cover image if available
 
 remove unwanted css classes
-Check for allcaps smallcaps:
-	search <span class="smcap">(\n*[^a-z<]+)</span> 
-	replace <span class="smcaplc">$1</span>
-	add: .smcaplc  { text-transform: lowercase; font-variant: small-caps; }  to CSS
 
 Check accessability
 
