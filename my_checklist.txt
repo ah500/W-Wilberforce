@@ -5,8 +5,6 @@ Remeber that <h1> and <h2> get new pages in kindles... :(
 
 Add info for a cover image if available
 
-Check for [**
-
 remove unwanted css classes
 Check for allcaps smallcaps:
 	search <span class="smcap">(\n*[^a-z<]+)</span> 
