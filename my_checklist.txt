@@ -1,7 +1,5 @@
 Stage 3:
 
-Add info for a cover image if available
-
 remove unwanted css classes
 
 Check accessability
